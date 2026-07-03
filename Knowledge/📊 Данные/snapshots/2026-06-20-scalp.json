@@ -1,0 +1,32 @@
+{
+  "timestamp": 1781949601,
+  "datetime": "2026-06-20",
+  "type": "scalp",
+  "strategy_params": {
+    "min_mc": 30000,
+    "max_mc": 300000,
+    "min_vol_mc_ratio": 5,
+    "max_bot_rate": 0.5,
+    "gold_zone_min": 50000,
+    "gold_zone_max": 150000
+  },
+  "candidates": [
+    {
+      "address": "Eer2xrxwtG9PBuYn5iqqdg7h4wsnUcr9ShDU8jfQEXQA",
+      "symbol": "glippy",
+      "mc": 99090.15,
+      "liquidity": 17458.85,
+      "volume": 665995.77,
+      "vol_mc_ratio": 6.72,
+      "smart_money": 1,
+      "bot_rate": 0.0427,
+      "holders": 2169,
+      "price": 9.9090152e-05,
+      "source": "trenches"
+    }
+  ],
+  "count": 1,
+  "gold_zone_count": 1,
+  "with_sm_count": 1,
+  "with_sm3_count": 0
+}

@@ -1,0 +1,84 @@
+{
+  "timestamp": 1781085601,
+  "datetime": "2026-06-10",
+  "type": "scalp",
+  "strategy_params": {
+    "min_mc": 30000,
+    "max_mc": 300000,
+    "min_vol_mc_ratio": 5,
+    "max_bot_rate": 0.5,
+    "gold_zone_min": 50000,
+    "gold_zone_max": 150000
+  },
+  "candidates": [
+    {
+      "address": "7x4bDz34fpVEkEZmH33rARTCLHsYc39UiPoFxNxDQjoY",
+      "symbol": "SPCX",
+      "mc": 76123.6,
+      "liquidity": 75364.2,
+      "volume": 6466480.0,
+      "vol_mc_ratio": 84.95,
+      "smart_money": 0,
+      "bot_rate": 0.4093,
+      "holders": 2466,
+      "price": 7.61236e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "6D8x15TYDycgNC1s1sfxR9qjfLvH7isZxETnApV2pNp3",
+      "symbol": "STORE",
+      "mc": 33734.2,
+      "liquidity": 50817.3,
+      "volume": 1921070.0,
+      "vol_mc_ratio": 56.95,
+      "smart_money": 0,
+      "bot_rate": 0.1691,
+      "holders": 337,
+      "price": 3.37342e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "GcbNAaGBAKEwVGbt1yCdY1Lygp7YSpYsPD7XqBHcZNU3",
+      "symbol": "TRUST",
+      "mc": 33735.3,
+      "liquidity": 50462.5,
+      "volume": 1791270.0,
+      "vol_mc_ratio": 53.1,
+      "smart_money": 0,
+      "bot_rate": 0.174,
+      "holders": 1464,
+      "price": 3.37353e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "7Hi3LMXknzU41FbwKZgBceCdjoPRoJnNtv1gyJbe9ogX",
+      "symbol": "MATCH",
+      "mc": 67478.4,
+      "liquidity": 85474.0,
+      "volume": 1016980.0,
+      "vol_mc_ratio": 15.07,
+      "smart_money": 0,
+      "bot_rate": 0.3551,
+      "holders": 1108,
+      "price": 6.74784e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "6i51SApyaGHyB3bJBu6VsgxXAHrW2hgEf2p8nwSrrDxH",
+      "symbol": "STORE",
+      "mc": 33738.9,
+      "liquidity": 50578.3,
+      "volume": 390997.0,
+      "vol_mc_ratio": 11.59,
+      "smart_money": 0,
+      "bot_rate": 0.2129,
+      "holders": 840,
+      "price": 3.37389e-05,
+      "source": "trending_1h"
+    }
+  ],
+  "count": 5,
+  "gold_zone_count": 2,
+  "with_sm_count": 0,
+  "with_sm3_count": 0
+}

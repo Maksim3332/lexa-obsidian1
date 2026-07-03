@@ -1,0 +1,45 @@
+{
+  "timestamp": 1781344801,
+  "datetime": "2026-06-13",
+  "type": "scalp",
+  "strategy_params": {
+    "min_mc": 30000,
+    "max_mc": 300000,
+    "min_vol_mc_ratio": 5,
+    "max_bot_rate": 0.5,
+    "gold_zone_min": 50000,
+    "gold_zone_max": 150000
+  },
+  "candidates": [
+    {
+      "address": "DRA6brDQHUoYX3bQcUj9XQ3SrEs2PXTimmfhiqTjSAvP",
+      "symbol": "SOCCER",
+      "mc": 53504.5,
+      "liquidity": 69245.0,
+      "volume": 712949.0,
+      "vol_mc_ratio": 13.33,
+      "smart_money": 0,
+      "bot_rate": 0.1332,
+      "holders": 1147,
+      "price": 5.35045e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "FTsxSayCXp9qtVXW9qpMSx5Dw1UrzwYF2E8ET4gQpump",
+      "symbol": "FOOTFAN",
+      "mc": 76262.2,
+      "liquidity": 19856.0,
+      "volume": 470459.0,
+      "vol_mc_ratio": 6.17,
+      "smart_money": 2,
+      "bot_rate": 0.1335,
+      "holders": 1052,
+      "price": 7.62622e-05,
+      "source": "trending_1h"
+    }
+  ],
+  "count": 2,
+  "gold_zone_count": 2,
+  "with_sm_count": 1,
+  "with_sm3_count": 0
+}

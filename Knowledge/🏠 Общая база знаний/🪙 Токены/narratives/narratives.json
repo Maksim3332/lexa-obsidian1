@@ -1,0 +1,4546 @@
+{
+  " ": {
+    "ticker": " ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 5
+  },
+  "   ": {
+    "ticker": "   ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  " $JOHN\ufffc": {
+    "ticker": " $JOHN\ufffc",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  " CLI ": {
+    "ticker": " CLI ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "#0007": {
+    "ticker": "#0007",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "#0011": {
+    "ticker": "#0011",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "#0012": {
+    "ticker": "#0012",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "#0013": {
+    "ticker": "#0013",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "#0014": {
+    "ticker": "#0014",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "#0015": {
+    "ticker": "#0015",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "#0016": {
+    "ticker": "#0016",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$100kBoob": {
+    "ticker": "$100kBoob",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$BILLY": {
+    "ticker": "$BILLY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$BUSK": {
+    "ticker": "$BUSK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$FAITHFUL ": {
+    "ticker": "$FAITHFUL ",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 1
+  },
+  "$Fiona": {
+    "ticker": "$Fiona",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$Funny": {
+    "ticker": "$Funny",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$GAYLON": {
+    "ticker": "$GAYLON",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$GOBLON": {
+    "ticker": "$GOBLON",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$GROKPUMP": {
+    "ticker": "$GROKPUMP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$GTAVl": {
+    "ticker": "$GTAVl",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$Goonhub": {
+    "ticker": "$Goonhub",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$HAZ": {
+    "ticker": "$HAZ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$Legacy": {
+    "ticker": "$Legacy",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$MASKPLZ": {
+    "ticker": "$MASKPLZ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$MASKUP": {
+    "ticker": "$MASKUP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "$MIMOON$": {
+    "ticker": "$MIMOON$",
+    "narrative": "\u043c\u0435\u043c/\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+    "tokens": 1
+  },
+  "$NEGLECT": {
+    "ticker": "$NEGLECT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$R1M": {
+    "ticker": "$R1M",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$SIREN": {
+    "ticker": "$SIREN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "$TRC": {
+    "ticker": "$TRC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$VIRAL": {
+    "ticker": "$VIRAL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$WET\ud83d\udca6": {
+    "ticker": "$WET\ud83d\udca6",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$arc": {
+    "ticker": "$arc",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$koala": {
+    "ticker": "$koala",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "$ufphone": {
+    "ticker": "$ufphone",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "+": {
+    "ticker": "+",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "1": {
+    "ticker": "1",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "1 turd": {
+    "ticker": "1 turd",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "10m": {
+    "ticker": "10m",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "14": {
+    "ticker": "14",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 8
+  },
+  "15": {
+    "ticker": "15",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "19Coin": {
+    "ticker": "19Coin",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "1PCT": {
+    "ticker": "1PCT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 19
+  },
+  "1reward": {
+    "ticker": "1reward",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "2": {
+    "ticker": "2",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "210x297": {
+    "ticker": "210x297",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "250": {
+    "ticker": "250",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "2USD": {
+    "ticker": "2USD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "3": {
+    "ticker": "3",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "3 MONTH OG": {
+    "ticker": "3 MONTH OG",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 4
+  },
+  "3.4carrots": {
+    "ticker": "3.4carrots",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "300$": {
+    "ticker": "300$",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "311donation31": {
+    "ticker": "311donation31",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "420.69": {
+    "ticker": "420.69",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "4doors": {
+    "ticker": "4doors",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "5": {
+    "ticker": "5",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "50": {
+    "ticker": "50",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "7": {
+    "ticker": "7",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "76PRINT": {
+    "ticker": "76PRINT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "911donate9111": {
+    "ticker": "911donate9111",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "=3": {
+    "ticker": "=3",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "?": {
+    "ticker": "?",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 6
+  },
+  "AA": {
+    "ticker": "AA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ABDL": {
+    "ticker": "ABDL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "ACT": {
+    "ticker": "ACT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ADA": {
+    "ticker": "ADA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "AI": {
+    "ticker": "AI",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 1
+  },
+  "AL": {
+    "ticker": "AL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ALIENS": {
+    "ticker": "ALIENS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "ALIGN": {
+    "ticker": "ALIGN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ALTSZN": {
+    "ticker": "ALTSZN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ANCHORA": {
+    "ticker": "ANCHORA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ANODOS": {
+    "ticker": "ANODOS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "ANT": {
+    "ticker": "ANT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "APEX": {
+    "ticker": "APEX",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "APU": {
+    "ticker": "APU",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "APU GURL": {
+    "ticker": "APU GURL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "APUGURL": {
+    "ticker": "APUGURL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "ARC": {
+    "ticker": "ARC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 34
+  },
+  "ARENA": {
+    "ticker": "ARENA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ART": {
+    "ticker": "ART",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ASD": {
+    "ticker": "ASD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "AST": {
+    "ticker": "AST",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ATM": {
+    "ticker": "ATM",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "AVRIDE": {
+    "ticker": "AVRIDE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "AXOLOTI": {
+    "ticker": "AXOLOTI",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "AXOLOTL": {
+    "ticker": "AXOLOTL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "AXOLOTi": {
+    "ticker": "AXOLOTi",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "Absolute": {
+    "ticker": "Absolute",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Activate": {
+    "ticker": "Activate",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Al": {
+    "ticker": "Al",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "America250": {
+    "ticker": "America250",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "AndonFM": {
+    "ticker": "AndonFM",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Apeel": {
+    "ticker": "Apeel",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "Apple": {
+    "ticker": "Apple",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Artcoin": {
+    "ticker": "Artcoin",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Artemis": {
+    "ticker": "Artemis",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Ask ": {
+    "ticker": "Ask ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Astro": {
+    "ticker": "Astro",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 7
+  },
+  "Axiom": {
+    "ticker": "Axiom",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Axoloti": {
+    "ticker": "Axoloti",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Axolotl": {
+    "ticker": "Axolotl",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "B3MANN": {
+    "ticker": "B3MANN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BABA": {
+    "ticker": "BABA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BABY": {
+    "ticker": "BABY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "BABY6969PEPE": {
+    "ticker": "BABY6969PEPE",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "BABYAPU": {
+    "ticker": "BABYAPU",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BABYCULT": {
+    "ticker": "BABYCULT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BABYELON": {
+    "ticker": "BABYELON",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BABYFI": {
+    "ticker": "BABYFI",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BABYGOBLIN": {
+    "ticker": "BABYGOBLIN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BABYPEPE": {
+    "ticker": "BABYPEPE",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 12
+  },
+  "BABYTESTE": {
+    "ticker": "BABYTESTE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BABYTROLLX": {
+    "ticker": "BABYTROLLX",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BABYTRUMP": {
+    "ticker": "BABYTRUMP",
+    "narrative": "\u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430/\u043a\u0443\u043b\u044c\u0442",
+    "tokens": 1
+  },
+  "BABYUNC": {
+    "ticker": "BABYUNC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BABYWIF": {
+    "ticker": "BABYWIF",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BABYWOULD": {
+    "ticker": "BABYWOULD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BACON": {
+    "ticker": "BACON",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "BAGELS": {
+    "ticker": "BAGELS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BALLMAXXING": {
+    "ticker": "BALLMAXXING",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 2
+  },
+  "BARRY": {
+    "ticker": "BARRY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BASAH": {
+    "ticker": "BASAH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "BATTLE": {
+    "ticker": "BATTLE",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "BBC": {
+    "ticker": "BBC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "BEAR": {
+    "ticker": "BEAR",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "BEEZIE": {
+    "ticker": "BEEZIE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BELIEF": {
+    "ticker": "BELIEF",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BEPE": {
+    "ticker": "BEPE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BFP": {
+    "ticker": "BFP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "BIGTITS": {
+    "ticker": "BIGTITS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BLACKLIST": {
+    "ticker": "BLACKLIST",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BLADA": {
+    "ticker": "BLADA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BLEAT": {
+    "ticker": "BLEAT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "BLEP": {
+    "ticker": "BLEP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "BLOOMER": {
+    "ticker": "BLOOMER",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BMC": {
+    "ticker": "BMC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BOB": {
+    "ticker": "BOB",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BOBAOPPA": {
+    "ticker": "BOBAOPPA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BOIZ": {
+    "ticker": "BOIZ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BONKUJI": {
+    "ticker": "BONKUJI",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "BOOM": {
+    "ticker": "BOOM",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "BOOMERS": {
+    "ticker": "BOOMERS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BOPO": {
+    "ticker": "BOPO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "BOS": {
+    "ticker": "BOS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "BOSS": {
+    "ticker": "BOSS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BOT": {
+    "ticker": "BOT",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 1
+  },
+  "BPEPE": {
+    "ticker": "BPEPE",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "BRICKS": {
+    "ticker": "BRICKS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BRNDB": {
+    "ticker": "BRNDB",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BROKE": {
+    "ticker": "BROKE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BRUME": {
+    "ticker": "BRUME",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BTCBANK": {
+    "ticker": "BTCBANK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BTCC": {
+    "ticker": "BTCC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BTW": {
+    "ticker": "BTW",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BUFF": {
+    "ticker": "BUFF",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BUFFALO": {
+    "ticker": "BUFFALO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BUFFDON": {
+    "ticker": "BUFFDON",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BULL": {
+    "ticker": "BULL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BUMRAH": {
+    "ticker": "BUMRAH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BURGER": {
+    "ticker": "BURGER",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BWPPF": {
+    "ticker": "BWPPF",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 5
+  },
+  "BabaTiktok": {
+    "ticker": "BabaTiktok",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "Baby Pepe": {
+    "ticker": "Baby Pepe",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "BabyOil": {
+    "ticker": "BabyOil",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "BabyPEPE": {
+    "ticker": "BabyPEPE",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 17
+  },
+  "BabyShark": {
+    "ticker": "BabyShark",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "Bagels": {
+    "ticker": "Bagels",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Bagworkers": {
+    "ticker": "Bagworkers",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Balloon": {
+    "ticker": "Balloon",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Bank": {
+    "ticker": "Bank",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Battle ": {
+    "ticker": "Battle ",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "Bear": {
+    "ticker": "Bear",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "Beetsu": {
+    "ticker": "Beetsu",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Bob": {
+    "ticker": "Bob",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "Bona": {
+    "ticker": "Bona",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "Boomerang": {
+    "ticker": "Boomerang",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "Bountities": {
+    "ticker": "Bountities",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Bountywork": {
+    "ticker": "Bountywork",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Bruno": {
+    "ticker": "Bruno",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Buzzer": {
+    "ticker": "Buzzer",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CAMBRIAN": {
+    "ticker": "CAMBRIAN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CANNIBAL": {
+    "ticker": "CANNIBAL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 16
+  },
+  "CAP": {
+    "ticker": "CAP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CASINO": {
+    "ticker": "CASINO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CAT": {
+    "ticker": "CAT",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "CATCOIN": {
+    "ticker": "CATCOIN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CATTES": {
+    "ticker": "CATTES",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 5
+  },
+  "CATZ": {
+    "ticker": "CATZ",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "CDOR": {
+    "ticker": "CDOR",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CELL": {
+    "ticker": "CELL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CGO": {
+    "ticker": "CGO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "CH": {
+    "ticker": "CH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "CHAD": {
+    "ticker": "CHAD",
+    "narrative": "\u043c\u0435\u043c/\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+    "tokens": 1
+  },
+  "CHADELON": {
+    "ticker": "CHADELON",
+    "narrative": "\u043c\u0435\u043c/\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+    "tokens": 1
+  },
+  "CHADGUANA": {
+    "ticker": "CHADGUANA",
+    "narrative": "\u043c\u0435\u043c/\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+    "tokens": 3
+  },
+  "CHAOS": {
+    "ticker": "CHAOS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CHRISTOPHER": {
+    "ticker": "CHRISTOPHER",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CHUD": {
+    "ticker": "CHUD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "CHUMP": {
+    "ticker": "CHUMP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CHURCH": {
+    "ticker": "CHURCH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CIG": {
+    "ticker": "CIG",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CINGEN": {
+    "ticker": "CINGEN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CL1": {
+    "ticker": "CL1",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CLARITITTY": {
+    "ticker": "CLARITITTY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CLAUNCHER404": {
+    "ticker": "CLAUNCHER404",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CLAUNCHER40OG": {
+    "ticker": "CLAUNCHER40OG",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CLOAKPAY": {
+    "ticker": "CLOAKPAY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CLUKZBABA": {
+    "ticker": "CLUKZBABA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "COAR": {
+    "ticker": "COAR",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "COCHATGPTEX": {
+    "ticker": "COCHATGPTEX",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 1
+  },
+  "COCKNOSE": {
+    "ticker": "COCKNOSE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "COHE": {
+    "ticker": "COHE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "COLLECTOOR": {
+    "ticker": "COLLECTOOR",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "COLORADO": {
+    "ticker": "COLORADO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "COOK": {
+    "ticker": "COOK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "COOLESTPEPE": {
+    "ticker": "COOLESTPEPE",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "COOLPEPE": {
+    "ticker": "COOLPEPE",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 2
+  },
+  "COULD": {
+    "ticker": "COULD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CPZ:": {
+    "ticker": "CPZ:",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CRABHAT": {
+    "ticker": "CRABHAT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CRIAW": {
+    "ticker": "CRIAW",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CROWCOIN": {
+    "ticker": "CROWCOIN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CRY": {
+    "ticker": "CRY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CRYPTOCRACY": {
+    "ticker": "CRYPTOCRACY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 10
+  },
+  "CRYPTOCRAT": {
+    "ticker": "CRYPTOCRAT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "CRYPTORAT": {
+    "ticker": "CRYPTORAT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 10
+  },
+  "CTD": {
+    "ticker": "CTD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "CTd": {
+    "ticker": "CTd",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CUCKATHON": {
+    "ticker": "CUCKATHON",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CUM TITS": {
+    "ticker": "CUM TITS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CUMBLAST": {
+    "ticker": "CUMBLAST",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CUMCANNON": {
+    "ticker": "CUMCANNON",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CUMCUM": {
+    "ticker": "CUMCUM",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CUMDUMP": {
+    "ticker": "CUMDUMP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CUMQUEEN": {
+    "ticker": "CUMQUEEN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CUMROPE": {
+    "ticker": "CUMROPE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CYBERHOG": {
+    "ticker": "CYBERHOG",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 16
+  },
+  "CYS": {
+    "ticker": "CYS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Cali": {
+    "ticker": "Cali",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CamGreen": {
+    "ticker": "CamGreen",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Cat": {
+    "ticker": "Cat",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "CentralBank": {
+    "ticker": "CentralBank",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Chang": {
+    "ticker": "Chang",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Character": {
+    "ticker": "Character",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Charlee": {
+    "ticker": "Charlee",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Charlie ": {
+    "ticker": "Charlie ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Checkpoint": {
+    "ticker": "Checkpoint",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ChillBaby": {
+    "ticker": "ChillBaby",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Chouchou": {
+    "ticker": "Chouchou",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Chupacabra": {
+    "ticker": "Chupacabra",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Cityverse": {
+    "ticker": "Cityverse",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "CochatGPTex": {
+    "ticker": "CochatGPTex",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 1
+  },
+  "Coinz": {
+    "ticker": "Coinz",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Commodity": {
+    "ticker": "Commodity",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "Condom": {
+    "ticker": "Condom",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 7
+  },
+  "Consensus": {
+    "ticker": "Consensus",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 40
+  },
+  "Coprophagy": {
+    "ticker": "Coprophagy",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Cryptocrat": {
+    "ticker": "Cryptocrat",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 47
+  },
+  "Cryptocrats": {
+    "ticker": "Cryptocrats",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "Cryptodog": {
+    "ticker": "Cryptodog",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 7
+  },
+  "Cryptoracy": {
+    "ticker": "Cryptoracy",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Cyberhog": {
+    "ticker": "Cyberhog",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 51
+  },
+  "Cyberjaya": {
+    "ticker": "Cyberjaya",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "D&B": {
+    "ticker": "D&B",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DAD": {
+    "ticker": "DAD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DARE": {
+    "ticker": "DARE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DC": {
+    "ticker": "DC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "DEGEN": {
+    "ticker": "DEGEN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DELETE": {
+    "ticker": "DELETE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DEMON": {
+    "ticker": "DEMON",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "DEXBAN": {
+    "ticker": "DEXBAN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DICKMAXX": {
+    "ticker": "DICKMAXX",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DILDO": {
+    "ticker": "DILDO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DINGER": {
+    "ticker": "DINGER",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 5
+  },
+  "DINO": {
+    "ticker": "DINO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DINO DOG": {
+    "ticker": "DINO DOG",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "DIPK": {
+    "ticker": "DIPK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DMG": {
+    "ticker": "DMG",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "DOG": {
+    "ticker": "DOG",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "DOGE": {
+    "ticker": "DOGE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "DOGEUS": {
+    "ticker": "DOGEUS",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "DONALD": {
+    "ticker": "DONALD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DONNY": {
+    "ticker": "DONNY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DOODLE": {
+    "ticker": "DOODLE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DOOOOOOOOG": {
+    "ticker": "DOOOOOOOOG",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "DRPY": {
+    "ticker": "DRPY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DRUGSTATES": {
+    "ticker": "DRUGSTATES",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DUCK": {
+    "ticker": "DUCK",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "DUMACRAT": {
+    "ticker": "DUMACRAT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DUMACRATS": {
+    "ticker": "DUMACRATS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DUMP": {
+    "ticker": "DUMP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DUMPCOIN": {
+    "ticker": "DUMPCOIN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "DYORGUY": {
+    "ticker": "DYORGUY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DaBaby": {
+    "ticker": "DaBaby",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DaBaby ": {
+    "ticker": "DaBaby ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Dachshund": {
+    "ticker": "Dachshund",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Dank": {
+    "ticker": "Dank",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Dbaba": {
+    "ticker": "Dbaba",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DegenFight": {
+    "ticker": "DegenFight",
+    "narrative": "\u043c\u0435\u043c/\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+    "tokens": 1
+  },
+  "Demis": {
+    "ticker": "Demis",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 4
+  },
+  "DiddyButt": {
+    "ticker": "DiddyButt",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Django": {
+    "ticker": "Django",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "Dogwifgun": {
+    "ticker": "Dogwifgun",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Domucrat": {
+    "ticker": "Domucrat",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "DrunkAlien": {
+    "ticker": "DrunkAlien",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Dumacrat": {
+    "ticker": "Dumacrat",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "E-ROBO": {
+    "ticker": "E-ROBO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "EBANK": {
+    "ticker": "EBANK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ECASH": {
+    "ticker": "ECASH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "EDITPRESETS": {
+    "ticker": "EDITPRESETS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "EGGS": {
+    "ticker": "EGGS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "EKO": {
+    "ticker": "EKO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ELMOON": {
+    "ticker": "ELMOON",
+    "narrative": "\u043c\u0435\u043c/\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+    "tokens": 1
+  },
+  "ELON": {
+    "ticker": "ELON",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 7
+  },
+  "ELON KINK": {
+    "ticker": "ELON KINK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ELONMUSK": {
+    "ticker": "ELONMUSK",
+    "narrative": "\u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430/\u043a\u0443\u043b\u044c\u0442",
+    "tokens": 1
+  },
+  "ENHANCED": {
+    "ticker": "ENHANCED",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "EOS": {
+    "ticker": "EOS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ETB": {
+    "ticker": "ETB",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ETH": {
+    "ticker": "ETH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "EXPLORER": {
+    "ticker": "EXPLORER",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 5
+  },
+  "EYEWEAR": {
+    "ticker": "EYEWEAR",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Ebola": {
+    "ticker": "Ebola",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "EcoGPT": {
+    "ticker": "EcoGPT",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 1
+  },
+  "Electrician": {
+    "ticker": "Electrician",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Elon0001wow11": {
+    "ticker": "Elon0001wow11",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Elon69gigacha": {
+    "ticker": "Elon69gigacha",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Escape": {
+    "ticker": "Escape",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Eternal Battl": {
+    "ticker": "Eternal Battl",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "Etymology": {
+    "ticker": "Etymology",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "E\u015fek": {
+    "ticker": "E\u015fek",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "F.04Troll": {
+    "ticker": "F.04Troll",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FACEO": {
+    "ticker": "FACEO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FAGINU": {
+    "ticker": "FAGINU",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FAST": {
+    "ticker": "FAST",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FATCAT": {
+    "ticker": "FATCAT",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "FCAWF": {
+    "ticker": "FCAWF",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "FCH": {
+    "ticker": "FCH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "FCM": {
+    "ticker": "FCM",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FED": {
+    "ticker": "FED",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "FEMO": {
+    "ticker": "FEMO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FETUS": {
+    "ticker": "FETUS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FIGHT": {
+    "ticker": "FIGHT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FIONA": {
+    "ticker": "FIONA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "FLOCKY": {
+    "ticker": "FLOCKY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FLOPPA": {
+    "ticker": "FLOPPA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FLOWERS": {
+    "ticker": "FLOWERS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FNJ": {
+    "ticker": "FNJ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FO": {
+    "ticker": "FO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "FOFF": {
+    "ticker": "FOFF",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FOOL": {
+    "ticker": "FOOL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 11
+  },
+  "FOREST": {
+    "ticker": "FOREST",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FOX": {
+    "ticker": "FOX",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "FRANCE": {
+    "ticker": "FRANCE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FREGE": {
+    "ticker": "FREGE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FROG": {
+    "ticker": "FROG",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 9
+  },
+  "FTC": {
+    "ticker": "FTC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "FUCK": {
+    "ticker": "FUCK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FUTURE": {
+    "ticker": "FUTURE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FYM": {
+    "ticker": "FYM",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "FakePanda": {
+    "ticker": "FakePanda",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "Farmer": {
+    "ticker": "Farmer",
+    "narrative": "\u0434\u0435\u0444\u0438/\u0438\u043d\u0444\u0440\u0430",
+    "tokens": 2
+  },
+  "Faze": {
+    "ticker": "Faze",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "Fiction": {
+    "ticker": "Fiction",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Fiona": {
+    "ticker": "Fiona",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 4
+  },
+  "FlatX": {
+    "ticker": "FlatX",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Froggies": {
+    "ticker": "Froggies",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Frwrk": {
+    "ticker": "Frwrk",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "G": {
+    "ticker": "G",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "G-Robo": {
+    "ticker": "G-Robo",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GABLE": {
+    "ticker": "GABLE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GAPLA": {
+    "ticker": "GAPLA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GAY": {
+    "ticker": "GAY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "GAYGUY": {
+    "ticker": "GAYGUY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GBFC": {
+    "ticker": "GBFC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 7
+  },
+  "GDOR": {
+    "ticker": "GDOR",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GENNY": {
+    "ticker": "GENNY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GENWEALTH": {
+    "ticker": "GENWEALTH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GETGOTBY": {
+    "ticker": "GETGOTBY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GHOSTBUSTERS": {
+    "ticker": "GHOSTBUSTERS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GIGACUCK": {
+    "ticker": "GIGACUCK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GLASSES": {
+    "ticker": "GLASSES",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GLBL": {
+    "ticker": "GLBL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GLITCH": {
+    "ticker": "GLITCH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GLORBO ": {
+    "ticker": "GLORBO ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GLOVE": {
+    "ticker": "GLOVE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GNOME": {
+    "ticker": "GNOME",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 8
+  },
+  "GO": {
+    "ticker": "GO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GOATED": {
+    "ticker": "GOATED",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GOBLINO": {
+    "ticker": "GOBLINO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GOLD": {
+    "ticker": "GOLD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GONZO": {
+    "ticker": "GONZO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GOONALOT": {
+    "ticker": "GOONALOT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GOONC": {
+    "ticker": "GOONC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GORA": {
+    "ticker": "GORA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GOSLING": {
+    "ticker": "GOSLING",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GOSLINGS": {
+    "ticker": "GOSLINGS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GOY": {
+    "ticker": "GOY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GPT": {
+    "ticker": "GPT",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 1
+  },
+  "GPUT": {
+    "ticker": "GPUT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GRANNYGAMINGZ": {
+    "ticker": "GRANNYGAMINGZ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GREAT": {
+    "ticker": "GREAT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GROG": {
+    "ticker": "GROG",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GROX": {
+    "ticker": "GROX",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GTA": {
+    "ticker": "GTA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GTA6": {
+    "ticker": "GTA6",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GYATT": {
+    "ticker": "GYATT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GambaETF": {
+    "ticker": "GambaETF",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Games": {
+    "ticker": "Games",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Gary": {
+    "ticker": "Gary",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 6
+  },
+  "Gena": {
+    "ticker": "Gena",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GeoStorm": {
+    "ticker": "GeoStorm",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Gepe": {
+    "ticker": "Gepe",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "GoldenTail": {
+    "ticker": "GoldenTail",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 3
+  },
+  "Goon": {
+    "ticker": "Goon",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Gorilla": {
+    "ticker": "Gorilla",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Grandma": {
+    "ticker": "Grandma",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Graveyard ": {
+    "ticker": "Graveyard ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Grogu": {
+    "ticker": "Grogu",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "HAD": {
+    "ticker": "HAD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "HAPPY": {
+    "ticker": "HAPPY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "HARAMBEX": {
+    "ticker": "HARAMBEX",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "HEAR": {
+    "ticker": "HEAR",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "HEDGE": {
+    "ticker": "HEDGE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "HELLO???": {
+    "ticker": "HELLO???",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "HELP": {
+    "ticker": "HELP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "HENRY": {
+    "ticker": "HENRY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "HERMES": {
+    "ticker": "HERMES",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "HEROES": {
+    "ticker": "HEROES",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "HIM": {
+    "ticker": "HIM",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "HIT": {
+    "ticker": "HIT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "HODLER": {
+    "ticker": "HODLER",
+    "narrative": "\u043c\u0435\u043c/\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+    "tokens": 4
+  },
+  "HOLLOW": {
+    "ticker": "HOLLOW",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "HOLO": {
+    "ticker": "HOLO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "HOLY GRAIL": {
+    "ticker": "HOLY GRAIL",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 2
+  },
+  "HOLYGRAIL": {
+    "ticker": "HOLYGRAIL",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 1
+  },
+  "HOPPY": {
+    "ticker": "HOPPY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "HRT": {
+    "ticker": "HRT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "HUANG": {
+    "ticker": "HUANG",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "HUB": {
+    "ticker": "HUB",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "HUNTER": {
+    "ticker": "HUNTER",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "HUSI": {
+    "ticker": "HUSI",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "HVSC": {
+    "ticker": "HVSC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "HYPE": {
+    "ticker": "HYPE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 4
+  },
+  "HYPERLIQUID": {
+    "ticker": "HYPERLIQUID",
+    "narrative": "\u0434\u0435\u0444\u0438/\u0438\u043d\u0444\u0440\u0430",
+    "tokens": 2
+  },
+  "Harambe": {
+    "ticker": "Harambe",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Hedgehog": {
+    "ticker": "Hedgehog",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "Hero": {
+    "ticker": "Hero",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "Higher": {
+    "ticker": "Higher",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Hippo": {
+    "ticker": "Hippo",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "Hope": {
+    "ticker": "Hope",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "HypurrClaw": {
+    "ticker": "HypurrClaw",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "IDGAF": {
+    "ticker": "IDGAF",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "IGMHV": {
+    "ticker": "IGMHV",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "INSTACLAW": {
+    "ticker": "INSTACLAW",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "IPM": {
+    "ticker": "IPM",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "IPO": {
+    "ticker": "IPO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "IPUL": {
+    "ticker": "IPUL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 17
+  },
+  "IREZUMI": {
+    "ticker": "IREZUMI",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Insiders": {
+    "ticker": "Insiders",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Internet God": {
+    "ticker": "Internet God",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "IronBee": {
+    "ticker": "IronBee",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Isabella": {
+    "ticker": "Isabella",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "JACKPOT": {
+    "ticker": "JACKPOT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "JAMES": {
+    "ticker": "JAMES",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "JB5": {
+    "ticker": "JB5",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "JESTER": {
+    "ticker": "JESTER",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "JFP": {
+    "ticker": "JFP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "JIZZFACE": {
+    "ticker": "JIZZFACE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "JIZZQUEEn": {
+    "ticker": "JIZZQUEEn",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "JONMUD": {
+    "ticker": "JONMUD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "JSchild": {
+    "ticker": "JSchild",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "JTVF": {
+    "ticker": "JTVF",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "JULIE": {
+    "ticker": "JULIE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Jim": {
+    "ticker": "Jim",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Judgemaxxing": {
+    "ticker": "Judgemaxxing",
+    "narrative": "\u043c\u0435\u043c/\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+    "tokens": 2
+  },
+  "Justiceify": {
+    "ticker": "Justiceify",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "KAELAN": {
+    "ticker": "KAELAN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "KANS": {
+    "ticker": "KANS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "KATIE": {
+    "ticker": "KATIE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "KAYR": {
+    "ticker": "KAYR",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "KEL": {
+    "ticker": "KEL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "KFC": {
+    "ticker": "KFC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "KH": {
+    "ticker": "KH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "KIDNAPPING": {
+    "ticker": "KIDNAPPING",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "KIKI": {
+    "ticker": "KIKI",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "KINS": {
+    "ticker": "KINS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "KIRKY": {
+    "ticker": "KIRKY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "KITTY": {
+    "ticker": "KITTY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "KNICKS": {
+    "ticker": "KNICKS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "KOTH": {
+    "ticker": "KOTH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "KSI": {
+    "ticker": "KSI",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Kaiwi": {
+    "ticker": "Kaiwi",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 1
+  },
+  "Ken": {
+    "ticker": "Ken",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "LAL\ud83d\udd25\ud83d\udd25\ud83d\udd25": {
+    "ticker": "LAL\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "LAMP": {
+    "ticker": "LAMP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "LARP": {
+    "ticker": "LARP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "LCMY": {
+    "ticker": "LCMY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 5
+  },
+  "LCVRT": {
+    "ticker": "LCVRT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "LEA": {
+    "ticker": "LEA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "LIFTS": {
+    "ticker": "LIFTS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "LIMITMASS": {
+    "ticker": "LIMITMASS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "LOCKEDIN": {
+    "ticker": "LOCKEDIN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "LOL": {
+    "ticker": "LOL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "LOSSLESS": {
+    "ticker": "LOSSLESS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "LOUIS": {
+    "ticker": "LOUIS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "LRRH": {
+    "ticker": "LRRH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "LUCIA": {
+    "ticker": "LUCIA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "LUCY": {
+    "ticker": "LUCY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 12
+  },
+  "LUNAIR": {
+    "ticker": "LUNAIR",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 1
+  },
+  "Lazare": {
+    "ticker": "Lazare",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Leo": {
+    "ticker": "Leo",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Life": {
+    "ticker": "Life",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Liquid": {
+    "ticker": "Liquid",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "LittleP": {
+    "ticker": "LittleP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Lucy": {
+    "ticker": "Lucy",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MAGA": {
+    "ticker": "MAGA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "MAKEIT": {
+    "ticker": "MAKEIT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MAMA": {
+    "ticker": "MAMA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "MANTAP": {
+    "ticker": "MANTAP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MARV": {
+    "ticker": "MARV",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MASTER": {
+    "ticker": "MASTER",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MAUI": {
+    "ticker": "MAUI",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MBGA": {
+    "ticker": "MBGA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "ME": {
+    "ticker": "ME",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MEANING": {
+    "ticker": "MEANING",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MEANINGLESS": {
+    "ticker": "MEANINGLESS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "MEF": {
+    "ticker": "MEF",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MEMECOIN": {
+    "ticker": "MEMECOIN",
+    "narrative": "\u043c\u0435\u043c/\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+    "tokens": 1
+  },
+  "MEMEGENDER": {
+    "ticker": "MEMEGENDER",
+    "narrative": "\u043c\u0435\u043c/\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+    "tokens": 1
+  },
+  "METALSONIC": {
+    "ticker": "METALSONIC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MEW": {
+    "ticker": "MEW",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "MEXICO": {
+    "ticker": "MEXICO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MICHAEL": {
+    "ticker": "MICHAEL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MINDA": {
+    "ticker": "MINDA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MISH": {
+    "ticker": "MISH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MJ": {
+    "ticker": "MJ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MMARS": {
+    "ticker": "MMARS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "MMC": {
+    "ticker": "MMC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MMO": {
+    "ticker": "MMO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MOBSTA": {
+    "ticker": "MOBSTA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MONO": {
+    "ticker": "MONO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MOONBASE": {
+    "ticker": "MOONBASE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MPFA": {
+    "ticker": "MPFA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MPI": {
+    "ticker": "MPI",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MSFT": {
+    "ticker": "MSFT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "MTFR": {
+    "ticker": "MTFR",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MUD": {
+    "ticker": "MUD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MUKI": {
+    "ticker": "MUKI",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MUSHU": {
+    "ticker": "MUSHU",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MUSSA": {
+    "ticker": "MUSSA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MYLFCUM": {
+    "ticker": "MYLFCUM",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MYNZOO": {
+    "ticker": "MYNZOO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Magpie": {
+    "ticker": "Magpie",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Mamba": {
+    "ticker": "Mamba",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Margaret": {
+    "ticker": "Margaret",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 7
+  },
+  "Mayhem Ai": {
+    "ticker": "Mayhem Ai",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 1
+  },
+  "Meaningless": {
+    "ticker": "Meaningless",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 5
+  },
+  "MechaHitler": {
+    "ticker": "MechaHitler",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Mechahitler": {
+    "ticker": "Mechahitler",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Mememory": {
+    "ticker": "Mememory",
+    "narrative": "\u043c\u0435\u043c/\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+    "tokens": 1
+  },
+  "Merla": {
+    "ticker": "Merla",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Michael": {
+    "ticker": "Michael",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Mig Mig": {
+    "ticker": "Mig Mig",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Mind": {
+    "ticker": "Mind",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Mobi": {
+    "ticker": "Mobi",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Mog": {
+    "ticker": "Mog",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "MogCat": {
+    "ticker": "MogCat",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "MogEmoji": {
+    "ticker": "MogEmoji",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Mogcat": {
+    "ticker": "Mogcat",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "Mooner": {
+    "ticker": "Mooner",
+    "narrative": "\u043c\u0435\u043c/\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+    "tokens": 1
+  },
+  "Motion": {
+    "ticker": "Motion",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Motivation": {
+    "ticker": "Motivation",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "MrGinger ": {
+    "ticker": "MrGinger ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Multipad": {
+    "ticker": "Multipad",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Mussa": {
+    "ticker": "Mussa",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 6
+  },
+  "N.20": {
+    "ticker": "N.20",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 9
+  },
+  "N.20wowpill20": {
+    "ticker": "N.20wowpill20",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NAME": {
+    "ticker": "NAME",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NARR": {
+    "ticker": "NARR",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NATO": {
+    "ticker": "NATO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NEONJELLY": {
+    "ticker": "NEONJELLY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NEPE": {
+    "ticker": "NEPE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NEXORA": {
+    "ticker": "NEXORA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NICEGUY": {
+    "ticker": "NICEGUY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NIGER": {
+    "ticker": "NIGER",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NIGKEN": {
+    "ticker": "NIGKEN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NIGNAPPING": {
+    "ticker": "NIGNAPPING",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NIGP": {
+    "ticker": "NIGP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NOCOIN": {
+    "ticker": "NOCOIN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 6
+  },
+  "NOGAMES": {
+    "ticker": "NOGAMES",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NOOR": {
+    "ticker": "NOOR",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NORD": {
+    "ticker": "NORD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NOTHING": {
+    "ticker": "NOTHING",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 23
+  },
+  "NOTUS": {
+    "ticker": "NOTUS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NOWUJSDEVSLOP": {
+    "ticker": "NOWUJSDEVSLOP",
+    "narrative": "\u0442\u0435\u0445\u043d\u043e/\u0434\u0435\u0432",
+    "tokens": 1
+  },
+  "NT244": {
+    "ticker": "NT244",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NT3838": {
+    "ticker": "NT3838",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NT6491": {
+    "ticker": "NT6491",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NULL ": {
+    "ticker": "NULL ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NUTZ": {
+    "ticker": "NUTZ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NVDIA": {
+    "ticker": "NVDIA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Nanobot": {
+    "ticker": "Nanobot",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 2
+  },
+  "Neymarjr26": {
+    "ticker": "Neymarjr26",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Ni!": {
+    "ticker": "Ni!",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NiggaButt": {
+    "ticker": "NiggaButt",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Niggafund": {
+    "ticker": "Niggafund",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "NineSkulls": {
+    "ticker": "NineSkulls",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Nubcat": {
+    "ticker": "Nubcat",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "Nubcatificati": {
+    "ticker": "Nubcatificati",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "Numia": {
+    "ticker": "Numia",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "OG": {
+    "ticker": "OG",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "OMEN": {
+    "ticker": "OMEN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "OMNI": {
+    "ticker": "OMNI",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ONE": {
+    "ticker": "ONE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ONLY": {
+    "ticker": "ONLY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "OOPC": {
+    "ticker": "OOPC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "OPAL": {
+    "ticker": "OPAL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "ORCASLICER": {
+    "ticker": "ORCASLICER",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ORGANISMS": {
+    "ticker": "ORGANISMS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "OYOG": {
+    "ticker": "OYOG",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "Odysseus": {
+    "ticker": "Odysseus",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Odysseus\r\n": {
+    "ticker": "Odysseus\r\n",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "OpenHuman": {
+    "ticker": "OpenHuman",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "OptiMutt": {
+    "ticker": "OptiMutt",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Organisms": {
+    "ticker": "Organisms",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PAIN": {
+    "ticker": "PAIN",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 1
+  },
+  "PANAS": {
+    "ticker": "PANAS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "PARALOOM": {
+    "ticker": "PARALOOM",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PASSES": {
+    "ticker": "PASSES",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PAYNE": {
+    "ticker": "PAYNE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PBTC": {
+    "ticker": "PBTC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "PEACE": {
+    "ticker": "PEACE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PENISPOOP420": {
+    "ticker": "PENISPOOP420",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PENNY": {
+    "ticker": "PENNY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "PENTAGON": {
+    "ticker": "PENTAGON",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PEOPLE": {
+    "ticker": "PEOPLE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PEP": {
+    "ticker": "PEP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PEPET": {
+    "ticker": "PEPET",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 2
+  },
+  "PEPETIDE": {
+    "ticker": "PEPETIDE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PET": {
+    "ticker": "PET",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PETSOWNER": {
+    "ticker": "PETSOWNER",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 11
+  },
+  "PEYOTE": {
+    "ticker": "PEYOTE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PIKA": {
+    "ticker": "PIKA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PINTO": {
+    "ticker": "PINTO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "POKE": {
+    "ticker": "POKE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "POLY": {
+    "ticker": "POLY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "POMP": {
+    "ticker": "POMP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 22
+  },
+  "POWELL": {
+    "ticker": "POWELL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PP420": {
+    "ticker": "PP420",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PRICE": {
+    "ticker": "PRICE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PRIDE": {
+    "ticker": "PRIDE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PRPL": {
+    "ticker": "PRPL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PTARDIO": {
+    "ticker": "PTARDIO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PTROLL": {
+    "ticker": "PTROLL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PUMP": {
+    "ticker": "PUMP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 4
+  },
+  "PUSHUPS": {
+    "ticker": "PUSHUPS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PVE": {
+    "ticker": "PVE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 4
+  },
+  "Palestine": {
+    "ticker": "Palestine",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Pallbearers": {
+    "ticker": "Pallbearers",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "PanKun": {
+    "ticker": "PanKun",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Pastor": {
+    "ticker": "Pastor",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Patricia": {
+    "ticker": "Patricia",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 7
+  },
+  "PeeWee": {
+    "ticker": "PeeWee",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Peigengoo": {
+    "ticker": "Peigengoo",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "People": {
+    "ticker": "People",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Pepe": {
+    "ticker": "Pepe",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "Pepemoon": {
+    "ticker": "Pepemoon",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435 \u00b7 \u043c\u0435\u043c/\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+    "tokens": 1
+  },
+  "Pibble": {
+    "ticker": "Pibble",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "Piccola": {
+    "ticker": "Piccola",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Pickle": {
+    "ticker": "Pickle",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "Pointing": {
+    "ticker": "Pointing",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "PolyTweet": {
+    "ticker": "PolyTweet",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Poor": {
+    "ticker": "Poor",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "QOKI": {
+    "ticker": "QOKI",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "QUEENBIRD": {
+    "ticker": "QUEENBIRD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "RABBIDS": {
+    "ticker": "RABBIDS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "READ": {
+    "ticker": "READ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "READ RETARDS": {
+    "ticker": "READ RETARDS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 5
+  },
+  "REALIST": {
+    "ticker": "REALIST",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "RECLAIM": {
+    "ticker": "RECLAIM",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 1
+  },
+  "REGE": {
+    "ticker": "REGE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "REVERCUM": {
+    "ticker": "REVERCUM",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "REVERSAL": {
+    "ticker": "REVERSAL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "RICH": {
+    "ticker": "RICH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "RICHBANK": {
+    "ticker": "RICHBANK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "RICHGUY": {
+    "ticker": "RICHGUY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "RIF": {
+    "ticker": "RIF",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "RIG": {
+    "ticker": "RIG",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "RIMWUWT": {
+    "ticker": "RIMWUWT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "RIO": {
+    "ticker": "RIO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 14
+  },
+  "RIZO": {
+    "ticker": "RIZO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 8
+  },
+  "RKC": {
+    "ticker": "RKC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "ROBOTPHOBIA": {
+    "ticker": "ROBOTPHOBIA",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 1
+  },
+  "ROGAR": {
+    "ticker": "ROGAR",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ROI": {
+    "ticker": "ROI",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ROYD": {
+    "ticker": "ROYD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 22
+  },
+  "RPOP": {
+    "ticker": "RPOP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "RSC": {
+    "ticker": "RSC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "RUN": {
+    "ticker": "RUN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "RUNPEPE": {
+    "ticker": "RUNPEPE",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "RUSIA": {
+    "ticker": "RUSIA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "RVC": {
+    "ticker": "RVC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "RYD": {
+    "ticker": "RYD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "RYUNUCK": {
+    "ticker": "RYUNUCK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Rabbit": {
+    "ticker": "Rabbit",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Reptilian": {
+    "ticker": "Reptilian",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Retail": {
+    "ticker": "Retail",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Rio": {
+    "ticker": "Rio",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Rizo": {
+    "ticker": "Rizo",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Robot": {
+    "ticker": "Robot",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 2
+  },
+  "Rtlpls": {
+    "ticker": "Rtlpls",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "S": {
+    "ticker": "S",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "SAA": {
+    "ticker": "SAA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SAKURA": {
+    "ticker": "SAKURA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "SAPE": {
+    "ticker": "SAPE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SBS": {
+    "ticker": "SBS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SC": {
+    "ticker": "SC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "SCOOP": {
+    "ticker": "SCOOP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "SCRATCHING": {
+    "ticker": "SCRATCHING",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SDK": {
+    "ticker": "SDK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SEC": {
+    "ticker": "SEC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SECRET": {
+    "ticker": "SECRET",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SEED": {
+    "ticker": "SEED",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SEED_FOR_T": {
+    "ticker": "SEED_FOR_T",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SEED_FOR_THOU": {
+    "ticker": "SEED_FOR_THOU",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "SEI6900": {
+    "ticker": "SEI6900",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SFT": {
+    "ticker": "SFT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SHEEP": {
+    "ticker": "SHEEP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SHI500": {
+    "ticker": "SHI500",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SHOWS": {
+    "ticker": "SHOWS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SHRIMPUS": {
+    "ticker": "SHRIMPUS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SL": {
+    "ticker": "SL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SLING": {
+    "ticker": "SLING",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SMITH": {
+    "ticker": "SMITH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 43
+  },
+  "SMOKE ": {
+    "ticker": "SMOKE ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SOL": {
+    "ticker": "SOL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 4
+  },
+  "SOL2": {
+    "ticker": "SOL2",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SOLANA": {
+    "ticker": "SOLANA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SOLANA CIRCUL": {
+    "ticker": "SOLANA CIRCUL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SOLBOARD": {
+    "ticker": "SOLBOARD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SOMETHING": {
+    "ticker": "SOMETHING",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 6
+  },
+  "SOREN": {
+    "ticker": "SOREN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SOULANA": {
+    "ticker": "SOULANA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SP6": {
+    "ticker": "SP6",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "SPAIN": {
+    "ticker": "SPAIN",
+    "narrative": "ai/\u0430\u0433\u0435\u043d\u0442",
+    "tokens": 3
+  },
+  "SPCE": {
+    "ticker": "SPCE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SPCX": {
+    "ticker": "SPCX",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 4
+  },
+  "SPEED": {
+    "ticker": "SPEED",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SPX6900": {
+    "ticker": "SPX6900",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "SQUEEZE": {
+    "ticker": "SQUEEZE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SS": {
+    "ticker": "SS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SSB": {
+    "ticker": "SSB",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "SSD5000 ": {
+    "ticker": "SSD5000 ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "STACKS": {
+    "ticker": "STACKS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "STEAK": {
+    "ticker": "STEAK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "STEPN": {
+    "ticker": "STEPN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "STEVE": {
+    "ticker": "STEVE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "STONED": {
+    "ticker": "STONED",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "STRAYS": {
+    "ticker": "STRAYS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SUBHUMAN RETA": {
+    "ticker": "SUBHUMAN RETA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 9
+  },
+  "Sam": {
+    "ticker": "Sam",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Satrio": {
+    "ticker": "Satrio",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Satsuki": {
+    "ticker": "Satsuki",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Saviours": {
+    "ticker": "Saviours",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Schrodinger": {
+    "ticker": "Schrodinger",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 24
+  },
+  "Schr\u00f6din": {
+    "ticker": "Schr\u00f6din",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Schr\u00f6dinger": {
+    "ticker": "Schr\u00f6dinger",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 7
+  },
+  "SheWojak": {
+    "ticker": "SheWojak",
+    "narrative": "\u043c\u0435\u043c/\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+    "tokens": 1
+  },
+  "Sheldon": {
+    "ticker": "Sheldon",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Shiro": {
+    "ticker": "Shiro",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Shitcoin": {
+    "ticker": "Shitcoin",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "Shooter": {
+    "ticker": "Shooter",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Simba": {
+    "ticker": "Simba",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SoFiD": {
+    "ticker": "SoFiD",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Solana": {
+    "ticker": "Solana",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 4
+  },
+  "Solona": {
+    "ticker": "Solona",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 5
+  },
+  "Sonnet": {
+    "ticker": "Sonnet",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SoundV": {
+    "ticker": "SoundV",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SpacePepe": {
+    "ticker": "SpacePepe",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 5
+  },
+  "SpaceX": {
+    "ticker": "SpaceX",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Sparky": {
+    "ticker": "Sparky",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "Spin ": {
+    "ticker": "Spin ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Stake": {
+    "ticker": "Stake",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Stare": {
+    "ticker": "Stare",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Suckerfish": {
+    "ticker": "Suckerfish",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "SueaAuan": {
+    "ticker": "SueaAuan",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Sulwe": {
+    "ticker": "Sulwe",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "SummerGuy": {
+    "ticker": "SummerGuy",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 4
+  },
+  "SuperGrok": {
+    "ticker": "SuperGrok",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Surfer": {
+    "ticker": "Surfer",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Syst": {
+    "ticker": "Syst",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TA-125": {
+    "ticker": "TA-125",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TACO": {
+    "ticker": "TACO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 4
+  },
+  "TAXC": {
+    "ticker": "TAXC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TESLA PETS": {
+    "ticker": "TESLA PETS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 10
+  },
+  "TESLADOG": {
+    "ticker": "TESLADOG",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "TESLAPETS": {
+    "ticker": "TESLAPETS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 5
+  },
+  "TESTH": {
+    "ticker": "TESTH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TGWC": {
+    "ticker": "TGWC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 5
+  },
+  "THEHEROICDOG": {
+    "ticker": "THEHEROICDOG",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "TICK": {
+    "ticker": "TICK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TIME": {
+    "ticker": "TIME",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TITMILK": {
+    "ticker": "TITMILK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TKC": {
+    "ticker": "TKC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TL": {
+    "ticker": "TL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "TMB": {
+    "ticker": "TMB",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TOE": {
+    "ticker": "TOE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TOESCOIN": {
+    "ticker": "TOESCOIN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TOGI": {
+    "ticker": "TOGI",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TOLY": {
+    "ticker": "TOLY",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TPe": {
+    "ticker": "TPe",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "TRALALERO": {
+    "ticker": "TRALALERO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TRC": {
+    "ticker": "TRC",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TREND": {
+    "ticker": "TREND",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "TRIOLETSURF": {
+    "ticker": "TRIOLETSURF",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TRKZ": {
+    "ticker": "TRKZ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TROLLBANK": {
+    "ticker": "TROLLBANK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TROLLWHLE": {
+    "ticker": "TROLLWHLE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TRUCK": {
+    "ticker": "TRUCK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TRUMP": {
+    "ticker": "TRUMP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "TRUMP2028": {
+    "ticker": "TRUMP2028",
+    "narrative": "\u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430/\u043a\u0443\u043b\u044c\u0442",
+    "tokens": 1
+  },
+  "TRUMPBILL": {
+    "ticker": "TRUMPBILL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TRUST": {
+    "ticker": "TRUST",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 24
+  },
+  "TRYHARDS": {
+    "ticker": "TRYHARDS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TT": {
+    "ticker": "TT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "TTT": {
+    "ticker": "TTT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TTTT": {
+    "ticker": "TTTT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "TUARDUN": {
+    "ticker": "TUARDUN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TUGI": {
+    "ticker": "TUGI",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 6
+  },
+  "TUNGBABA": {
+    "ticker": "TUNGBABA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "TVT": {
+    "ticker": "TVT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "TX\u0130": {
+    "ticker": "TX\u0130",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TYS": {
+    "ticker": "TYS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Temple Cat": {
+    "ticker": "Temple Cat",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 3
+  },
+  "TeslaCat": {
+    "ticker": "TeslaCat",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "TikToker": {
+    "ticker": "TikToker",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "Tiles": {
+    "ticker": "Tiles",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 6
+  },
+  "Timmy": {
+    "ticker": "Timmy",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TinyWorld": {
+    "ticker": "TinyWorld",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Toro": {
+    "ticker": "Toro",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Tortilla": {
+    "ticker": "Tortilla",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TrackRoyalPop": {
+    "ticker": "TrackRoyalPop",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Tralape": {
+    "ticker": "Tralape",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TrapPeng": {
+    "ticker": "TrapPeng",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Tremp": {
+    "ticker": "Tremp",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TripleJ": {
+    "ticker": "TripleJ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Trp": {
+    "ticker": "Trp",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Trump": {
+    "ticker": "Trump",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "Tsuki": {
+    "ticker": "Tsuki",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "TvT": {
+    "ticker": "TvT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "UBE": {
+    "ticker": "UBE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "UFU": {
+    "ticker": "UFU",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "ULTRA": {
+    "ticker": "ULTRA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "USA": {
+    "ticker": "USA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "USDT": {
+    "ticker": "USDT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "UTK": {
+    "ticker": "UTK",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Uta-Chan": {
+    "ticker": "Uta-Chan",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "VANCE": {
+    "ticker": "VANCE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "VANCEEE": {
+    "ticker": "VANCEEE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "VEGA": {
+    "ticker": "VEGA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "VELA": {
+    "ticker": "VELA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "VIRL": {
+    "ticker": "VIRL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "VIRUS": {
+    "ticker": "VIRUS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "VNT": {
+    "ticker": "VNT",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "VODAFONE": {
+    "ticker": "VODAFONE",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "VOID": {
+    "ticker": "VOID",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Vortex": {
+    "ticker": "Vortex",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "WATCHDOG": {
+    "ticker": "WATCHDOG",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WATER": {
+    "ticker": "WATER",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WATERMELON": {
+    "ticker": "WATERMELON",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WAYMO": {
+    "ticker": "WAYMO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WBS": {
+    "ticker": "WBS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WCB": {
+    "ticker": "WCB",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WCOIN": {
+    "ticker": "WCOIN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "WCOR": {
+    "ticker": "WCOR",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WCP": {
+    "ticker": "WCP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WD40": {
+    "ticker": "WD40",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WEALTH": {
+    "ticker": "WEALTH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WENL": {
+    "ticker": "WENL",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WIF": {
+    "ticker": "WIF",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "WIFLIPS": {
+    "ticker": "WIFLIPS",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WIFPAPER": {
+    "ticker": "WIFPAPER",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WIN7": {
+    "ticker": "WIN7",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WOLFPACK": {
+    "ticker": "WOLFPACK",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "WOO": {
+    "ticker": "WOO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WORLDCUP": {
+    "ticker": "WORLDCUP",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 3
+  },
+  "WRASH": {
+    "ticker": "WRASH",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WW COPIU": {
+    "ticker": "WW COPIU",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WYNN": {
+    "ticker": "WYNN",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Whales": {
+    "ticker": "Whales",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "Whitney": {
+    "ticker": "Whitney",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "Willow": {
+    "ticker": "Willow",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 5
+  },
+  "Windows": {
+    "ticker": "Windows",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Woo": {
+    "ticker": "Woo",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "WoofCat": {
+    "ticker": "WoofCat",
+    "narrative": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+    "tokens": 1
+  },
+  "Would": {
+    "ticker": "Would",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "XBOX": {
+    "ticker": "XBOX",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "YAHU": {
+    "ticker": "YAHU",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "YAO": {
+    "ticker": "YAO",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "YART ": {
+    "ticker": "YART ",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 2
+  },
+  "YMA": {
+    "ticker": "YMA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "YMCA": {
+    "ticker": "YMCA",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 4
+  },
+  "YOGINU": {
+    "ticker": "YOGINU",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "YPLYDM": {
+    "ticker": "YPLYDM",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },
+  "Yae": {
+    "ticker": "Yae",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 9
+  },
+  "Yao": {
+    "ticker": "Yao",
+    "narrative": "\u0434\u0440\u0443\u0433\u043e\u0435",
+    "tokens": 1
+  },

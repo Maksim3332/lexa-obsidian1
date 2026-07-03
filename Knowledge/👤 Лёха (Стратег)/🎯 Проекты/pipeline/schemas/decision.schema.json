@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Product Decision — Main review output",
+  "type": "object",
+  "required": ["intent_id", "decision", "reason", "reviewer", "timestamp"],
+  "properties": {
+    "intent_id": {"type": "string", "description": "Reference to the original intent ID"},
+    "decision": {"type": "string", "enum": ["accept", "reject", "defer"], "description": "Decision on the intent"},
+    "reason": {"type": "string", "description": "Why this decision was made"},
+    "reviewer": {"type": "string", "description": "Who reviewed (general / human)"},
+    "priority": {"type": "string", "enum": ["high", "medium", "low"], "description": "Execution priority"},
+    "assignee": {"type": "string", "enum": ["builder", "dreamer", "general"], "description": "Who should execute"},
+    "defer_until": {"type": "string", "format": "date-time", "description": "If deferred, when to revisit"},
+    "timestamp": {"type": "string", "format": "date-time"}
+  }
+}

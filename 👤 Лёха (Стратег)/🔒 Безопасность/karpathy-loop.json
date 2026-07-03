@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "outcomes": [
+    {
+      "ts": "2026-06-10T02:31:09.292551",
+      "memory_id": "0399307c-01d4-49ea-96cf-22c81b49aee9",
+      "outcome": "success",
+      "details": "Token XYZ pumped 40% after alert",
+      "token": "ABC123",
+      "memory_content": "Token XYZ: scored 85/100, dev sold tokens, MC at 50000, SM count 12"
+    },
+    {
+      "ts": "2026-06-10T02:31:12.910117",
+      "memory_id": "92f5ba37-a6c4-458f-92aa-3e1b4c8dfb73",
+      "outcome": "failure",
+      "details": "Token dumped 80% after entry, scored 30 with no SM",
+      "token": "ABC123",
+      "memory_content": "Token XYZ: scored 30/100, dev not sold, MC at 200000, SM count 0, liq 1000"
+    },
+    {
+      "ts": "2026-06-10T02:49:01.633986",
+      "memory_id": "2c277ab2-64a1-44ce-b545-53ced6bdfe49",
+      "outcome": "partial",
+      "details": "Cluster 48h follow-up from 8 Jun snapshot. 7 tokens: 2 stable (AMERICA -1.6%, KEKIUS -7.1%), 5 crashed. SM accumulated on dip for Teletubby (+16 SM despite -77.6% MC) and LIFE (+10 SM despite -82.1% M",
+      "token": "",
+      "memory_content": "SM Cluster 48h follow-up: 7 tokens from 8 Jun. AMERICA stable -1.6% (SM 31→33), "
+    }
+  ],
+  "total_success": 1,
+  "total_failure": 1,
+  "total_partial": 1,
+  "rules_generated": 1
+}

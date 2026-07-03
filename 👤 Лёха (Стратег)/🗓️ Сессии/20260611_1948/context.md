@@ -1,0 +1,72 @@
+- [2026-06-06 02:47:42] [setup] Настроено авто-сохранение шагов: save-step.sh + AGENTS.md + memory-lexa + supermemory
+- [2026-06-06 02:49:33] [setup] Установлен ocwatch v0.6.0, порт 50234, дашборд добавлен в lexa-obsidian
+- [2026-06-06 02:49:34] [setup] Добавлено правило ПРОМТ: в AGENTS.md
+- [2026-06-06 02:52:01] [fasol] Обновлён fasol-skills: два новых sub-skill (smart-money-stream, calls-stream) + changelog прочитан
+- [2026-06-06 03:02:00] [infra] Установлен twitter-research MCP (twitterapi.io) — 7 инструментов зарегистрированы в settings.json
+- [2026-06-06 03:15:00] [research] v3 Research: $DATBIHGAH — 1-я попытка (неполная). Пропущен @DatBihGahonsol, не понят нарратив
+- [2026-06-06 03:25:00] [research] v3 Research: $DATBIHGAH — 2-я попытка (полная). Найдены @DatBihGahonsol (0 foll, 10 tweets), KYM roundup, мем-активность. Понят нарратив: виральный TikTok kid (@braydenharrelson1) → Kool-Aid pineapple → "Dat Bih Gah" как новый сленг вместо "fire/gas"
+- [2026-06-06 03:11:07] [research] v3 Research DATBIHGAH: полный разбор с twitterapi.io. Нарратив — TikTok Kool-Aid pineapple kid (@braydenharrelson1), фраза 'Dat Bih Gah' как новый сленг вместо fire/gas. KYM + Yahoo News подтверждают виральность. @DatBihGahonsol жив (0 foll, 10 tweets). Вердикт: pump-аккаунт слабый, но культурный мем реален — требует мониторинга
+- [2026-06-06 03:11:09] [session-end] Сессия завершена
+- [2026-06-06 03:14:20] [protocol] v2.0 протокола: добавлен Этап 2 (Narrative Intelligence) — Сначала разобрать мем, потом привязать к токену. Обновлены Social и On-Chain разделы. Исправлены параметры twitterapi.io (userName вместо userNameOrEmailAddress)
+- [2026-06-06 03:14:21] [session-end] Сессия завершена
+- [2026-06-06 03:22:39] [infra] Починил nginx: root / теперь проксирует на ocwatch (50234). Fasol Journal вынесен на /journal/. SSE таймаут увеличен до 1ч для live-обновлений
+- [2026-06-06 03:22:40] [session-end] Сессия завершена
+- [2026-06-06 19:30:00] [infra] Отладка OCWatch: белый экран через nginx. Причина — двойное сжатие (bun gzip + nginx). Фикс: proxy_set_header Accept-Encoding "";
+- [2026-06-06 19:45:00] [infra] Настроен SSL (самоподписанный) на 443 порт для авто-HTTPS браузера
+- [2026-06-06 20:00:00] [infra] OCWatch на http://82.29.72.151/ (корень, работает). Dashboard на /cabin/
+- [2026-06-06 20:15:00] [session-end] Сессия завершена. Итог: OCWatch починен, SSL настроен, nginx оптимизирован
+
+## 2026-06-07 — Прерывание сессии
+- Причина: оплата через 5 дней, перебои на сервере
+- Сессия прервана
+- Последний контекст: SV151 — HIGH RISK AVOID, Fasol Scanner v2 scalp pipeline, Protocol v3
+- [2026-06-07 03:29:45] [session-interrupt] Сессия прервана — оплата через 5 дней, перебои сервера
+- [2026-06-07 03:30:30] [session-resume] Сессия восстановлена после reboot сервера
+
+## 2026-06-07 — Удаление Fasol Journal + отключение алертов
+- Fasol Journal: сервис остановлен, systemd файл удалён, директория /opt/fasol-journal удалена
+- Telegram алерты: TELEGRAM_ENABLED = False в /opt/fasol-scanner/config.py
+- Добавлена проверка TELEGRAM_ENABLED в scanner.py перед send_alert
+- Скальп-стратегия и скилы — сохранены
+- Решение: торгуем реальной SOL
+- [2026-06-07 03:45:11] [rule] Добавлено правило пошаговой разработки в AGENTS.md
+- [2026-06-07 03:57:51] [hermes-progress] Hermes: Фаза 2 и Фаза 5 завершены. Остались Фаза 3 (GEPA) и Фаза 4 (Cron)
+- [2026-06-07 04:53:59] [session-end] Сессия: MemeSniper запущен, Hermes Фаза 2+5 готовы
+- [2026-06-08 19:27:55] [cluster] Snapshot 7 SM-cluster tokens saved (shibpost, Teletubby, POG, PHOTO, KEKIUS, AMERICA, LIFE) для проверки в след. сессии
+- [2026-06-08 20:32:56] [general] Dune wallet pipeline: query created, 100 wallets imported, cluster snapshot taken, auto-update on session start
+- [2026-06-08 20:53:37] [general] Dune winrate70+ avgPnL50+ query. 32 clean wallets saved to clipboard after GMGN balance+activity check
+- [2026-06-08 22:23:45] [general] Глобальный план: пауза на кластерной стратегии, фиксим направление
+- [2026-06-08 22:24:41] [general] Глобальный план: global-plan.md + обновление active/backlog
+- [2026-06-08 22:31:12] [general] Глобальный план: Signal Dashboard Platform — Фазы 1-3
+- [2026-06-08 23:30] [milestone] Внедрение Vellum-inspired архитектуры: Graph Memory + SubAgent Roles + Pattern Scanner + Heartbeat. Ключевые файлы: /usr/local/bin/graph-memory, agent-role, pattern-scan, lexa-heartbeat. DB: /root/lexa-knowledge/graph-memory/store.db (12 нод, 5 рёбер). AGENTS.md переписан.
+- [2026-06-10 01:00:27] [session-start] Сессия восстановлена после лимитов. Graph Memory (16 нод). Scanner+MemeSniper запущены.
+- [2026-06-10 01:00:28] [session-end] Сессия завершена
+- [2026-06-10 01:00:36] [session-start] Сессия старт. Всё поднято. Graph Memory 16 нод.
+- [2026-06-10 01:09:18] [research] Разобрали TradingAgents — multi-agent LLM trading framework. 84.7k★. LangGraph, 4 команды агентов, дебаты, checkpoint/resume, двухфазная память. Можно забрать: structured output fallback, message clear nodes, дебейтные циклы, checkpoint resume.
+- [2026-06-10 01:27:41] [dev] Checkpoint система: /usr/local/bin/checkpoint — SQLite-база прогресса анализа. save/load/latest/list/done/remove. Этапы 0-7. Данные мержатся инкрементально. Resume после OpenCode лимитов.
+- [2026-06-10 01:39:21] [infra] Camofox browser уже работает. Docker на 9377/6080. CLI /usr/local/bin/camofox. Twitter-scraper (TheRoaringKitty, RKC) через Camofox на 9102. VNC сессия vnc_login с куками Twitter.
+- [2026-06-10 01:52:30] [dev] Установлены AutoHedge (v0.1.6) и Vibe-Trading (v0.1.9). AutoHedge — Jupiter Ultra API инструменты для Solana. Vibe-Trading — 452 alphas, 10 brokers, swarm, MCP. План обновлён.
+[2026-06-10 02:20:27] Safety Mandate + Kill Switch deployed
+  - /usr/local/bin/safety-mandate CLI (halt/resume/pause/edit/audit/daily-reset)
+  - /usr/local/bin/gmgn-safe wrapper (pre-trade checks: HALT, score, position, limit)
+  - /opt/safe-server.py with /api/safety-status endpoint
+  - NFT dashboard safety indicator on port 8080
+  - Audit log: /root/lexa-knowledge/safety/audit/
+  - Daily counter auto-reset via cron (midnight)
+- [2026-06-10 02:48:56] [general] SM Cluster 48h follow-up: 7 tokens from 8 Jun. AMERICA stable -1.6% (SM 31→33), KEKIUS -7.1% (SM 32→33). SM bought dip: Teletubby +16 SM at -77.6%, LIFE +10 SM at -82.1%. Dead: shibpost -93.9%, POG -97.3%, PHOTO -87%
+- [2026-06-10 02:48:56] [session-end] Сессия завершена
+- [2026-06-10 03:22:11] [general] Настроен snapshot-collector.sh — авто-снапшоты кластеров и скальпинг-кандидатов каждые 6ч через cron. Первый снапшот: 12 кластерных токенов, 8 скальп-кандидатов (Puffy SM=4 лучший). Данные для бектеста копятся в /root/lexa-knowledge/snapshots/
+- [2026-06-10 03:22:12] [session-end] Сессия завершена
+- [2026-06-10 03:48:28] [general] Dreamer layer deployed: walk + signal filter + board + handoff + digest + cron + agent-role
+- [2026-06-10 03:48:29] [session-end] Сессия завершена
+- [2026-06-10 04:03:01] [session-end] Сессия завершена
+- [2026-06-11 03:09:23] [general] Настроен Telegram → Open Notebook bridge: пользователь шлёт ссылки в TG, бот кладёт в Open Notebook, я анализирую и сохраняю в supermemory. При старте сессии отображаю новые источники.
+- [2026-06-11 03:09:24] [session-end] Сессия завершена
+- [2026-06-11 03:10:25] [general] Session 2026-06-11: Telegram→Open Notebook bridge, Buildroom→Dreamer bridge, tools audit
+- [2026-06-11 03:10:27] [session-end] Сессия завершена
+- [2026-06-11 03:49:18] [walrus-memory] Walrus Memory: ключ не добыт (нужно 66 hex символов с сайта memory.walrus.xyz, отложено)
+- [2026-06-11 03:49:22] [walrus-memory] BaiBit seed phrase проверена — не совпадает с Walrus ключом
+- [2026-06-11 03:49:22] [session-end] Сессия завершена
+- [2026-06-11 19:48:31] [general] Аудит инструментов: 35 скилов, Open Notebook TG-бридж, Buildroom→Dreamer bridge
+- [2026-06-11 19:48:32] [tools-audit] Аудит инструментов: 35 скилов, Open Notebook TG-бридж, Buildroom→Dreamer bridge
+- [2026-06-11 19:48:34] [session-end] Сессия завершена

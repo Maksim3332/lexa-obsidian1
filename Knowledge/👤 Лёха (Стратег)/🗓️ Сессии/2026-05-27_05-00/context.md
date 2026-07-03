@@ -1,0 +1,13 @@
+Phase 1 — Memory System Upgrade (part 1, без supermemory)
+- Obsidian vault создан: /root/lexa-obsidian/
+  - Структура: Knowledge, Plans, Sessions, Trading, Infrastructure
+  - Симлинки на реальные файлы (не дубликаты!)
+  - .obsidian/ конфиг для работы в Obsidian GUI
+  - Категорийные README с Obsidian [[wiki-links]]
+- REST API памяти: /api/memory/* на порту 9200 (встроен в Fasol Journal)
+  - search, knowledge, vector, save, list, sessions, stats
+  - SQLite FTS (Tier 2) + memory-lexa CLI (Tier 3 base)
+- Скрипт синхронизации: /usr/local/bin/lexa-vault-sync.sh
+- Авто-пуш: lexa-brain-push.sh при завершении сессии
+- opencode-supermemory-max отложен (нужен API ключ от app.supermemory.ai)
+- Telegram бот: AgentusAlexusBot (@d11111k), токен обновлён

@@ -1,0 +1,58 @@
+{
+  "timestamp": 1781517601,
+  "datetime": "2026-06-15",
+  "type": "scalp",
+  "strategy_params": {
+    "min_mc": 30000,
+    "max_mc": 300000,
+    "min_vol_mc_ratio": 5,
+    "max_bot_rate": 0.5,
+    "gold_zone_min": 50000,
+    "gold_zone_max": 150000
+  },
+  "candidates": [
+    {
+      "address": "HQSAdwXTMoi9ciT7giEFz4Eq8Ad2KtsYbV83MiXiuEHH",
+      "symbol": "O",
+      "mc": 48288.8,
+      "liquidity": 64073.1,
+      "volume": 659071.0,
+      "vol_mc_ratio": 13.65,
+      "smart_money": 0,
+      "bot_rate": 0.2135,
+      "holders": 1005,
+      "price": 4.82888e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "EHSoKsj7iNBScwAdmguyK4XZ3K6NzEVY7WbYqhBB1HCM",
+      "symbol": "JAMESON",
+      "mc": 30540.7,
+      "liquidity": 50927.6,
+      "volume": 466252.0,
+      "vol_mc_ratio": 15.27,
+      "smart_money": 0,
+      "bot_rate": 0.0922,
+      "holders": 1148,
+      "price": 3.05407e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "GHnnZw2XTuNqADSdvrzRbQZ143knrKR9REJ1KtXF8khq",
+      "symbol": "Internet",
+      "mc": 63823.96,
+      "liquidity": 36600.72,
+      "volume": 634681.21,
+      "vol_mc_ratio": 9.94,
+      "smart_money": 0,
+      "bot_rate": 0.4491,
+      "holders": 2140,
+      "price": 0,
+      "source": "trenches"
+    }
+  ],
+  "count": 3,
+  "gold_zone_count": 1,
+  "with_sm_count": 0,
+  "with_sm3_count": 0
+}

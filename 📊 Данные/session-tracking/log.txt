@@ -1,0 +1,3263 @@
+[2026-05-22 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 202.773612165 SOL
+  WURLDCAP | Price: 0.000027062882 | MC: 26,847 | H: 772 | SM: 12 | Vol1h: 3417.77328297 | B/S 1m: 1/4
+  ⟳ From previous: -100.0% | Vol: +244.1x | B/S ratio: 0.2
+  📉 PATTERN: -20% dump in 🌍 Europe session — WURLDCAP
+  TOLYBOT | Price: 0.0013061309 | MC: 1,305,855 | H: 5468 | SM: 77 | Vol1h: 24591.93619637 | B/S 1m: 0/2
+  ⟳ From previous: -100.0% | Vol: +24591.9x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000029396287 | MC: 29,393 | H: 269 | SM: 13 | Vol1h: 651.6966978 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +325.8x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.000052629917 | MC: 52,614 | H: 423 | SM: 28 | Vol1h: 133.73119975 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0 | MC: 0 | H: 2 | SM: 0 | Vol1h: 0 | B/S 1m: 0/0
+[2026-05-22 10:00] [🌍 Europe] Session analysis complete
+[2026-05-22 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 12734424.88967005 | Tokens: 8681 | Traders: 30483 | Fees: 756.769883124 SOL
+  [Dune] Vol/token: 1467 USD
+  [Dune] Market regime: saturated
+  WURLDCAP | Price: 0.000033580564 | MC: 33,313 | H: 733 | SM: 12 | Vol1h: 3133.68006169 | B/S 1m: 3/0
+  ⟳ From previous: -100.0% | Vol: +3133.7x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — WURLDCAP
+  TOLYBOT | Price: 0.0012556645 | MC: 1,255,400 | H: 5423 | SM: 77 | Vol1h: 11209.36188557 | B/S 1m: 1/2
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: 0.5
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000025664105 | MC: 25,662 | H: 271 | SM: 13 | Vol1h: 759.74368856 | B/S 1m: 2/5
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: 0.4
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  Panda | Price: 0.000054013242 | MC: 53,996 | H: 417 | SM: 28 | Vol1h: 357.39781445 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0 | MC: 0 | H: 2 | SM: 0 | Vol1h: 0 | B/S 1m: 0/0
+[2026-05-22 16:00] [🌎 US] Session analysis complete
+[2026-05-23 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 24681642.48870646 | Tokens: 23380 | Traders: 46870 | Fees: 2266.837778775 SOL
+  [Dune] Vol/token: 1056 USD
+  [Dune] Market regime: saturated
+  WURLDCAP | Price: 0.000013180723 | MC: 13,076 | H: 609 | SM: 12 | Vol1h: 3597.44700332 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: +1199.1x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — WURLDCAP
+  TOLYBOT | Price: 0.0012842416 | MC: 1,283,538 | H: 5353 | SM: 77 | Vol1h: 30817.12380614 | B/S 1m: 1/2
+  ⟳ From previous: -100.0% | Vol: +30817.1x | B/S ratio: 0.5
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.000023073101 | MC: 23,071 | H: 255 | SM: 13 | Vol1h: 1425.87797544 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +712.9x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.000059764152 | MC: 59,746 | H: 408 | SM: 28 | Vol1h: 307.66906861 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0 | MC: 0 | H: 2 | SM: 0 | Vol1h: 0 | B/S 1m: 0/0
+[2026-05-23 02:00] [🌏 Asia] Session analysis complete
+[2026-05-23 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 242.520870195 SOL
+  WURLDCAP | Price: 0.0000074525799 | MC: 7,393 | H: 538 | SM: 12 | Vol1h: 462.61211446 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — WURLDCAP
+  TOLYBOT | Price: 0.00060484932 | MC: 604,518 | H: 5320 | SM: 80 | Vol1h: 77945.64225558 | B/S 1m: 12/3
+  ⟳ From previous: -100.0% | Vol: +77945.6x | B/S ratio: 4.0
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000022089312 | MC: 22,087 | H: 291 | SM: 18 | Vol1h: 2634.59252368 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.000048621986 | MC: 48,607 | H: 417 | SM: 28 | Vol1h: 109.043413165 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0 | MC: 0 | H: 2 | SM: 0 | Vol1h: 0 | B/S 1m: 0/0
+[2026-05-23 10:00] [🌍 Europe] Session analysis complete
+[2026-05-23 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 14092540.640008666 | Tokens: 6232 | Traders: 25311 | Fees: 900.375897378 SOL
+  [Dune] Vol/token: 2261 USD
+  [Dune] Market regime: saturated
+  WURLDCAP | Price: 0.0000068318058 | MC: 6,777 | H: 520 | SM: 12 | Vol1h: 652.13993127 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — WURLDCAP
+  TOLYBOT | Price: 0.00055834396 | MC: 558,038 | H: 5187 | SM: 80 | Vol1h: 25216.35268319 | B/S 1m: 0/2
+  ⟳ From previous: -100.0% | Vol: +2101.4x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000028055801 | MC: 28,053 | H: 258 | SM: 18 | Vol1h: 556.21024687 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.000049684157 | MC: 49,669 | H: 406 | SM: 28 | Vol1h: 1.10555061 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0 | MC: 0 | H: 2 | SM: 0 | Vol1h: 0 | B/S 1m: 0/0
+[2026-05-23 16:00] [🌎 US] Session analysis complete
+[2026-05-24 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 23777936.60554387 | Tokens: 14732 | Traders: 40352 | Fees: 2170.291507107 SOL
+  [Dune] Vol/token: 1614 USD
+  [Dune] Market regime: saturated
+  WURLDCAP | Price: 0.0000069851677 | MC: 6,929 | H: 504 | SM: 13 | Vol1h: 238.27982021 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — WURLDCAP
+  TOLYBOT | Price: 0.00050517399 | MC: 504,897 | H: 5136 | SM: 80 | Vol1h: 30632.38093546 | B/S 1m: 1/3
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: 0.3
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.000039793226 | MC: 39,789 | H: 255 | SM: 18 | Vol1h: 2299.53500676 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.000043730354 | MC: 43,717 | H: 396 | SM: 28 | Vol1h: 34.77764009 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0 | MC: 0 | H: 49 | SM: 0 | Vol1h: 0 | B/S 1m: 0/0
+[2026-05-24 02:00] [🌏 Asia] Session analysis complete
+[2026-05-24 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 1701 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000062649908 | MC: 6,214 | H: 489 | SM: 13 | Vol1h: 159.21975483 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — WURLDCAP
+  TOLYBOT | Price: 0.00062054285 | MC: 620,203 | H: 5151 | SM: 84 | Vol1h: 50048.9551814 | B/S 1m: 2/0
+  ⟳ From previous: -100.0% | Vol: +50049.0x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000032144448 | MC: 32,141 | H: 247 | SM: 18 | Vol1h: 1354.26355452 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.000049065719 | MC: 49,050 | H: 390 | SM: 28 | Vol1h: 0.091796702 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0 | MC: 0 | H: 254 | SM: 0 | Vol1h: 0 | B/S 1m: 0/0
+[2026-05-24 10:00] [🌍 Europe] Session analysis complete
+[2026-05-24 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 14494536.183906795 | Tokens: 6080 | Traders: 30833 | Fees: 863.211697042 SOL
+  [Dune] Vol/token: 2384 USD
+  [Dune] Market regime: saturated
+  WURLDCAP | Price: 0.0000055711107 | MC: 5,526 | H: 480 | SM: 13 | Vol1h: 15.6810728 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — WURLDCAP
+  TOLYBOT | Price: 0.00080625544 | MC: 805,813 | H: 5091 | SM: 84 | Vol1h: 39394.38363402 | B/S 1m: 3/7
+  ⟳ From previous: -100.0% | Vol: +19697.2x | B/S ratio: 0.4
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000030622174 | MC: 30,619 | H: 265 | SM: 18 | Vol1h: 1841.3206239 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00004971488 | MC: 49,699 | H: 393 | SM: 28 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -99.9% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0 | MC: 0 | H: 293 | SM: 0 | Vol1h: 0 | B/S 1m: 0/0
+[2026-05-24 16:00] [🌎 US] Session analysis complete
+[2026-05-25 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 25118323.14706488 | Tokens: 14875 | Traders: 47518 | Fees: 2206.09109488 SOL
+  [Dune] Vol/token: 1689 USD
+  [Dune] Market regime: saturated
+  WURLDCAP | Price: 0.0000068312042 | MC: 6,776 | H: 483 | SM: 13 | Vol1h: 80.25302736 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — WURLDCAP
+  TOLYBOT | Price: 0.00055492024 | MC: 554,615 | H: 5092 | SM: 84 | Vol1h: 26327.034276915 | B/S 1m: 0/3
+  ⟳ From previous: -100.0% | Vol: +8775.7x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.000036717245 | MC: 36,714 | H: 241 | SM: 18 | Vol1h: 101.21591306 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.000054430298 | MC: 54,413 | H: 392 | SM: 28 | Vol1h: 127.6701248 | B/S 1m: 0/0
+  CupMarkets | Price: 0 | MC: 0 | H: 329 | SM: 0 | Vol1h: 0 | B/S 1m: 0/0
+[2026-05-25 02:00] [🌏 Asia] Session analysis complete
+[2026-05-25 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 323.411016954 SOL
+  WURLDCAP | Price: 0.0000071242358 | MC: 7,066 | H: 471 | SM: 13 | Vol1h: 12.90522801 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — WURLDCAP
+  TOLYBOT | Price: 0.00071946684 | MC: 719,066 | H: 5095 | SM: 87 | Vol1h: 15883.083165141 | B/S 1m: 2/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000025245974 | MC: 25,244 | H: 251 | SM: 18 | Vol1h: 507.86790699 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.000040387692 | MC: 40,375 | H: 398 | SM: 28 | Vol1h: 861.93560732 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0 | MC: 0 | H: 367 | SM: 0 | Vol1h: 0 | B/S 1m: 0/0
+[2026-05-25 10:00] [🌍 Europe] Session analysis complete
+[2026-05-25 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 19075114.753321975 | Tokens: 8156 | Traders: 32169 | Fees: 1013.155163254 SOL
+  [Dune] Vol/token: 2339 USD
+  [Dune] Market regime: saturated
+  WURLDCAP | Price: 0.0000068193543 | MC: 6,764 | H: 464 | SM: 13 | Vol1h: 0.855356 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — WURLDCAP
+  TOLYBOT | Price: 0.00090410142 | MC: 903,597 | H: 5084 | SM: 87 | Vol1h: 29782.33505075 | B/S 1m: 2/1
+  ⟳ From previous: -100.0% | Vol: +14891.2x | B/S ratio: 2.0
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000027166161 | MC: 27,164 | H: 237 | SM: 18 | Vol1h: 45.87451294 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.000038381429 | MC: 38,369 | H: 390 | SM: 28 | Vol1h: 1191.15704566 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0 | MC: 0 | H: 374 | SM: 0 | Vol1h: 0 | B/S 1m: 0/0
+[2026-05-25 16:00] [🌎 US] Session analysis complete
+[2026-05-26 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 33878383.232386425 | Tokens: 19618 | Traders: 51532 | Fees: 2707.05755575 SOL
+  [Dune] Vol/token: 1727 USD
+  [Dune] Market regime: saturated
+  WURLDCAP | Price: 0.0000064447178 | MC: 6,392 | H: 456 | SM: 13 | Vol1h: 226.096111797 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — WURLDCAP
+  TOLYBOT | Price: 0.00069642971 | MC: 696,041 | H: 5461 | SM: 87 | Vol1h: 20576.076778943 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: +10288.0x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.000017654627 | MC: 17,653 | H: 234 | SM: 19 | Vol1h: 320.57220352 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.000040348728 | MC: 40,336 | H: 373 | SM: 28 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00011102893 | MC: 111,029 | H: 508 | SM: 1 | Vol1h: 3070.10540922 | B/S 1m: 0/0
+[2026-05-26 02:00] [🌏 Asia] Session analysis complete
+[2026-05-26 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 1755 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000060778403 | MC: 6,028 | H: 445 | SM: 13 | Vol1h: 20.93291873 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — WURLDCAP
+  TOLYBOT | Price: 0.00098339251 | MC: 982,843 | H: 5625 | SM: 87 | Vol1h: 18001.66345148 | B/S 1m: 1/7
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: 0.1
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000013995968 | MC: 13,995 | H: 227 | SM: 19 | Vol1h: 299.84949098 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.000041222413 | MC: 41,210 | H: 370 | SM: 28 | Vol1h: 0.78070102 | B/S 1m: 0/0
+  CupMarkets | Price: 0.000097437901 | MC: 97,438 | H: 476 | SM: 1 | Vol1h: 331.61815465 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+[2026-05-26 10:00] [🌍 Europe] Session analysis complete
+[2026-05-26 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 15567022.65346098 | Tokens: 6864 | Traders: 31864 | Fees: 891.938070784 SOL
+  [Dune] Vol/token: 2268 USD
+  [Dune] Market regime: saturated
+  WURLDCAP | Price: 0.0000057887268 | MC: 5,742 | H: 444 | SM: 13 | Vol1h: 90.4908808 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — WURLDCAP
+  TOLYBOT | Price: 0.0008363995 | MC: 835,933 | H: 5635 | SM: 87 | Vol1h: 13037.54946563 | B/S 1m: 2/3
+  ⟳ From previous: -100.0% | Vol: +13037.5x | B/S ratio: 0.7
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000013526308 | MC: 13,525 | H: 227 | SM: 19 | Vol1h: 344.68269665 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.000039877122 | MC: 39,865 | H: 368 | SM: 28 | Vol1h: 251.3103273 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00011273722 | MC: 112,737 | H: 484 | SM: 1 | Vol1h: 428.85673142 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+[2026-05-26 16:00] [🌎 US] Session analysis complete
+[2026-05-27 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000050604381 | MC: 5,019 | H: 435 | SM: 13 | Vol1h: 27.13368873 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — WURLDCAP
+  TOLYBOT | Price: 0.00082031478 | MC: 819,856 | H: 5614 | SM: 89 | Vol1h: 29551.52342295 | B/S 1m: 10/9
+  ⟳ From previous: -100.0% | Vol: +14775.8x | B/S ratio: 1.1
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.000010922678 | MC: 10,922 | H: 225 | SM: 19 | Vol1h: 265.29215452 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.000041620428 | MC: 41,607 | H: 364 | SM: 28 | Vol1h: 265.80616908 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00010683346 | MC: 106,833 | H: 473 | SM: 1 | Vol1h: 1395.39586713 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+[2026-05-27 02:00] [🌏 Asia] Session analysis complete
+[2026-05-27 14:04] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000047312317 | MC: 4,693 | H: 425 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — WURLDCAP
+  TOLYBOT | Price: 0.00074787185 | MC: 747,454 | H: 5552 | SM: 91 | Vol1h: 26875.072451807 | B/S 1m: 8/10
+  ⟳ From previous: -100.0% | Vol: +2687.5x | B/S ratio: 0.8
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.0000093388968 | MC: 9,338 | H: 207 | SM: 20 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.000035540018 | MC: 35,529 | H: 364 | SM: 28 | Vol1h: 118.32933691 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00011982249 | MC: 119,822 | H: 480 | SM: 1 | Vol1h: 450.84597089 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+[2026-05-27 14:04] [🌍 Europe] Session analysis complete
+[2026-05-27 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000046535462 | MC: 4,616 | H: 423 | SM: 13 | Vol1h: 46.67030463 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00071404131 | MC: 713,642 | H: 5515 | SM: 91 | Vol1h: 18040.018921123 | B/S 1m: 25/15
+  ⟳ From previous: -100.0% | Vol: +2255.0x | B/S ratio: 1.7
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.0000086703886 | MC: 8,670 | H: 207 | SM: 20 | Vol1h: 176.31717499 | B/S 1m: 0/0
+  Panda | Price: 0.000035050816 | MC: 35,040 | H: 363 | SM: 28 | Vol1h: 37.25517572 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00012178555 | MC: 121,785 | H: 480 | SM: 1 | Vol1h: 665.70464233 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+[2026-05-27 16:00] [🌎 US] Session analysis complete
+[2026-05-28 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000047153358 | MC: 4,677 | H: 419 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — WURLDCAP
+  TOLYBOT | Price: 0.0006428905 | MC: 642,531 | H: 5478 | SM: 91 | Vol1h: 7057.16215163 | B/S 1m: 3/1
+  ⟳ From previous: -100.0% | Vol: +282.3x | B/S ratio: 3.0
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.0000085192623 | MC: 8,518 | H: 197 | SM: 20 | Vol1h: 195.10075454 | B/S 1m: 2/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00003732941 | MC: 37,318 | H: 365 | SM: 29 | Vol1h: 228.72325058 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00014015978 | MC: 140,160 | H: 545 | SM: 1 | Vol1h: 5058.97120503 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:07] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:07] Fetching token info...
+[02:00:07] Fetching holders...
+[02:00:08] Fetching traders...
+[02:00:09] Fetching security...
+[02:00:09] Fetching fasol stats...
+[02:00:09] Patterns: 1
+[02:00:09] Session saved
+[02:00:10] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $642,531 | Holders: 5478
+  SM: 91 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-05-28 02:00] [🌏 Asia] Session analysis complete
+[2026-05-28 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000044342733 | MC: 4,397 | H: 413 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.0006105509 | MC: 610,199 | H: 5427 | SM: 91 | Vol1h: 10487.16162012 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: +3495.7x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.0000080814856 | MC: 8,081 | H: 191 | SM: 20 | Vol1h: 0.59767979 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +0.3x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.000033973633 | MC: 33,963 | H: 362 | SM: 29 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00015490825 | MC: 154,908 | H: 579 | SM: 1 | Vol1h: 796.55141179 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:11] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:11] Fetching token info...
+[10:00:11] Fetching holders...
+[10:00:12] Fetching traders...
+[10:00:13] Fetching security...
+[10:00:14] Fetching fasol stats...
+[10:00:14] Searching Twitter/X for mentions...
+[10:00:15] Patterns: 1
+[10:00:15] Session saved
+[10:00:15] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $610,199 | Holders: 5427
+  SM: 91 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-05-28 10:00] [🌍 Europe] Session analysis complete
+[2026-05-28 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000041414555 | MC: 4,107 | H: 411 | SM: 13 | Vol1h: 1.10968132 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00057502695 | MC: 574,695 | H: 5415 | SM: 91 | Vol1h: 3968.35554435 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.0000062409117 | MC: 6,240 | H: 191 | SM: 20 | Vol1h: 7.35913099 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.000032330943 | MC: 32,321 | H: 361 | SM: 29 | Vol1h: 0 | B/S 1m: 0/0
+  CupMarkets | Price: 0.0001631532 | MC: 163,153 | H: 583 | SM: 1 | Vol1h: 1860.53926463 | B/S 1m: 1/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: 1.0
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:07] Starting 🌎 US analysis for TOLYBOT
+[16:00:07] Fetching token info...
+[16:00:07] Fetching holders...
+[16:00:08] Fetching traders...
+[16:00:08] Fetching security...
+[16:00:09] Fetching fasol stats...
+[16:00:09] Searching Twitter/X for mentions...
+[16:00:10] Patterns: 2
+[16:00:10] Session saved
+[16:00:10] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $574,695 | Holders: 5415
+  SM: 91 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-05-28 16:00] [🌎 US] Session analysis complete
+[2026-05-29 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000042101512 | MC: 4,175 | H: 405 | SM: 13 | Vol1h: 16.34970553 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — WURLDCAP
+  TOLYBOT | Price: 0.00057084681 | MC: 570,518 | H: 5362 | SM: 91 | Vol1h: 3820.12074971 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.000006053261 | MC: 6,053 | H: 184 | SM: 21 | Vol1h: 4.67572695 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.000068781324 | MC: 68,760 | H: 378 | SM: 29 | Vol1h: 272.15442568 | B/S 1m: 0/0
+  CupMarkets | Price: 0.00015496567 | MC: 154,966 | H: 579 | SM: 1 | Vol1h: 137.22220549 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +137.2x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:07] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:07] Fetching token info...
+[02:00:08] Fetching holders...
+[02:00:08] Fetching traders...
+[02:00:09] Fetching security...
+[02:00:10] Fetching fasol stats...
+[02:00:10] Searching Twitter/X for mentions...
+[02:00:11] Patterns: 3
+[02:00:11] Session saved
+[02:00:11] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $570,518 | Holders: 5362
+  SM: 91 | KOL: 19
+  Patterns: 3
+==================================================
+[2026-05-29 02:00] [🌏 Asia] Session analysis complete
+[2026-05-29 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000041294687 | MC: 4,095 | H: 399 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — WURLDCAP
+  TOLYBOT | Price: 0.00034795657 | MC: 347,754 | H: 5411 | SM: 92 | Vol1h: 16714.18810196 | B/S 1m: 0/2
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000006053261 | MC: 6,053 | H: 184 | SM: 21 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.000080117087 | MC: 80,092 | H: 377 | SM: 29 | Vol1h: 222.39389734 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00012949375 | MC: 129,494 | H: 562 | SM: 1 | Vol1h: 69.068693911 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:07] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:07] Fetching token info...
+[10:00:08] Fetching holders...
+[10:00:08] Fetching traders...
+[10:00:09] Fetching security...
+[10:00:10] Fetching fasol stats...
+[10:00:10] Searching Twitter/X for mentions...
+[10:00:13] Patterns: 3
+[10:00:13] Session saved
+[10:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $347,754 | Holders: 5411
+  SM: 92 | KOL: 19
+  Patterns: 3
+==================================================
+[2026-05-29 10:00] [🌍 Europe] Session analysis complete
+[2026-05-29 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000040727832 | MC: 4,039 | H: 398 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00032664115 | MC: 326,451 | H: 5344 | SM: 92 | Vol1h: 5131.39019144 | B/S 1m: 1/2
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: 0.5
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.0000061623909 | MC: 6,162 | H: 183 | SM: 21 | Vol1h: 13.052340797 | B/S 1m: 0/0
+  Panda | Price: 0.000076933701 | MC: 76,910 | H: 374 | SM: 29 | Vol1h: 366.38111994 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00013233228 | MC: 132,332 | H: 565 | SM: 1 | Vol1h: 14.94007425 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:06] Starting 🌎 US analysis for TOLYBOT
+[16:00:06] Fetching token info...
+[16:00:08] Fetching holders...
+[16:00:08] Fetching traders...
+[16:00:09] Fetching security...
+[16:00:09] Fetching fasol stats...
+[16:00:10] Searching Twitter/X for mentions...
+[16:00:10] Patterns: 2
+[16:00:10] Session saved
+[16:00:11] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $326,451 | Holders: 5344
+  SM: 92 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-05-29 16:00] [🌎 US] Session analysis complete
+[2026-05-30 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.000004074975 | MC: 4,041 | H: 393 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00027988756 | MC: 279,724 | H: 5270 | SM: 92 | Vol1h: 5282.42449626 | B/S 1m: 1/0
+  ⟳ From previous: -100.0% | Vol: +5282.4x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.0000057289153 | MC: 5,728 | H: 180 | SM: 21 | Vol1h: 101.40809353 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00011275541 | MC: 112,720 | H: 424 | SM: 29 | Vol1h: 7522.099042413 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00017128002 | MC: 171,280 | H: 609 | SM: 1 | Vol1h: 1648.69371886 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:07] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:07] Fetching token info...
+[02:00:08] Fetching holders...
+[02:00:08] Fetching traders...
+[02:00:09] Fetching security...
+[02:00:10] Fetching fasol stats...
+[02:00:10] Searching Twitter/X for mentions...
+[02:00:11] Patterns: 3
+[02:00:11] Session saved
+[02:00:11] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $279,724 | Holders: 5270
+  SM: 92 | KOL: 19
+  Patterns: 3
+==================================================
+[2026-05-30 02:00] [🌏 Asia] Session analysis complete
+[2026-05-30 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000040942593 | MC: 4,060 | H: 391 | SM: 13 | Vol1h: 1.65897342 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00028507786 | MC: 284,912 | H: 5234 | SM: 92 | Vol1h: 1546.325903 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: +1546.3x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.0000056876413 | MC: 5,687 | H: 179 | SM: 21 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00016988028 | MC: 169,827 | H: 453 | SM: 29 | Vol1h: 4389.81740678 | B/S 1m: 1/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00016093134 | MC: 160,931 | H: 619 | SM: 1 | Vol1h: 1140.054673749 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:02:20] Starting 🌍 Europe analysis for TOLYBOT
+[10:02:20] Fetching token info...
+[10:02:21] Fetching holders...
+[10:02:21] Fetching traders...
+[10:02:22] Fetching security...
+[10:02:22] Fetching fasol stats...
+[10:02:23] Searching Twitter/X for mentions...
+[10:02:24] Patterns: 2
+[10:02:24] Session saved
+[10:02:24] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $284,912 | Holders: 5234
+  SM: 92 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-05-30 10:02] [🌍 Europe] Session analysis complete
+[2026-05-30 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000040942593 | MC: 4,060 | H: 391 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — WURLDCAP
+  TOLYBOT | Price: 0.00026255091 | MC: 262,398 | H: 5245 | SM: 92 | Vol1h: 4202.29642986 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.0000056208791 | MC: 5,620 | H: 178 | SM: 21 | Vol1h: 1.085694472 | B/S 1m: 0/0
+  Panda | Price: 0.00013678398 | MC: 136,741 | H: 465 | SM: 29 | Vol1h: 2425.36480992 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +2425.4x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00017318079 | MC: 173,181 | H: 632 | SM: 1 | Vol1h: 164.42191632 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:02:23] Starting 🌎 US analysis for TOLYBOT
+[16:02:23] Fetching token info...
+[16:02:23] Fetching holders...
+[16:02:24] Fetching traders...
+[16:02:25] Fetching security...
+[16:02:25] Fetching fasol stats...
+[16:02:26] Searching Twitter/X for mentions...
+[16:02:27] Patterns: 2
+[16:02:27] Session saved
+[16:02:28] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $262,398 | Holders: 5245
+  SM: 92 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-05-30 16:02] [🌎 US] Session analysis complete
+[2026-05-31 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000040797657 | MC: 4,046 | H: 388 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00026926397 | MC: 269,107 | H: 5197 | SM: 92 | Vol1h: 2142.46611455 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.0000075536245 | MC: 7,553 | H: 185 | SM: 21 | Vol1h: 505.02590353 | B/S 1m: 2/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00013244781 | MC: 132,407 | H: 460 | SM: 29 | Vol1h: 605.68890906 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00018257655 | MC: 182,576 | H: 724 | SM: 1 | Vol1h: 7985.37983637 | B/S 1m: 1/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: 1.0
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:02:23] Starting 🌏 Asia analysis for TOLYBOT
+[02:02:23] Fetching token info...
+[02:02:24] Fetching holders...
+[02:02:24] Fetching traders...
+[02:02:25] Fetching security...
+[02:02:25] Fetching fasol stats...
+[02:02:26] Searching Twitter/X for mentions...
+[02:02:30] Patterns: 2
+[02:02:30] Session saved
+[02:02:30] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $269,107 | Holders: 5197
+  SM: 92 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-05-31 02:02] [🌏 Asia] Session analysis complete
+[2026-05-31 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000041365407 | MC: 4,102 | H: 388 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.0002670704 | MC: 266,914 | H: 5195 | SM: 92 | Vol1h: 1065.96933522 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.0000068211229 | MC: 6,820 | H: 184 | SM: 21 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00012027361 | MC: 120,236 | H: 449 | SM: 30 | Vol1h: 35.82808114 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.0001904936 | MC: 190,493 | H: 719 | SM: 1 | Vol1h: 1582.34650914 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: +1582.3x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:02:21] Starting 🌍 Europe analysis for TOLYBOT
+[10:02:21] Fetching token info...
+[10:02:22] Fetching holders...
+[10:02:22] Fetching traders...
+[10:02:23] Fetching security...
+[10:02:24] Fetching fasol stats...
+[10:02:24] Searching Twitter/X for mentions...
+[10:02:25] Patterns: 1
+[10:02:25] Session saved
+[10:02:26] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $266,914 | Holders: 5195
+  SM: 92 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-05-31 10:02] [🌍 Europe] Session analysis complete
+[2026-05-31 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000040938979 | MC: 4,060 | H: 387 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00032712796 | MC: 326,936 | H: 5218 | SM: 92 | Vol1h: 9504.41555049 | B/S 1m: 1/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.0000053835522 | MC: 5,383 | H: 187 | SM: 21 | Vol1h: 160.35293361 | B/S 1m: 0/0
+  Panda | Price: 0.00013512649 | MC: 135,084 | H: 439 | SM: 30 | Vol1h: 34.47028284 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00016826197 | MC: 168,261 | H: 713 | SM: 1 | Vol1h: 1493.73706532 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:02:20] Starting 🌎 US analysis for TOLYBOT
+[16:02:20] Fetching token info...
+[16:02:21] Fetching holders...
+[16:02:21] Fetching traders...
+[16:02:22] Fetching security...
+[16:02:22] Fetching fasol stats...
+[16:02:23] Searching Twitter/X for mentions...
+[16:02:23] Patterns: 2
+[16:02:23] Session saved
+[16:02:24] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $326,936 | Holders: 5218
+  SM: 92 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-05-31 16:02] [🌎 US] Session analysis complete
+[2026-06-01 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000040340558 | MC: 4,000 | H: 387 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00037655604 | MC: 376,335 | H: 5200 | SM: 92 | Vol1h: 8669.46113033 | B/S 1m: 1/1
+  ⟳ From previous: -100.0% | Vol: +8669.5x | B/S ratio: 1.0
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.0000045422461 | MC: 4,542 | H: 175 | SM: 21 | Vol1h: 132.70139552 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00035840995 | MC: 358,298 | H: 529 | SM: 36 | Vol1h: 78533.079533866 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00017106131 | MC: 171,061 | H: 705 | SM: 1 | Vol1h: 931.86756916 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:02:20] Starting 🌏 Asia analysis for TOLYBOT
+[02:02:20] Fetching token info...
+[02:02:20] Fetching holders...
+[02:02:21] Fetching traders...
+[02:02:21] Fetching security...
+[02:02:22] Fetching fasol stats...
+[02:02:22] Searching Twitter/X for mentions...
+[02:02:23] Patterns: 2
+[02:02:23] Session saved
+[02:02:23] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $379,170 | Holders: 5200
+  SM: 92 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-01 02:02] [🌏 Asia] Session analysis complete
+[2026-06-01 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000040531312 | MC: 4,019 | H: 383 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00034276704 | MC: 342,566 | H: 5195 | SM: 92 | Vol1h: 2769.37205504 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: +2769.4x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.0000054931941 | MC: 5,493 | H: 172 | SM: 21 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00020819948 | MC: 208,135 | H: 600 | SM: 38 | Vol1h: 1560.45487743 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00015489886 | MC: 154,898 | H: 692 | SM: 1 | Vol1h: 411.59270984 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:07] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:07] Fetching token info...
+[10:00:07] Fetching holders...
+[10:00:08] Fetching traders...
+[10:00:09] Fetching security...
+[10:00:10] Fetching fasol stats...
+[10:00:11] Searching Twitter/X for mentions...
+[10:00:13] Patterns: 2
+[10:00:13] Session saved
+[10:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $342,566 | Holders: 5195
+  SM: 92 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-01 10:00] [🌍 Europe] Session analysis complete
+[2026-06-01 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000040147504 | MC: 3,981 | H: 382 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00033318972 | MC: 332,994 | H: 5161 | SM: 92 | Vol1h: 6545.40721378 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.0000047422303 | MC: 4,741 | H: 171 | SM: 21 | Vol1h: 6.82984808 | B/S 1m: 0/0
+  Panda | Price: 0.00020048174 | MC: 200,419 | H: 562 | SM: 39 | Vol1h: 7441.050427471 | B/S 1m: 0/2
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.0001605657 | MC: 160,565 | H: 687 | SM: 1 | Vol1h: 46.45716191 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:08] Starting 🌎 US analysis for TOLYBOT
+[16:00:08] Fetching token info...
+[16:00:08] Fetching holders...
+[16:00:09] Fetching traders...
+[16:00:09] Fetching security...
+[16:00:10] Fetching fasol stats...
+[16:00:11] Searching Twitter/X for mentions...
+[16:00:13] Patterns: 1
+[16:00:13] Session saved
+[16:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $332,994 | Holders: 5161
+  SM: 92 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-01 16:00] [🌎 US] Session analysis complete
+[2026-06-02 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000038975514 | MC: 3,865 | H: 378 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00038206872 | MC: 381,844 | H: 5142 | SM: 92 | Vol1h: 989.71740228 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.0000043323393 | MC: 4,331 | H: 168 | SM: 21 | Vol1h: 0.10397614 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00019319916 | MC: 193,139 | H: 496 | SM: 39 | Vol1h: 2537.27100078 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00014989264 | MC: 149,892 | H: 677 | SM: 1 | Vol1h: 289.35168849 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:06] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:06] Fetching token info...
+[02:00:07] Fetching holders...
+[02:00:08] Fetching traders...
+[02:00:08] Fetching security...
+[02:00:10] Fetching fasol stats...
+[02:00:10] Searching Twitter/X for mentions...
+[02:00:11] Patterns: 1
+[02:00:12] Session saved
+[02:00:12] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $381,844 | Holders: 5142
+  SM: 92 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-02 02:00] [🌏 Asia] Session analysis complete
+[2026-06-02 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000037844593 | MC: 3,753 | H: 376 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00033519451 | MC: 334,998 | H: 5150 | SM: 92 | Vol1h: 3351.17639711 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.0000043398868 | MC: 4,338 | H: 167 | SM: 21 | Vol1h: 2.057419616 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00013210628 | MC: 132,064 | H: 526 | SM: 39 | Vol1h: 700.21251141 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00018955229 | MC: 189,552 | H: 702 | SM: 1 | Vol1h: 2133.58140236 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:08] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:08] Fetching token info...
+[10:00:09] Fetching holders...
+[10:00:09] Fetching traders...
+[10:00:10] Fetching security...
+[10:00:11] Fetching fasol stats...
+[10:00:11] Searching Twitter/X for mentions...
+[10:00:12] Patterns: 1
+[10:00:12] Session saved
+[10:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $334,998 | Holders: 5150
+  SM: 92 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-02 10:00] [🌍 Europe] Session analysis complete
+[2026-06-02 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000037844593 | MC: 3,753 | H: 376 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00030325947 | MC: 303,081 | H: 5181 | SM: 93 | Vol1h: 2575.31336114 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.0000042270189 | MC: 4,226 | H: 166 | SM: 21 | Vol1h: 28.98540984 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00014348284 | MC: 143,437 | H: 483 | SM: 39 | Vol1h: 130.40892264 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00016173704 | MC: 161,737 | H: 696 | SM: 1 | Vol1h: 1609.063090679 | B/S 1m: 1/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: 1.0
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:07] Starting 🌎 US analysis for TOLYBOT
+[16:00:07] Fetching token info...
+[16:00:08] Fetching holders...
+[16:00:09] Fetching traders...
+[16:00:09] Fetching security...
+[16:00:10] Fetching fasol stats...
+[16:00:10] Searching Twitter/X for mentions...
+[16:00:12] Patterns: 3
+[16:00:12] Session saved
+[16:00:12] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $303,081 | Holders: 5181
+  SM: 93 | KOL: 19
+  Patterns: 3
+==================================================
+[2026-06-02 16:00] [🌎 US] Session analysis complete
+[2026-06-03 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000036174631 | MC: 3,587 | H: 373 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.0002560027 | MC: 255,852 | H: 5128 | SM: 93 | Vol1h: 3022.30739965 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.0000041235868 | MC: 4,122 | H: 166 | SM: 21 | Vol1h: 6.5152456 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00013112253 | MC: 131,081 | H: 475 | SM: 39 | Vol1h: 50.85041593 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00020760693 | MC: 207,606 | H: 697 | SM: 1 | Vol1h: 1896.84626433 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +1896.8x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:07] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:07] Fetching token info...
+[02:00:08] Fetching holders...
+[02:00:08] Fetching traders...
+[02:00:10] Fetching security...
+[02:00:10] Fetching fasol stats...
+[02:00:10] Searching Twitter/X for mentions...
+[02:00:12] Patterns: 1
+[02:00:12] Session saved
+[02:00:12] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $255,852 | Holders: 5128
+  SM: 93 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-03 02:00] [🌏 Asia] Session analysis complete
+[2026-06-03 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000034214294 | MC: 3,393 | H: 372 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00020688275 | MC: 206,761 | H: 5072 | SM: 96 | Vol1h: 7511.074115552 | B/S 1m: 1/4
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: 0.2
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.0000075912283 | MC: 7,589 | H: 202 | SM: 22 | Vol1h: 181.95401553 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00012755627 | MC: 127,515 | H: 465 | SM: 39 | Vol1h: 206.39352051 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00021149165 | MC: 211,491 | H: 692 | SM: 1 | Vol1h: 201.69165844 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:08] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:08] Fetching token info...
+[10:00:08] Fetching holders...
+[10:00:09] Fetching traders...
+[10:00:10] Fetching security...
+[10:00:11] Fetching fasol stats...
+[10:00:11] Searching Twitter/X for mentions...
+[10:00:12] Patterns: 3
+[10:00:12] Session saved
+[10:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $208,625 | Holders: 5071
+  SM: 96 | KOL: 19
+  Patterns: 3
+==================================================
+[2026-06-03 10:00] [🌍 Europe] Session analysis complete
+[2026-06-03 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000034768328 | MC: 3,448 | H: 371 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00026329223 | MC: 263,137 | H: 5066 | SM: 96 | Vol1h: 1489.22203115 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +1489.2x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.0000077693264 | MC: 7,767 | H: 214 | SM: 22 | Vol1h: 91.18792318 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00012476304 | MC: 124,723 | H: 475 | SM: 39 | Vol1h: 902.91233512 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00027260728 | MC: 272,606 | H: 700 | SM: 1 | Vol1h: 581.76731432 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:08] Starting 🌎 US analysis for TOLYBOT
+[16:00:08] Fetching token info...
+[16:00:08] Fetching holders...
+[16:00:11] Fetching traders...
+[16:00:13] Fetching security...
+[16:00:14] Fetching fasol stats...
+[16:00:14] Searching Twitter/X for mentions...
+[16:00:15] Patterns: 3
+[16:00:15] Session saved
+[16:00:16] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $263,137 | Holders: 5066
+  SM: 96 | KOL: 19
+  Patterns: 3
+==================================================
+[2026-06-03 16:00] [🌎 US] Session analysis complete
+[2026-06-04 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000039723976 | MC: 3,939 | H: 370 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00025426891 | MC: 254,117 | H: 5053 | SM: 96 | Vol1h: 2135.033560142 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.0000093957596 | MC: 9,393 | H: 215 | SM: 22 | Vol1h: 367.68748246 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00020128053 | MC: 201,215 | H: 453 | SM: 39 | Vol1h: 1186.27976243 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00033431112 | MC: 334,310 | H: 746 | SM: 1 | Vol1h: 2380.44973727 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:08] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:08] Fetching token info...
+[02:00:09] Fetching holders...
+[02:00:09] Fetching traders...
+[02:00:10] Fetching security...
+[02:00:11] Fetching fasol stats...
+[02:00:11] Searching Twitter/X for mentions...
+[02:00:14] Patterns: 1
+[02:00:14] Session saved
+[02:00:15] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $254,117 | Holders: 5053
+  SM: 96 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-04 02:00] [🌏 Asia] Session analysis complete
+[2026-06-04 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000043460327 | MC: 4,310 | H: 373 | SM: 13 | Vol1h: 153.78923959 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.0002083779 | MC: 208,254 | H: 5111 | SM: 97 | Vol1h: 14770.21789931 | B/S 1m: 2/11
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: 0.2
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.0000096853256 | MC: 9,682 | H: 206 | SM: 22 | Vol1h: 381.28664522 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00016931847 | MC: 169,264 | H: 537 | SM: 41 | Vol1h: 7701.60606039 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00031850499 | MC: 318,504 | H: 753 | SM: 1 | Vol1h: 2825.30201924 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:08] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:08] Fetching token info...
+[10:00:09] Fetching holders...
+[10:00:10] Fetching traders...
+[10:00:10] Fetching security...
+[10:00:11] Fetching fasol stats...
+[10:00:11] Searching Twitter/X for mentions...
+[10:00:12] Patterns: 3
+[10:00:12] Session saved
+[10:00:12] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $208,254 | Holders: 5111
+  SM: 97 | KOL: 19
+  Patterns: 3
+==================================================
+[2026-06-04 10:00] [🌍 Europe] Session analysis complete
+[2026-06-04 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000043338198 | MC: 4,297 | H: 371 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — WURLDCAP
+  TOLYBOT | Price: 0.00024487686 | MC: 244,731 | H: 5019 | SM: 97 | Vol1h: 2907.70456927 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +1453.9x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000018408891 | MC: 18,403 | H: 212 | SM: 22 | Vol1h: 230.25866054 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00014086526 | MC: 140,820 | H: 507 | SM: 41 | Vol1h: 3069.95782437 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00037033768 | MC: 370,337 | H: 768 | SM: 1 | Vol1h: 1579.10135974 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:08] Starting 🌎 US analysis for TOLYBOT
+[16:00:08] Fetching token info...
+[16:00:09] Fetching holders...
+[16:00:10] Fetching traders...
+[16:00:10] Fetching security...
+[16:00:11] Fetching fasol stats...
+[16:00:12] Searching Twitter/X for mentions...
+[16:00:13] Patterns: 2
+[16:00:13] Session saved
+[16:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $244,731 | Holders: 5019
+  SM: 97 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-04 16:00] [🌎 US] Session analysis complete
+[2026-06-05 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000039924709 | MC: 3,959 | H: 368 | SM: 13 | Vol1h: 45.43739897 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00023270699 | MC: 232,568 | H: 5014 | SM: 97 | Vol1h: 2849.35969963 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.000015826458 | MC: 15,821 | H: 223 | SM: 22 | Vol1h: 254.69799012 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.000148926 | MC: 148,878 | H: 480 | SM: 42 | Vol1h: 2134.88270587 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00041239737 | MC: 412,396 | H: 820 | SM: 1 | Vol1h: 4156.88775878 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:08] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:08] Fetching token info...
+[02:00:08] Fetching holders...
+[02:00:09] Fetching traders...
+[02:00:10] Fetching security...
+[02:00:10] Fetching fasol stats...
+[02:00:11] Searching Twitter/X for mentions...
+[02:00:12] Patterns: 2
+[02:00:12] Session saved
+[02:00:12] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $232,568 | Holders: 5014
+  SM: 97 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-05 02:00] [🌏 Asia] Session analysis complete
+[2026-06-05 10:17] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000039440482 | MC: 3,911 | H: 369 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — WURLDCAP
+  TOLYBOT | Price: 0.00021460288 | MC: 214,475 | H: 5018 | SM: 97 | Vol1h: 4960.64196707 | B/S 1m: 1/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000009550291 | MC: 9,547 | H: 200 | SM: 22 | Vol1h: 490.8644763 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00013945682 | MC: 139,412 | H: 465 | SM: 42 | Vol1h: 273.40370848 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00027702776 | MC: 277,027 | H: 811 | SM: 1 | Vol1h: 2791.85362787 | B/S 1m: 4/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:45:08] Starting 🌍 Europe analysis for TOLYBOT
+[10:45:08] Fetching token info...
+[10:45:08] Fetching holders...
+[10:45:09] Fetching traders...
+[10:45:09] Fetching security...
+[10:45:10] Fetching fasol stats...
+[10:45:10] Searching Twitter/X for mentions...
+[10:45:13] Patterns: 2
+[10:45:13] Session saved
+[10:45:13] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $214,475 | Holders: 5018
+  SM: 97 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-05 10:45] [🌍 Europe] Session analysis complete
+[2026-06-05 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000037279392 | MC: 3,697 | H: 369 | SM: 13 | Vol1h: 12.63737137 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00019804513 | MC: 197,927 | H: 5021 | SM: 97 | Vol1h: 1965.50064224 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +1965.5x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000010868686 | MC: 10,865 | H: 198 | SM: 22 | Vol1h: 862.53143098 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00012983015 | MC: 129,788 | H: 465 | SM: 42 | Vol1h: 1356.73391249 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00034508703 | MC: 345,086 | H: 821 | SM: 1 | Vol1h: 2536.5191399 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: +634.1x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:12] Starting 🌎 US analysis for TOLYBOT
+[16:00:12] Fetching token info...
+[16:00:13] Fetching holders...
+[16:00:14] Fetching traders...
+[16:00:14] Fetching security...
+[16:00:15] Fetching fasol stats...
+[16:00:16] Searching Twitter/X for mentions...
+[16:00:17] Patterns: 2
+[16:00:17] Session saved
+[16:00:17] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $197,927 | Holders: 5021
+  SM: 97 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-05 16:00] [🌎 US] Session analysis complete
+[2026-06-06 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000037279392 | MC: 3,697 | H: 369 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — WURLDCAP
+  TOLYBOT | Price: 0.00018073904 | MC: 180,631 | H: 5015 | SM: 97 | Vol1h: 1978.76677497 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.00000791728 | MC: 7,915 | H: 205 | SM: 22 | Vol1h: 41.50701379 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00014530046 | MC: 145,253 | H: 453 | SM: 42 | Vol1h: 218.37332265 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00031149438 | MC: 311,493 | H: 824 | SM: 1 | Vol1h: 2721.99678685 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:09] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:09] Fetching token info...
+[02:00:09] Fetching holders...
+[02:00:10] Fetching traders...
+[02:00:11] Fetching security...
+[02:00:11] Fetching fasol stats...
+[02:00:12] Searching Twitter/X for mentions...
+[02:00:15] Patterns: 3
+[02:00:15] Session saved
+[02:00:16] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $180,631 | Holders: 5015
+  SM: 97 | KOL: 19
+  Patterns: 3
+==================================================
+[2026-06-06 02:00] [🌏 Asia] Session analysis complete
+[2026-06-06 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000037364885 | MC: 3,705 | H: 369 | SM: 13 | Vol1h: 63.15159134 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00016305861 | MC: 162,961 | H: 4970 | SM: 97 | Vol1h: 1997.65471381 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.0000058010813 | MC: 5,799 | H: 186 | SM: 22 | Vol1h: 157.97370042 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00014577889 | MC: 145,732 | H: 447 | SM: 42 | Vol1h: 31.91243691 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00030467693 | MC: 304,676 | H: 809 | SM: 1 | Vol1h: 970.83369495 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:09] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:09] Fetching token info...
+[10:00:09] Fetching holders...
+[10:00:10] Fetching traders...
+[10:00:11] Fetching security...
+[10:00:11] Fetching fasol stats...
+[10:00:12] Searching Twitter/X for mentions...
+[10:00:12] Patterns: 3
+[10:00:12] Session saved
+[10:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $162,961 | Holders: 4970
+  SM: 97 | KOL: 19
+  Patterns: 3
+==================================================
+[2026-06-06 10:00] [🌍 Europe] Session analysis complete
+[2026-06-06 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000039448664 | MC: 3,912 | H: 373 | SM: 13 | Vol1h: 0.33086967 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — WURLDCAP
+  TOLYBOT | Price: 0.00018213827 | MC: 182,030 | H: 4972 | SM: 97 | Vol1h: 962.43030706 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.0000078934257 | MC: 7,891 | H: 190 | SM: 22 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00012685214 | MC: 126,811 | H: 447 | SM: 42 | Vol1h: 39.98010783 | B/S 1m: 1/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00028560008 | MC: 285,599 | H: 803 | SM: 1 | Vol1h: 1713.024664894 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:08] Starting 🌎 US analysis for TOLYBOT
+[16:00:08] Fetching token info...
+[16:00:09] Fetching holders...
+[16:00:10] Fetching traders...
+[16:00:12] Fetching security...
+[16:00:18] Fetching fasol stats...
+[16:00:18] Searching Twitter/X for mentions...
+[16:00:19] Patterns: 2
+[16:00:19] Session saved
+[16:00:20] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $182,030 | Holders: 4972
+  SM: 97 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-06 16:00] [🌎 US] Session analysis complete
+[2026-06-07 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000039994038 | MC: 3,966 | H: 374 | SM: 13 | Vol1h: 11.27866693 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — WURLDCAP
+  TOLYBOT | Price: 0.00015787906 | MC: 157,785 | H: 4959 | SM: 97 | Vol1h: 1610.030851838 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.0000064096953 | MC: 6,408 | H: 192 | SM: 22 | Vol1h: 405.41689895 | B/S 1m: 0/0
+  Panda | Price: 0.00012237155 | MC: 122,332 | H: 444 | SM: 42 | Vol1h: 458.64707053 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: +458.6x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00035983535 | MC: 359,833 | H: 2334 | SM: 1 | Vol1h: 3932.53185328 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:09] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:09] Fetching token info...
+[02:00:10] Fetching holders...
+[02:00:10] Fetching traders...
+[02:00:11] Fetching security...
+[02:00:12] Fetching fasol stats...
+[02:00:12] Searching Twitter/X for mentions...
+[02:00:13] Patterns: 3
+[02:00:13] Session saved
+[02:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $157,785 | Holders: 4959
+  SM: 97 | KOL: 19
+  Patterns: 3
+==================================================
+[2026-06-07 02:00] [🌏 Asia] Session analysis complete
+[2026-06-07 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 2032 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000037158542 | MC: 3,685 | H: 372 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — WURLDCAP
+  TOLYBOT | Price: 0.0001341014 | MC: 134,021 | H: 4975 | SM: 97 | Vol1h: 2946.43514911 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.0000084950051 | MC: 8,492 | H: 192 | SM: 22 | Vol1h: 427.20510875 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00013988782 | MC: 139,843 | H: 439 | SM: 42 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00033918274 | MC: 339,179 | H: 2315 | SM: 1 | Vol1h: 876.16860428 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:08] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:08] Fetching token info...
+[10:00:09] Fetching holders...
+[10:00:09] Fetching traders...
+[10:00:10] Fetching security...
+[10:00:11] Fetching fasol stats...
+[10:00:11] Searching Twitter/X for mentions...
+[10:00:12] Patterns: 2
+[10:00:12] Session saved
+[10:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $134,021 | Holders: 4975
+  SM: 97 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-07 10:00] [🌍 Europe] Session analysis complete
+[2026-06-07 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 9990737.683075145 | Tokens: 7623 | Traders: 24372 | Fees: 634.566206067 SOL
+  [Dune] Vol/token: 1311 USD
+  [Dune] Market regime: saturated
+  WURLDCAP | Price: 0.0000038398012 | MC: 3,808 | H: 371 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00013547862 | MC: 135,398 | H: 4964 | SM: 97 | Vol1h: 2178.43772701 | B/S 1m: 6/2
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: 3.0
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.0000075273596 | MC: 7,525 | H: 198 | SM: 22 | Vol1h: 164.92613218 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00015045203 | MC: 150,403 | H: 440 | SM: 42 | Vol1h: 0 | B/S 1m: 0/0
+  CupMarkets | Price: 0.00037074027 | MC: 370,737 | H: 2300 | SM: 1 | Vol1h: 1149.85860146 | B/S 1m: 1/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:08] Starting 🌎 US analysis for TOLYBOT
+[16:00:08] Fetching token info...
+[16:00:09] Fetching holders...
+[16:00:09] Fetching traders...
+[16:00:10] Fetching security...
+[16:00:11] Fetching fasol stats...
+[16:00:11] Searching Twitter/X for mentions...
+[16:00:13] Patterns: 2
+[16:00:13] Session saved
+[16:00:14] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $135,398 | Holders: 4964
+  SM: 97 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-07 16:00] [🌎 US] Session analysis complete
+[2026-06-08 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 20992917.60144089 | Tokens: 18390 | Traders: 41512 | Fees: 1958.454589254 SOL
+  [Dune] Vol/token: 1142 USD
+  [Dune] Market regime: saturated
+  WURLDCAP | Price: 0.0000036647706 | MC: 3,634 | H: 372 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00015242546 | MC: 152,334 | H: 4943 | SM: 97 | Vol1h: 723.8805859 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +120.6x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.0000066842457 | MC: 6,682 | H: 197 | SM: 22 | Vol1h: 71.83384789 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00017819621 | MC: 178,139 | H: 452 | SM: 42 | Vol1h: 355.96967954 | B/S 1m: 0/1
+  CupMarkets | Price: 0.00039234813 | MC: 392,343 | H: 2317 | SM: 1 | Vol1h: 940.13624399 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +940.1x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:09] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:09] Fetching token info...
+[02:00:09] Fetching holders...
+[02:00:10] Fetching traders...
+[02:00:11] Fetching security...
+[02:00:11] Fetching fasol stats...
+[02:00:11] Searching Twitter/X for mentions...
+[02:00:13] Patterns: 2
+[02:00:13] Session saved
+[02:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $152,334 | Holders: 4943
+  SM: 97 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-08 02:00] [🌏 Asia] Session analysis complete
+[2026-06-08 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 2470 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.000004348034 | MC: 4,311 | H: 372 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00014097943 | MC: 140,895 | H: 4938 | SM: 97 | Vol1h: 107.90155149 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.0000048004001 | MC: 4,799 | H: 192 | SM: 22 | Vol1h: 94.2124628 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00016327379 | MC: 163,221 | H: 455 | SM: 42 | Vol1h: 224.4976592 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00038204923 | MC: 382,036 | H: 3396 | SM: 1 | Vol1h: 1917.049406098 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:09] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:09] Fetching token info...
+[10:00:09] Fetching holders...
+[10:00:10] Fetching traders...
+[10:00:11] Fetching security...
+[10:00:11] Fetching fasol stats...
+[10:00:12] Searching Twitter/X for mentions...
+[10:00:16] Patterns: 2
+[10:00:16] Session saved
+[10:00:17] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $140,895 | Holders: 4938
+  SM: 97 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-08 10:00] [🌍 Europe] Session analysis complete
+[2026-06-08 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 13041081.62023742 | Tokens: 8284 | Traders: 28101 | Fees: 878.070632641 SOL
+  [Dune] Vol/token: 1574 USD
+  [Dune] Market regime: saturated
+  WURLDCAP | Price: 0.0000042126026 | MC: 4,177 | H: 371 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00014697418 | MC: 146,886 | H: 4951 | SM: 97 | Vol1h: 892.69927543 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.0000048065285 | MC: 4,805 | H: 193 | SM: 22 | Vol1h: 105.082151114 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00014973561 | MC: 149,687 | H: 455 | SM: 42 | Vol1h: 412.24827357 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00043377511 | MC: 433,756 | H: 3366 | SM: 1 | Vol1h: 3076.90439557 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:08] Starting 🌎 US analysis for TOLYBOT
+[16:00:08] Fetching token info...
+[16:00:09] Fetching holders...
+[16:00:10] Fetching traders...
+[16:00:10] Fetching security...
+[16:00:11] Fetching fasol stats...
+[16:00:11] Searching Twitter/X for mentions...
+[16:00:15] Patterns: 1
+[16:00:15] Session saved
+[16:00:15] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $146,886 | Holders: 4951
+  SM: 97 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-08 16:00] [🌎 US] Session analysis complete
+[2026-06-09 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000062778712 | MC: 6,225 | H: 387 | SM: 13 | Vol1h: 196.85633067 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00018377163 | MC: 183,662 | H: 4945 | SM: 97 | Vol1h: 9850.9510374 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.0000047823949 | MC: 4,781 | H: 187 | SM: 22 | Vol1h: 14.48310042 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00016837493 | MC: 168,321 | H: 450 | SM: 42 | Vol1h: 203.80122432 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00049878893 | MC: 498,761 | H: 3377 | SM: 1 | Vol1h: 1788.8507107 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:08] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:08] Fetching token info...
+[02:00:09] Fetching holders...
+[02:00:10] Fetching traders...
+[02:00:11] Fetching security...
+[02:00:11] Fetching fasol stats...
+[02:00:11] Searching Twitter/X for mentions...
+[02:00:14] Patterns: 2
+[02:00:14] Session saved
+[02:00:14] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $183,662 | Holders: 4945
+  SM: 97 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-09 02:00] [🌏 Asia] Session analysis complete
+[2026-06-09 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000059327674 | MC: 5,883 | H: 379 | SM: 13 | Vol1h: 44.59202718 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — WURLDCAP
+  TOLYBOT | Price: 0.00019297001 | MC: 192,855 | H: 4924 | SM: 97 | Vol1h: 300.46529326 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.0000040332475 | MC: 4,032 | H: 183 | SM: 22 | Vol1h: 4.84989818 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00016918888 | MC: 169,134 | H: 468 | SM: 42 | Vol1h: 140.39572856 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00060613686 | MC: 606,098 | H: 3368 | SM: 1 | Vol1h: 2007.1157764 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:08] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:08] Fetching token info...
+[10:00:09] Fetching holders...
+[10:00:09] Fetching traders...
+[10:00:10] Fetching security...
+[10:00:11] Fetching fasol stats...
+[10:00:11] Searching Twitter/X for mentions...
+[10:00:13] Patterns: 2
+[10:00:13] Session saved
+[10:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $192,855 | Holders: 4924
+  SM: 97 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-09 10:00] [🌍 Europe] Session analysis complete
+[2026-06-09 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000058045509 | MC: 5,756 | H: 384 | SM: 13 | Vol1h: 74.048149341 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — WURLDCAP
+  TOLYBOT | Price: 0.00018695468 | MC: 186,843 | H: 4931 | SM: 97 | Vol1h: 702.60435015 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.0000046119051 | MC: 4,610 | H: 191 | SM: 22 | Vol1h: 143.83228436 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00017736981 | MC: 177,312 | H: 463 | SM: 42 | Vol1h: 522.36778338 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.0006237164 | MC: 623,675 | H: 3379 | SM: 1 | Vol1h: 2978.52802285 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:07] Starting 🌎 US analysis for TOLYBOT
+[16:00:07] Fetching token info...
+[16:00:08] Fetching holders...
+[16:00:08] Fetching traders...
+[16:00:09] Fetching security...
+[16:00:09] Fetching fasol stats...
+[16:00:10] Searching Twitter/X for mentions...
+[16:00:10] Patterns: 3
+[16:00:10] Session saved
+[16:00:11] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $186,843 | Holders: 4931
+  SM: 97 | KOL: 19
+  Patterns: 3
+==================================================
+[2026-06-09 16:00] [🌎 US] Session analysis complete
+[2026-06-10 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000043336889 | MC: 4,297 | H: 370 | SM: 13 | Vol1h: 22.64459542 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — WURLDCAP
+  TOLYBOT | Price: 0.0001621379 | MC: 162,041 | H: 4939 | SM: 97 | Vol1h: 3171.47125002 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.0000045147635 | MC: 4,513 | H: 188 | SM: 22 | Vol1h: 28.10777155 | B/S 1m: 1/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00016027327 | MC: 160,221 | H: 450 | SM: 42 | Vol1h: 760.25977719 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00059251256 | MC: 592,471 | H: 3824 | SM: 1 | Vol1h: 12054.18053289 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:13] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:13] Fetching token info...
+[02:00:13] Fetching holders...
+[02:00:14] Fetching traders...
+[02:00:14] Fetching security...
+[02:00:15] Fetching fasol stats...
+[02:00:15] Searching Twitter/X for mentions...
+[02:00:19] Patterns: 1
+[02:00:19] Session saved
+[02:00:19] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $162,041 | Holders: 4939
+  SM: 97 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-10 02:00] [🌏 Asia] Session analysis complete
+[2026-06-10 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000040529466 | MC: 4,019 | H: 364 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — WURLDCAP
+  TOLYBOT | Price: 0.00016915319 | MC: 169,052 | H: 4921 | SM: 97 | Vol1h: 350.52026148 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.0000063424832 | MC: 6,340 | H: 201 | SM: 22 | Vol1h: 175.32309905 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +175.3x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00017711269 | MC: 177,055 | H: 452 | SM: 42 | Vol1h: 3.76417443 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00053799834 | MC: 537,957 | H: 4379 | SM: 1 | Vol1h: 371.75713098 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:08] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:08] Fetching token info...
+[10:00:08] Fetching holders...
+[10:00:09] Fetching traders...
+[10:00:10] Fetching security...
+[10:00:10] Fetching fasol stats...
+[10:00:10] Searching Twitter/X for mentions...
+[10:00:12] Patterns: 2
+[10:00:12] Session saved
+[10:00:12] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $169,052 | Holders: 4921
+  SM: 97 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-10 10:00] [🌍 Europe] Session analysis complete
+[2026-06-10 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000046072488 | MC: 4,568 | H: 364 | SM: 13 | Vol1h: 169.45607103 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00013677081 | MC: 136,689 | H: 4987 | SM: 98 | Vol1h: 1460.99751628 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.0000061795704 | MC: 6,178 | H: 206 | SM: 22 | Vol1h: 141.97179857 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00015966911 | MC: 159,617 | H: 452 | SM: 42 | Vol1h: 446.95594334 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00053221645 | MC: 532,175 | H: 4350 | SM: 1 | Vol1h: 6695.88917484 | B/S 1m: 1/2
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: 0.5
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:07] Starting 🌎 US analysis for TOLYBOT
+[16:00:07] Fetching token info...
+[16:00:08] Fetching holders...
+[16:00:09] Fetching traders...
+[16:00:09] Fetching security...
+[16:00:10] Fetching fasol stats...
+[16:00:10] Searching Twitter/X for mentions...
+[16:00:10] Patterns: 3
+[16:00:10] Session saved
+[16:00:11] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $136,689 | Holders: 4987
+  SM: 98 | KOL: 19
+  Patterns: 3
+==================================================
+[2026-06-10 16:00] [🌎 US] Session analysis complete
+[2026-06-11 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000051240681 | MC: 5,081 | H: 370 | SM: 13 | Vol1h: 362.9759953 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — WURLDCAP
+  TOLYBOT | Price: 0.0001309617 | MC: 130,883 | H: 4928 | SM: 98 | Vol1h: 175.20218189 | B/S 1m: 1/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.0000055963866 | MC: 5,595 | H: 197 | SM: 22 | Vol1h: 177.15766833 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.0001546633 | MC: 154,613 | H: 456 | SM: 42 | Vol1h: 602.25635319 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00059795985 | MC: 597,912 | H: 4388 | SM: 1 | Vol1h: 3749.4297236 | B/S 1m: 2/5
+  ⟳ From previous: -100.0% | Vol: +3749.4x | B/S ratio: 0.4
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:08] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:08] Fetching token info...
+[02:00:09] Fetching holders...
+[02:00:09] Fetching traders...
+[02:00:10] Fetching security...
+[02:00:11] Fetching fasol stats...
+[02:00:11] Searching Twitter/X for mentions...
+[02:00:12] Patterns: 1
+[02:00:12] Session saved
+[02:00:12] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $130,883 | Holders: 4928
+  SM: 98 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-11 02:00] [🌏 Asia] Session analysis complete
+[2026-06-11 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000043051605 | MC: 4,269 | H: 366 | SM: 13 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — WURLDCAP
+  TOLYBOT | Price: 0.00014284569 | MC: 142,760 | H: 4906 | SM: 98 | Vol1h: 1091.1216389 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +1091.1x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.0000053912809 | MC: 5,390 | H: 193 | SM: 22 | Vol1h: 88.60392869 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00015728919 | MC: 157,238 | H: 451 | SM: 42 | Vol1h: 113.89530816 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00064703032 | MC: 646,977 | H: 4398 | SM: 1 | Vol1h: 1098.44028124 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +549.2x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:08] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:08] Fetching token info...
+[10:00:09] Fetching holders...
+[10:00:10] Fetching traders...
+[10:00:11] Fetching security...
+[10:00:11] Fetching fasol stats...
+[10:00:11] Searching Twitter/X for mentions...
+[10:00:12] Patterns: 2
+[10:00:12] Session saved
+[10:00:12] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $142,760 | Holders: 4906
+  SM: 98 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-11 10:00] [🌍 Europe] Session analysis complete
+[2026-06-11 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000041560942 | MC: 4,121 | H: 363 | SM: 13 | Vol1h: 89.61205533 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00014105469 | MC: 140,970 | H: 4934 | SM: 98 | Vol1h: 3884.15231406 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.0000055424559 | MC: 5,541 | H: 191 | SM: 22 | Vol1h: 82.69924369 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00016178389 | MC: 161,732 | H: 451 | SM: 42 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00063750155 | MC: 637,447 | H: 4389 | SM: 1 | Vol1h: 1062.35546319 | B/S 1m: 1/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:07] Starting 🌎 US analysis for TOLYBOT
+[16:00:07] Fetching token info...
+[16:00:08] Fetching holders...
+[16:00:09] Fetching traders...
+[16:00:09] Fetching security...
+[16:00:10] Fetching fasol stats...
+[16:00:10] Searching Twitter/X for mentions...
+[16:00:11] Patterns: 1
+[16:00:11] Session saved
+[16:00:11] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $140,970 | Holders: 4934
+  SM: 98 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-11 16:00] [🌎 US] Session analysis complete
+[2026-06-12 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000049508975 | MC: 4,909 | H: 363 | SM: 14 | Vol1h: 186.98153354 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — WURLDCAP
+  TOLYBOT | Price: 0.00015701781 | MC: 156,924 | H: 4893 | SM: 98 | Vol1h: 1574.60241093 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.000032624366 | MC: 32,614 | H: 282 | SM: 25 | Vol1h: 1056.26787974 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00014257719 | MC: 142,531 | H: 451 | SM: 42 | Vol1h: 410.68073138 | B/S 1m: 0/0
+  CupMarkets | Price: 0.00094968389 | MC: 949,600 | H: 4551 | SM: 1 | Vol1h: 35031.16266789 | B/S 1m: 2/2
+  ⟳ From previous: -100.0% | Vol: +35031.2x | B/S ratio: 1.0
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:08] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:08] Fetching token info...
+[02:00:09] Fetching holders...
+[02:00:09] Fetching traders...
+[02:00:10] Fetching security...
+[02:00:11] Fetching fasol stats...
+[02:00:11] Searching Twitter/X for mentions...
+[02:00:12] Patterns: 2
+[02:00:12] Session saved
+[02:00:12] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $156,924 | Holders: 4893
+  SM: 98 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-12 02:00] [🌏 Asia] Session analysis complete
+[2026-06-12 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000042670346 | MC: 4,231 | H: 362 | SM: 14 | Vol1h: 9.019051104 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — WURLDCAP
+  TOLYBOT | Price: 0.00014937157 | MC: 149,282 | H: 4880 | SM: 98 | Vol1h: 55.22997552 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000058749074 | MC: 58,730 | H: 282 | SM: 25 | Vol1h: 3381.74577949 | B/S 1m: 4/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: 4.0
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00012935401 | MC: 129,312 | H: 451 | SM: 42 | Vol1h: 269.40422918 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00057348958 | MC: 573,437 | H: 5427 | SM: 1 | Vol1h: 12686.0072787669 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +6343.0x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:01:02] Starting 🌍 Europe analysis for TOLYBOT
+[10:01:02] Fetching token info...
+[10:01:03] Fetching holders...
+[10:01:03] Fetching traders...
+[10:01:04] Fetching security...
+[10:01:04] Fetching fasol stats...
+[10:01:05] Searching Twitter/X for mentions...
+[10:01:08] Patterns: 0
+[10:01:08] Session saved
+[10:01:09] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $149,282 | Holders: 4880
+  SM: 98 | KOL: 19
+  Patterns: 0
+==================================================
+[2026-06-12 10:01] [🌍 Europe] Session analysis complete
+[2026-06-12 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000034734658 | MC: 3,444 | H: 355 | SM: 14 | Vol1h: 0.56277608 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — WURLDCAP
+  TOLYBOT | Price: 0.0001421372 | MC: 142,052 | H: 4873 | SM: 98 | Vol1h: 90.86616605 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000055311243 | MC: 55,293 | H: 331 | SM: 25 | Vol1h: 1648.65039726 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +412.2x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00012473301 | MC: 124,693 | H: 443 | SM: 42 | Vol1h: 79.087982656 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00070826348 | MC: 708,196 | H: 5299 | SM: 2 | Vol1h: 5077.62666104 | B/S 1m: 1/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:08] Starting 🌎 US analysis for TOLYBOT
+[16:00:08] Fetching token info...
+[16:00:08] Fetching holders...
+[16:00:09] Fetching traders...
+[16:00:10] Fetching security...
+[16:00:10] Fetching fasol stats...
+[16:00:10] Searching Twitter/X for mentions...
+[16:00:11] Patterns: 1
+[16:00:12] Session saved
+[16:00:12] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $142,052 | Holders: 4873
+  SM: 98 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-12 16:00] [🌎 US] Session analysis complete
+[2026-06-13 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000032869234 | MC: 3,259 | H: 351 | SM: 14 | Vol1h: 41.72317667 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — WURLDCAP
+  TOLYBOT | Price: 0.00015517476 | MC: 155,082 | H: 4873 | SM: 98 | Vol1h: 3464.15779705 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.00003803827 | MC: 38,026 | H: 304 | SM: 26 | Vol1h: 4734.28266514 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00013600033 | MC: 135,956 | H: 441 | SM: 42 | Vol1h: 109.86184887 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00062998783 | MC: 629,923 | H: 5288 | SM: 3 | Vol1h: 3448.38827132 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +3448.4x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:08] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:08] Fetching token info...
+[02:00:08] Fetching holders...
+[02:00:09] Fetching traders...
+[02:00:10] Fetching security...
+[02:00:10] Fetching fasol stats...
+[02:00:10] Searching Twitter/X for mentions...
+[02:00:12] Patterns: 1
+[02:00:12] Session saved
+[02:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $155,082 | Holders: 4873
+  SM: 98 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-13 02:00] [🌏 Asia] Session analysis complete
+[2026-06-13 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000031657155 | MC: 3,139 | H: 349 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — WURLDCAP
+  TOLYBOT | Price: 0.00013400076 | MC: 133,921 | H: 4858 | SM: 98 | Vol1h: 179.023744904 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.00003774356 | MC: 37,731 | H: 294 | SM: 27 | Vol1h: 313.040742583 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00013757755 | MC: 137,533 | H: 443 | SM: 42 | Vol1h: 6.87887789 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00028262041 | MC: 282,589 | H: 6535 | SM: 3 | Vol1h: 4007.37494027 | B/S 1m: 1/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: 1.0
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:09] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:09] Fetching token info...
+[10:00:10] Fetching holders...
+[10:00:10] Fetching traders...
+[10:00:11] Fetching security...
+[10:00:12] Fetching fasol stats...
+[10:00:12] Searching Twitter/X for mentions...
+[10:00:13] Patterns: 1
+[10:00:13] Session saved
+[10:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $133,921 | Holders: 4858
+  SM: 98 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-13 10:00] [🌍 Europe] Session analysis complete
+[2026-06-13 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000031657155 | MC: 3,139 | H: 349 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00012774458 | MC: 127,668 | H: 4852 | SM: 98 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000032035843 | MC: 32,025 | H: 301 | SM: 27 | Vol1h: 139.33001115 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00014426362 | MC: 144,217 | H: 444 | SM: 42 | Vol1h: 67.88393958 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00035256173 | MC: 352,518 | H: 6433 | SM: 3 | Vol1h: 2332.67545752 | B/S 1m: 4/0
+  ⟳ From previous: -100.0% | Vol: +2332.7x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:08] Starting 🌎 US analysis for TOLYBOT
+[16:00:08] Fetching token info...
+[16:00:08] Fetching holders...
+[16:00:09] Fetching traders...
+[16:00:10] Fetching security...
+[16:00:10] Fetching fasol stats...
+[16:00:10] Searching Twitter/X for mentions...
+[16:00:11] Patterns: 1
+[16:00:11] Session saved
+[16:00:12] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $127,668 | Holders: 4852
+  SM: 98 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-13 16:00] [🌎 US] Session analysis complete
+[2026-06-14 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000031008995 | MC: 3,075 | H: 346 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00013062003 | MC: 130,542 | H: 4858 | SM: 98 | Vol1h: 2844.32670119 | B/S 1m: 0/0
+  Opossum | Price: 0.000025638208 | MC: 25,630 | H: 286 | SM: 27 | Vol1h: 2068.52340588 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00013940529 | MC: 139,360 | H: 442 | SM: 42 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00037703826 | MC: 376,983 | H: 6325 | SM: 3 | Vol1h: 2472.27237903 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +618.1x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:09] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:09] Fetching token info...
+[02:00:10] Fetching holders...
+[02:00:11] Fetching traders...
+[02:00:11] Fetching security...
+[02:00:12] Fetching fasol stats...
+[02:00:12] Searching Twitter/X for mentions...
+[02:00:17] Patterns: 3
+[02:00:17] Session saved
+[02:00:18] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $130,542 | Holders: 4858
+  SM: 98 | KOL: 19
+  Patterns: 3
+==================================================
+[2026-06-14 02:00] [🌏 Asia] Session analysis complete
+[2026-06-14 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000029682742 | MC: 2,943 | H: 344 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00013100551 | MC: 130,927 | H: 4858 | SM: 98 | Vol1h: 15.79255237 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000026779619 | MC: 26,771 | H: 260 | SM: 27 | Vol1h: 998.16199666 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00014769042 | MC: 147,643 | H: 441 | SM: 42 | Vol1h: 1452.75926636 | B/S 1m: 0/0
+  CupMarkets | Price: 0.000355663 | MC: 355,606 | H: 6673 | SM: 3 | Vol1h: 2486.67713874 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:08] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:08] Fetching token info...
+[10:00:08] Fetching holders...
+[10:00:09] Fetching traders...
+[10:00:10] Fetching security...
+[10:00:10] Fetching fasol stats...
+[10:00:10] Searching Twitter/X for mentions...
+[10:00:11] Patterns: 1
+[10:00:11] Session saved
+[10:00:12] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $130,927 | Holders: 4858
+  SM: 98 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-14 10:00] [🌍 Europe] Session analysis complete
+[2026-06-14 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000029682742 | MC: 2,943 | H: 344 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00013228456 | MC: 132,205 | H: 4848 | SM: 98 | Vol1h: 404.21321592 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000025197036 | MC: 25,189 | H: 256 | SM: 27 | Vol1h: 31.19962185 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00013425436 | MC: 134,211 | H: 449 | SM: 42 | Vol1h: 624.00041707418 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00046599804 | MC: 465,921 | H: 6641 | SM: 3 | Vol1h: 1077.96246852 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:08] Starting 🌎 US analysis for TOLYBOT
+[16:00:08] Fetching token info...
+[16:00:08] Fetching holders...
+[16:00:09] Fetching traders...
+[16:00:09] Fetching security...
+[16:00:10] Fetching fasol stats...
+[16:00:10] Searching Twitter/X for mentions...
+[16:00:11] Patterns: 1
+[16:00:11] Session saved
+[16:00:12] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $132,205 | Holders: 4848
+  SM: 98 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-14 16:00] [🌎 US] Session analysis complete
+[2026-06-15 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000027815638 | MC: 2,758 | H: 343 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00014570957 | MC: 145,622 | H: 4845 | SM: 98 | Vol1h: 425.76112032 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.00002015895 | MC: 20,152 | H: 243 | SM: 27 | Vol1h: 224.061790406 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00012106538 | MC: 121,026 | H: 444 | SM: 42 | Vol1h: 9.63296034 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00037754146 | MC: 377,475 | H: 6596 | SM: 3 | Vol1h: 9633.63565156 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:08] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:08] Fetching token info...
+[02:00:09] Fetching holders...
+[02:00:09] Fetching traders...
+[02:00:10] Fetching security...
+[02:00:10] Fetching fasol stats...
+[02:00:11] Searching Twitter/X for mentions...
+[02:00:13] Patterns: 1
+[02:00:13] Session saved
+[02:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $145,622 | Holders: 4845
+  SM: 98 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-15 02:00] [🌏 Asia] Session analysis complete
+[2026-06-15 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000029307397 | MC: 2,906 | H: 340 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00014817069 | MC: 148,082 | H: 4846 | SM: 98 | Vol1h: 37.27611038 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000021978708 | MC: 21,972 | H: 250 | SM: 27 | Vol1h: 298.58387631 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00013019921 | MC: 130,157 | H: 442 | SM: 42 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00034787251 | MC: 347,808 | H: 6540 | SM: 3 | Vol1h: 108.78353628 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:09] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:09] Fetching token info...
+[10:00:09] Fetching holders...
+[10:00:10] Fetching traders...
+[10:00:11] Fetching security...
+[10:00:11] Fetching fasol stats...
+[10:00:11] Searching Twitter/X for mentions...
+[10:00:14] Patterns: 2
+[10:00:14] Session saved
+[10:00:15] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $148,082 | Holders: 4846
+  SM: 98 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-15 10:00] [🌍 Europe] Session analysis complete
+[2026-06-15 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000029171731 | MC: 2,892 | H: 339 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00015108028 | MC: 150,990 | H: 4841 | SM: 98 | Vol1h: 0.98244527 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000017508866 | MC: 17,503 | H: 262 | SM: 27 | Vol1h: 942.78731884 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00014214927 | MC: 142,103 | H: 436 | SM: 42 | Vol1h: 153.61948292 | B/S 1m: 0/0
+  CupMarkets | Price: 0.00037295179 | MC: 372,881 | H: 6514 | SM: 3 | Vol1h: 2048.99939039 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:08] Starting 🌎 US analysis for TOLYBOT
+[16:00:08] Fetching token info...
+[16:00:08] Fetching holders...
+[16:00:09] Fetching traders...
+[16:00:10] Fetching security...
+[16:00:10] Fetching fasol stats...
+[16:00:10] Searching Twitter/X for mentions...
+[16:00:11] Patterns: 1
+[16:00:11] Session saved
+[16:00:11] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $150,990 | Holders: 4841
+  SM: 98 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-15 16:00] [🌎 US] Session analysis complete
+[2026-06-16 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000031490544 | MC: 3,122 | H: 336 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00014031198 | MC: 140,228 | H: 4833 | SM: 98 | Vol1h: 1681.38671296 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.000020004574 | MC: 19,998 | H: 241 | SM: 27 | Vol1h: 417.95682021 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.0001539152 | MC: 153,865 | H: 435 | SM: 42 | Vol1h: 326.32578995 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00034702237 | MC: 346,952 | H: 6467 | SM: 3 | Vol1h: 1126.5146472 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:09] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:09] Fetching token info...
+[02:00:10] Fetching holders...
+[02:00:11] Fetching traders...
+[02:00:11] Fetching security...
+[02:00:12] Fetching fasol stats...
+[02:00:12] Searching Twitter/X for mentions...
+[02:00:13] Patterns: 1
+[02:00:13] Session saved
+[02:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $140,228 | Holders: 4833
+  SM: 98 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-16 02:00] [🌏 Asia] Session analysis complete
+[2026-06-16 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000026617099 | MC: 2,639 | H: 331 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00011971736 | MC: 119,646 | H: 4869 | SM: 98 | Vol1h: 2556.88878261 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000017528035 | MC: 17,522 | H: 270 | SM: 27 | Vol1h: 1951.19086258 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00014549811 | MC: 145,451 | H: 436 | SM: 42 | Vol1h: 30.5281858 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00032201636 | MC: 321,941 | H: 6424 | SM: 3 | Vol1h: 718.16989887 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:11] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:11] Fetching token info...
+[10:00:12] Fetching holders...
+[10:00:13] Fetching traders...
+[10:00:14] Fetching security...
+[10:00:15] Fetching fasol stats...
+[10:00:15] Searching Twitter/X for mentions...
+[10:00:17] Patterns: 2
+[10:00:17] Session saved
+[10:00:17] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $119,646 | Holders: 4869
+  SM: 98 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-16 10:00] [🌍 Europe] Session analysis complete
+[2026-06-16 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000024902245 | MC: 2,469 | H: 330 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00012145505 | MC: 121,382 | H: 4836 | SM: 98 | Vol1h: 2164.49707008 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000017678816 | MC: 17,673 | H: 253 | SM: 27 | Vol1h: 28.59752762 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00015341128 | MC: 153,362 | H: 438 | SM: 42 | Vol1h: 468.0081963663 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00022351195 | MC: 223,459 | H: 6412 | SM: 3 | Vol1h: 6237.39620175 | B/S 1m: 1/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:09] Starting 🌎 US analysis for TOLYBOT
+[16:00:09] Fetching token info...
+[16:00:10] Fetching holders...
+[16:00:11] Fetching traders...
+[16:00:11] Fetching security...
+[16:00:12] Fetching fasol stats...
+[16:00:12] Searching Twitter/X for mentions...
+[16:00:19] Patterns: 2
+[16:00:19] Session saved
+[16:00:20] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $120,974 | Holders: 4836
+  SM: 98 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-16 16:00] [🌎 US] Session analysis complete
+[2026-06-17 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000024914048 | MC: 2,470 | H: 330 | SM: 14 | Vol1h: 5.51099284 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00010947851 | MC: 109,413 | H: 4824 | SM: 98 | Vol1h: 365.82725363 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.000017856577 | MC: 17,851 | H: 244 | SM: 27 | Vol1h: 138.57427384 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00014919744 | MC: 149,149 | H: 435 | SM: 43 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00019702135 | MC: 196,974 | H: 6315 | SM: 3 | Vol1h: 1000.84253217 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +1000.8x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:10] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:10] Fetching token info...
+[02:00:11] Fetching holders...
+[02:00:12] Fetching traders...
+[02:00:12] Fetching security...
+[02:00:13] Fetching fasol stats...
+[02:00:13] Searching Twitter/X for mentions...
+[02:00:21] Patterns: 1
+[02:00:21] Session saved
+[02:00:22] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $109,413 | Holders: 4824
+  SM: 98 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-17 02:00] [🌏 Asia] Session analysis complete
+[2026-06-17 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000024075849 | MC: 2,387 | H: 329 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — WURLDCAP
+  TOLYBOT | Price: 0.00011852947 | MC: 118,458 | H: 4806 | SM: 99 | Vol1h: 730.59090306 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000021430713 | MC: 21,424 | H: 245 | SM: 27 | Vol1h: 238.46754048 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00014899821 | MC: 148,950 | H: 433 | SM: 43 | Vol1h: 7.61450978 | B/S 1m: 0/0
+  CupMarkets | Price: 0.00015308753 | MC: 153,049 | H: 6273 | SM: 3 | Vol1h: 202.16346404 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:10] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:10] Fetching token info...
+[10:00:11] Fetching holders...
+[10:00:12] Fetching traders...
+[10:00:12] Fetching security...
+[10:00:13] Fetching fasol stats...
+[10:00:13] Searching Twitter/X for mentions...
+[10:00:15] Patterns: 2
+[10:00:15] Session saved
+[10:00:15] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $118,458 | Holders: 4806
+  SM: 99 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-17 10:00] [🌍 Europe] Session analysis complete
+[2026-06-17 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: N/A | MC: N/A | H: N/A | SM: N/A | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00010570115 | MC: 105,638 | H: 4793 | SM: 99 | Vol1h: 711.072847303 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000023231815 | MC: 23,224 | H: 241 | SM: 27 | Vol1h: 217.39861893 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00015205969 | MC: 152,011 | H: 432 | SM: 43 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00014830981 | MC: 148,271 | H: 6260 | SM: 3 | Vol1h: 518.45141959 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:49] Starting 🌎 US analysis for TOLYBOT
+[16:00:49] Fetching token info...
+[16:00:49] Fetching holders...
+[16:00:50] Fetching traders...
+[16:00:51] Fetching security...
+[16:00:51] Fetching fasol stats...
+[16:00:52] Searching Twitter/X for mentions...
+[16:00:52] Patterns: 1
+[16:00:52] Session saved
+[16:00:53] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $105,638 | Holders: 4793
+  SM: 99 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-17 16:00] [🌎 US] Session analysis complete
+[2026-06-18 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000023984048 | MC: 2,378 | H: 326 | SM: 14 | Vol1h: 0.19037656 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00010715211 | MC: 107,088 | H: 4797 | SM: 99 | Vol1h: 280.14285958 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.0000252727 | MC: 25,264 | H: 247 | SM: 27 | Vol1h: 232.38855853 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00013494309 | MC: 134,899 | H: 426 | SM: 43 | Vol1h: 697.47983562 | B/S 1m: 0/0
+  CupMarkets | Price: 0.00015994033 | MC: 159,898 | H: 6252 | SM: 3 | Vol1h: 1297.26885484 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:08] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:08] Fetching token info...
+[02:00:09] Fetching holders...
+[02:00:11] Fetching traders...
+[02:00:11] Fetching security...
+[02:00:12] Fetching fasol stats...
+[02:00:12] Searching Twitter/X for mentions...
+[02:00:16] Patterns: 1
+[02:00:16] Session saved
+[02:00:17] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $107,088 | Holders: 4797
+  SM: 99 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-18 02:00] [🌏 Asia] Session analysis complete
+[2026-06-18 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000023984048 | MC: 2,378 | H: 326 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — WURLDCAP
+  TOLYBOT | Price: 0.00010521891 | MC: 105,156 | H: 4792 | SM: 99 | Vol1h: 1419.15253077 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000021793292 | MC: 21,786 | H: 253 | SM: 27 | Vol1h: 38.56703618 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00012181139 | MC: 121,772 | H: 428 | SM: 43 | Vol1h: 198.52542593 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00016299328 | MC: 162,949 | H: 6229 | SM: 3 | Vol1h: 21.94481768 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:09] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:09] Fetching token info...
+[10:00:10] Fetching holders...
+[10:00:11] Fetching traders...
+[10:00:12] Fetching security...
+[10:00:12] Fetching fasol stats...
+[10:00:13] Searching Twitter/X for mentions...
+[10:00:14] Patterns: 1
+[10:00:14] Session saved
+[10:00:14] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $105,156 | Holders: 4792
+  SM: 99 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-18 10:00] [🌍 Europe] Session analysis complete
+[2026-06-18 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000023984048 | MC: 2,378 | H: 326 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00013653422 | MC: 136,452 | H: 4792 | SM: 99 | Vol1h: 2192.099267469 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000021059275 | MC: 21,052 | H: 254 | SM: 27 | Vol1h: 255.46614752 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00012231919 | MC: 122,280 | H: 427 | SM: 43 | Vol1h: 185.59257871 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00016208775 | MC: 162,043 | H: 6228 | SM: 3 | Vol1h: 21.8263212 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:10] Starting 🌎 US analysis for TOLYBOT
+[16:00:10] Fetching token info...
+[16:00:10] Fetching holders...
+[16:00:11] Fetching traders...
+[16:00:12] Fetching security...
+[16:00:12] Fetching fasol stats...
+[16:00:12] Searching Twitter/X for mentions...
+[16:00:13] Patterns: 1
+[16:00:13] Session saved
+[16:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $136,818 | Holders: 4793
+  SM: 99 | KOL: 19
+  Patterns: 1
+==================================================
+[2026-06-18 16:00] [🌎 US] Session analysis complete
+[2026-06-19 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000022264992 | MC: 2,207 | H: 323 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00010378835 | MC: 103,726 | H: 4819 | SM: 99 | Vol1h: 3065.48511051 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.0000156109 | MC: 15,606 | H: 251 | SM: 27 | Vol1h: 194.13540369 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00015117421 | MC: 151,125 | H: 429 | SM: 43 | Vol1h: 259.67052201 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.00016611413 | MC: 166,068 | H: 6204 | SM: 3 | Vol1h: 472.96502751 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:10] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:10] Fetching token info...
+[02:00:10] Fetching holders...
+[02:00:11] Fetching traders...
+[02:00:12] Fetching security...
+[02:00:12] Fetching fasol stats...
+[02:00:13] Searching Twitter/X for mentions...
+[02:00:15] Patterns: 2
+[02:00:15] Session saved
+[02:00:16] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $103,726 | Holders: 4819
+  SM: 99 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-19 02:00] [🌏 Asia] Session analysis complete
+[2026-06-19 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000022568107 | MC: 2,237 | H: 322 | SM: 14 | Vol1h: 8.28187794 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00019051074 | MC: 190,396 | H: 4857 | SM: 102 | Vol1h: 10778.0060664974 | B/S 1m: 1/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000015708193 | MC: 15,703 | H: 241 | SM: 27 | Vol1h: 8.92585684 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.00015654696 | MC: 156,496 | H: 429 | SM: 43 | Vol1h: 547.62149881 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.00015937679 | MC: 159,332 | H: 6184 | SM: 3 | Vol1h: 45.31635435 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:10] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:10] Fetching token info...
+[10:00:11] Fetching holders...
+[10:00:11] Fetching traders...
+[10:00:12] Fetching security...
+[10:00:13] Fetching fasol stats...
+[10:00:13] Searching Twitter/X for mentions...
+[10:00:14] Patterns: 2
+[10:00:14] Session saved
+[10:00:14] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $190,396 | Holders: 4857
+  SM: 102 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-19 10:00] [🌍 Europe] Session analysis complete
+[2026-06-19 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000021929809 | MC: 2,174 | H: 321 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — WURLDCAP
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — WURLDCAP
+  TOLYBOT | Price: 0.00018383368 | MC: 183,723 | H: 4874 | SM: 102 | Vol1h: 6892.10701278 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +6892.1x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000015770381 | MC: 15,765 | H: 236 | SM: 27 | Vol1h: 50.53674109 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00015654696 | MC: 156,496 | H: 429 | SM: 43 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.00015508225 | MC: 155,038 | H: 6174 | SM: 3 | Vol1h: 485.32246155 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:09] Starting 🌎 US analysis for TOLYBOT
+[16:00:09] Fetching token info...
+[16:00:10] Fetching holders...
+[16:00:11] Fetching traders...
+[16:00:11] Fetching security...
+[16:00:12] Fetching fasol stats...
+[16:00:12] Searching Twitter/X for mentions...
+[16:00:13] Patterns: 2
+[16:00:13] Session saved
+[16:00:13] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $183,723 | Holders: 4874
+  SM: 102 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-19 16:00] [🌎 US] Session analysis complete
+[2026-06-20 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000021886167 | MC: 2,170 | H: 318 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00016981606 | MC: 169,714 | H: 4862 | SM: 102 | Vol1h: 1319.55709057 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.000014835495 | MC: 14,831 | H: 227 | SM: 27 | Vol1h: 61.99713199 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00015438235 | MC: 154,332 | H: 427 | SM: 43 | Vol1h: 11.3057412 | B/S 1m: 0/0
+  CupMarkets | Price: 0.00014194453 | MC: 141,903 | H: 6150 | SM: 3 | Vol1h: 1092.76453375 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:09] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:09] Fetching token info...
+[02:00:10] Fetching holders...
+[02:00:11] Fetching traders...
+[02:00:12] Fetching security...
+[02:00:12] Fetching fasol stats...
+[02:00:12] Searching Twitter/X for mentions...
+[02:00:14] Patterns: 2
+[02:00:14] Session saved
+[02:00:15] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $169,714 | Holders: 4862
+  SM: 102 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-20 02:00] [🌏 Asia] Session analysis complete
+[2026-06-20 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000021886167 | MC: 2,170 | H: 318 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00018462766 | MC: 184,517 | H: 4853 | SM: 102 | Vol1h: 1857.59764532 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000014332463 | MC: 14,328 | H: 224 | SM: 27 | Vol1h: 28.87727122 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.0001566796 | MC: 156,629 | H: 428 | SM: 43 | Vol1h: 18.63837094 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Panda
+  CupMarkets | Price: 0.000070038264 | MC: 70,017 | H: 6135 | SM: 3 | Vol1h: 77.34717143 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:09] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:09] Fetching token info...
+[10:00:10] Fetching holders...
+[10:00:11] Fetching traders...
+[10:00:11] Fetching security...
+[10:00:12] Fetching fasol stats...
+[10:00:12] Searching Twitter/X for mentions...
+[10:00:17] Patterns: 0
+[10:00:17] Session saved
+[10:00:17] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $184,517 | Holders: 4853
+  SM: 102 | KOL: 19
+  Patterns: 0
+==================================================
+[2026-06-20 10:00] [🌍 Europe] Session analysis complete
+[2026-06-20 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000021886167 | MC: 2,170 | H: 318 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00020548057 | MC: 205,357 | H: 4873 | SM: 103 | Vol1h: 1531.39773835 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000013522642 | MC: 13,518 | H: 222 | SM: 27 | Vol1h: 186.76585563 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00016088376 | MC: 160,831 | H: 427 | SM: 43 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Panda
+  CupMarkets | Price: 0.000082055778 | MC: 82,031 | H: 6105 | SM: 3 | Vol1h: 173.6195881 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:13] Starting 🌎 US analysis for TOLYBOT
+[16:00:13] Fetching token info...
+[16:00:14] Fetching holders...
+[16:00:15] Fetching traders...
+[16:00:16] Fetching security...
+[16:00:17] Fetching fasol stats...
+[16:00:17] Searching Twitter/X for mentions...
+[16:00:18] Patterns: 3
+[16:00:18] Session saved
+[16:00:19] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $205,357 | Holders: 4873
+  SM: 103 | KOL: 19
+  Patterns: 3
+==================================================
+[2026-06-20 16:00] [🌎 US] Session analysis complete
+[2026-06-21 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000022595221 | MC: 2,240 | H: 315 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00026341157 | MC: 263,254 | H: 4881 | SM: 103 | Vol1h: 2818.84079672 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.000013577645 | MC: 13,573 | H: 223 | SM: 27 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00017533369 | MC: 175,277 | H: 433 | SM: 43 | Vol1h: 0 | B/S 1m: 0/0
+  CupMarkets | Price: 0.0000082683873 | MC: 8,266 | H: 5942 | SM: 3 | Vol1h: 26.14492311 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:09] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:09] Fetching token info...
+[02:00:09] Fetching holders...
+[02:00:10] Fetching traders...
+[02:00:11] Fetching security...
+[02:00:12] Fetching fasol stats...
+[02:00:12] Searching Twitter/X for mentions...
+[02:00:15] Patterns: 2
+[02:00:15] Session saved
+[02:00:15] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $263,254 | Holders: 4880
+  SM: 103 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-21 02:00] [🌏 Asia] Session analysis complete
+[2026-06-21 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000022595221 | MC: 2,240 | H: 315 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00024905011 | MC: 248,901 | H: 4858 | SM: 103 | Vol1h: 228.44292596 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000013361941 | MC: 13,358 | H: 223 | SM: 27 | Vol1h: 20.59217214 | B/S 1m: 0/0
+  Panda | Price: 0.0001813938 | MC: 181,335 | H: 430 | SM: 43 | Vol1h: 608.2800808 | B/S 1m: 0/0
+  CupMarkets | Price: 0.0000075607402 | MC: 7,558 | H: 5929 | SM: 3 | Vol1h: 64.64838782 | B/S 1m: 0/1
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:08] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:08] Fetching token info...
+[10:00:09] [2026-06-22 02:00] [🌏 Asia] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000023138692 | MC: 2,294 | H: 313 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00027006621 | MC: 269,904 | H: 4867 | SM: 104 | Vol1h: 1993.86811444 | B/S 1m: 1/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — TOLYBOT
+  Opossum | Price: 0.000016600017 | MC: 16,595 | H: 228 | SM: 27 | Vol1h: 0.014628649 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Opossum
+  Panda | Price: 0.00015482867 | MC: 154,778 | H: 425 | SM: 43 | Vol1h: 0 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — Panda
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — Panda
+  CupMarkets | Price: 0.0000073814137 | MC: 7,379 | H: 5900 | SM: 3 | Vol1h: 1.174892 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌏 Asia session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌏 Asia session — CupMarkets
+  [🌏 Asia] Running TOLYBOT deep tracker...
+[02:00:08] Starting 🌏 Asia analysis for TOLYBOT
+[02:00:08] Fetching token info...
+[02:00:09] Fetching holders...
+[02:00:10] Fetching traders...
+[02:00:10] Fetching security...
+[02:00:11] Fetching fasol stats...
+[02:00:11] Searching Twitter/X for mentions...
+[02:00:14] Patterns: 2
+[02:00:14] Session saved
+[02:00:14] Telegram sent
+
+==================================================
+TOLYBOT 🌏 Asia Complete
+  MC: $269,904 | Holders: 4867
+  SM: 104 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-22 02:00] [🌏 Asia] Session analysis complete
+[2026-06-22 10:00] [🌍 Europe] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000023138692 | MC: 2,294 | H: 313 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00030344341 | MC: 303,261 | H: 4902 | SM: 104 | Vol1h: 5737.80467259 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: +5737.8x | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — TOLYBOT
+  Opossum | Price: 0.000013846829 | MC: 13,842 | H: 231 | SM: 27 | Vol1h: 56.6152524 | B/S 1m: 0/0
+  ⟳ From previous: -99.9% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — Opossum
+  Panda | Price: 0.0001562465 | MC: 156,196 | H: 428 | SM: 43 | Vol1h: 0 | B/S 1m: 0/0
+  CupMarkets | Price: 0.0000071531508 | MC: 7,151 | H: 5891 | SM: 3 | Vol1h: 7.47197569 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌍 Europe session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌍 Europe session — CupMarkets
+  [🌍 Europe] Running TOLYBOT deep tracker...
+[10:00:08] Starting 🌍 Europe analysis for TOLYBOT
+[10:00:08] Fetching token info...
+[10:00:09] Fetching holders...
+[10:00:10] Fetching traders...
+[10:00:11] Fetching security...
+[10:00:11] Fetching fasol stats...
+[10:00:12] Searching Twitter/X for mentions...
+[10:00:18] Patterns: 3
+[10:00:18] Session saved
+[10:00:18] Telegram sent
+
+==================================================
+TOLYBOT 🌍 Europe Complete
+  MC: $303,261 | Holders: 4902
+  SM: 104 | KOL: 19
+  Patterns: 3
+==================================================
+[2026-06-22 10:00] [🌍 Europe] Session analysis complete
+[2026-06-22 16:00] [🌎 US] Session analysis started
+  [Dune] Vol: 0 | Tokens: 0 | Traders: 0 | Fees: 0 SOL
+  WURLDCAP | Price: 0.0000023138692 | MC: 2,294 | H: 313 | SM: 14 | Vol1h: 0 | B/S 1m: 0/0
+  TOLYBOT | Price: 0.00030283807 | MC: 302,656 | H: 4896 | SM: 104 | Vol1h: 1936.7646456 | B/S 1m: 1/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — TOLYBOT
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — TOLYBOT
+  Opossum | Price: 0.000013825983 | MC: 13,821 | H: 226 | SM: 27 | Vol1h: 53.42384039 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — Opossum
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — Opossum
+  Panda | Price: 0.00015810348 | MC: 158,052 | H: 428 | SM: 43 | Vol1h: 0 | B/S 1m: 0/0
+  CupMarkets | Price: 0.000006984891 | MC: 6,983 | H: 5879 | SM: 3 | Vol1h: 56.69546461 | B/S 1m: 0/0
+  ⟳ From previous: -100.0% | Vol: N/A | B/S ratio: N/A
+  📉 PATTERN: -20% dump in 🌎 US session — CupMarkets
+  🔥 PATTERN: Buy pressure 2x+ sells in 🌎 US session — CupMarkets
+  [🌎 US] Running TOLYBOT deep tracker...
+[16:00:09] Starting 🌎 US analysis for TOLYBOT
+[16:00:09] Fetching token info...
+[16:00:10] Fetching holders...
+[16:00:10] Fetching traders...
+[16:00:11] Fetching security...
+[16:00:12] Fetching fasol stats...
+[16:00:12] Searching Twitter/X for mentions...
+[16:00:14] Patterns: 2
+[16:00:14] Session saved
+[16:00:14] Telegram sent
+
+==================================================
+TOLYBOT 🌎 US Complete
+  MC: $302,656 | Holders: 4896
+  SM: 104 | KOL: 19
+  Patterns: 2
+==================================================
+[2026-06-22 16:00] [🌎 US] Session analysis complete

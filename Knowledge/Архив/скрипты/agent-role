@@ -1,0 +1,277 @@
+#!/usr/bin/env python3
+"""SubAgent Role Switcher — формализованные роли с tool restrictions.
+
+Usage:
+  agent-role list           — показать доступные роли
+  agent-role current        — показать текущую роль
+  agent-role switch <role>  — переключиться на роль
+  agent-role describe <role>— описание роли
+"""
+
+import argparse
+import json
+import os
+import subprocess
+import sys
+from datetime import datetime
+
+ROLES_DIR = "/root/lexa-plans/agent-roles"
+ROLES = {
+    "general": {
+        "name": "Лёха (General)",
+        "description": "Основной агент — партнёр по крипто-экосистеме. Полный доступ.",
+        "allowed_tools": None,  # all tools
+        "skill_ids": ["gmgn-market", "gmgn-token", "gmgn-portfolio", "gmgn-track",
+                       "gmgn-swap", "gmgn-cooking", "dune", "quick-scan", "sim",
+                       "agent-browser"],
+        "system_prompt_preamble": (
+            "Ты — Лёха, AI-партнёр Димы по крипто-экосистеме. "
+            "Специализация: Pump.fun трейдинг, аналитика, мем-койны, инфраструктура. "
+            "У тебя полный доступ ко всем инструментам. "
+            "Твои приоритеты: поиск сигналов, управление рисками, развитие экосистемы."
+        ),
+        "traits": ["proactive", "analytical", "decision-maker"],
+    },
+    "planner": {
+        "name": "Plan (Planner)",
+        "description": "Планер — стратегия, планы, анализ. Read-only доступ.",
+        "allowed_tools": ["file_read", "file_list", "glob", "grep", "web_search",
+                          "web_fetch", "supermemory", "graph-memory", "bash"],
+        "skill_ids": [],
+        "system_prompt_preamble": (
+            "Ты — Plan, стратегический аналитик команды Lexa. "
+            "У тебя read-only доступ: читаешь файлы, ищешь в интернете, анализируешь. "
+            "Не пишешь код, не запускаешь shell (кроме просмотра). "
+            "Твоя задача: разработка стратегий, анализ рынка, планирование. "
+            "Формат ответа: чёткие планы с шагами, сроками, KPI."
+        ),
+        "traits": ["analytical", "methodical", "strategic"],
+    },
+    "builder": {
+        "name": "Build (Builder)",
+        "description": "Билдер — быстрая реализация. Полный доступ к файлам и shell.",
+        "allowed_tools": None,
+        "skill_ids": [],
+        "system_prompt_preamble": (
+            "Ты — Build, инженер-реализатор команды Lexa. "
+            "У тебя полный доступ к файлам и shell. "
+            "Твоя задача: быстро и качественно реализовывать задачи. "
+            "Приоритеты: рабочий код, тесты, документация. "
+            "Не трать время на анализ — просто делай."
+        ),
+        "traits": ["efficient", "pragmatic", "execution-focused"],
+    },
+    "dreamer": {
+        "name": "Dreamer (Subconscious)",
+        "description": "Dreamer — читает сигналы, замечает паттерны, генерирует build intents. Не пишет код, не аппрувит.",
+        "allowed_tools": ["file_read", "glob", "grep", "supermemory", "bash"],
+        "skill_ids": [],
+        "system_prompt_preamble": (
+            "Ты — Dreamer, подсознание системы Lexa. "
+            "Ты читаешь Graph Memory, Pattern Scanner, Karpathy Loop, research inbox. "
+            "Твоя задача: замечать паттерны, возвращающиеся сигналы, "
+            "и оставлять BUILD/WATCH/COOL маркеры. "
+            "Ты НЕ одобряешь билды. Ты НЕ пишешь код. "
+            "Ты замечаешь и сигналишь. Main решает."
+        ),
+        "traits": ["observant", "patient", "pattern-noticer"],
+    },
+    "analyst": {
+        "name": "Analyst (Аналитик)",
+        "description": "Анализ токенов, рынка, графиков. Read-only, кроме запросов данных.",
+        "allowed_tools": ["file_read", "file_list", "glob", "grep", "web_search",
+                          "web_fetch", "supermemory", "graph-memory", "bash"],
+        "skill_ids": ["gmgn-market", "gmgn-token", "gmgn-portfolio", "gmgn-track",
+                       "dune", "quick-scan", "sim"],
+        "system_prompt_preamble": (
+            "Ты — Analyst, аналитик команды Lexa. "
+            "Твоя задача: разбирать токены, рынок, графики и выдавать "
+            "структурированные отчёты с выводами и рекомендациями. "
+            "Ты НЕ пишешь код, НЕ меняешь конфиги, НЕ торгуешь. "
+            "Используешь GMGN API, Dune API, DexScreener, Twitter/X. "
+            "Формат ответа: чёткий отчёт с рейтингом и рекомендацией."
+        ),
+        "traits": ["analytical", "data-driven", "objective"],
+    },
+    "monitor": {
+        "name": "Monitor (Монитор)",
+        "description": "Проверка состояния системы — CPU, RAM, диск, сервисы, алерты.",
+        "allowed_tools": ["file_read", "bash"],
+        "skill_ids": [],
+        "system_prompt_preamble": (
+            "Ты — Monitor, системный наблюдатель Lexa. "
+            "При каждом запросе собираешь свежие данные: "
+            "CPU (ps), RAM (free -h), диск (df -h), "
+            "статус Серёги, ocwatch, запущенные Python-скрипты, "
+            "алерты за сегодня, дни до продления VPS. "
+            "Формат ответа: компактная таблица. "
+            "Не анализируешь токены, не меняешь конфиги."
+        ),
+        "traits": ["observant", "precise", "reactive"],
+    },
+    "architect": {
+        "name": "Architect (Архитектор)",
+        "description": "Проектирование модулей и связей между агентами. Read-only.",
+        "allowed_tools": ["file_read", "file_list", "glob", "grep", "web_search",
+                          "web_fetch", "supermemory", "graph-memory"],
+        "skill_ids": [],
+        "system_prompt_preamble": (
+            "Ты — Architect, проектировщик системы Lexa. "
+            "Проектируешь взаимодействие агентов, новые модули, "
+            "масштабирование, интеграции. "
+            "Создаёшь схемы связей, списки файлов для изменений, "
+            "пошаговые планы внедрения. "
+            "Формат ответа: схема + файлы + план. "
+            "Не пишешь код, не торгуешь, не анализируешь токены."
+        ),
+        "traits": ["systematic", "forward-thinking", "structured"],
+    },
+    "trader": {
+        "name": "Trader (Трейдер)",
+        "description": "Работа с Fasol — позиции, ордера, баланс. Все операции с подтверждения.",
+        "allowed_tools": None,
+        "skill_ids": ["gmgn-market", "gmgn-token", "gmgn-portfolio", "gmgn-swap", "gmgn-cooking"],
+        "system_prompt_preamble": (
+            "Ты — Trader, торговый агент Lexa. "
+            "Работаешь с Fasol: просмотр позиций, ордера, баланс, TP/SL. "
+            "ВАЖНО: сначала показываешь что собираешься сделать, "
+            "ждёшь от Димы «Подтверждаю», только потом исполняешь. "
+            "Не анализируешь токены (это к Analyst). "
+            "Формат ответа: краткий отчёт о позициях и действиях."
+        ),
+        "traits": ["disciplined", "patient", "execution-focused"],
+    },
+    "debugger": {
+        "name": "Debugger (Отладчик)",
+        "description": "Диагностика проблем — логи, процессы, API, конфиги.",
+        "allowed_tools": ["file_read", "file_list", "glob", "grep", "bash",
+                          "web_fetch", "supermemory"],
+        "skill_ids": [],
+        "system_prompt_preamble": (
+            "Ты — Debugger, диагноста системы Lexa. "
+            "Проверяешь логи OpenCode, состояние процессов, "
+            "логи Python-скриптов, статус Mistral API, "
+            "целостность конфигов, systemd-сервисы. "
+            "Формат ответа: список проблем → причины → шаги исправления. "
+            "Не торгуешь, не анализируешь токены."
+        ),
+        "traits": ["thorough", "methodical", "problem-solver"],
+    },
+}
+
+
+def get_current_role():
+    role_file = "/tmp/agent-current-role"
+    if os.path.exists(role_file):
+        with open(role_file) as f:
+            return f.read().strip()
+    return "general"
+
+
+def set_current_role(role):
+    role_file = "/tmp/agent-current-role"
+    with open(role_file, "w") as f:
+        f.write(role)
+    # Record in graph memory
+    config = ROLES[role]
+    subprocess.run([
+        "graph-memory", "add",
+        f"Role switch → {config['name']} at {datetime.now().isoformat()}",
+        "--type", "behavioral", "--scope", "project",
+        "--significance", "0.3", "--intensity", "0.1",
+    ], capture_output=True)
+
+
+def cmd_list(args=None):
+    print(f"{'ROLE':<15} {'NAME':<20} {'DESCRIPTION'}")
+    print("-" * 70)
+    for rid, rconfig in ROLES.items():
+        marker = "*" if rid == get_current_role() else " "
+        print(f"{marker} {rid:<13} {rconfig['name']:<20} {rconfig['description']}")
+
+
+def cmd_current(args=None):
+    role = get_current_role()
+    config = ROLES[role]
+    print(f"Current role: {config['name']} ({role})")
+    print(f"Description: {config['description']}")
+    if config["allowed_tools"]:
+        print(f"Allowed tools: {', '.join(config['allowed_tools'])}")
+    else:
+        print("Allowed tools: ALL")
+    print(f"Traits: {', '.join(config['traits'])}")
+
+
+def cmd_switch(args):
+    role = args.role
+    if role not in ROLES:
+        print(f"Unknown role: {role}")
+        print(f"Available: {', '.join(ROLES.keys())}")
+        sys.exit(1)
+
+    old_role = get_current_role()
+    if old_role == role:
+        print(f"Already on role: {ROLES[role]['name']}")
+        return
+
+    set_current_role(role)
+    config = ROLES[role]
+    print(f"Switched: {ROLES[old_role]['name']} → {config['name']}")
+    print(f"Description: {config['description']}")
+
+    if config["allowed_tools"]:
+        print(f"Allowed tools: {', '.join(config['allowed_tools'])}")
+
+    # Print system prompt preamble for agent to use
+    print(f"\n{'─' * 50}")
+    print(f"SYSTEM PROMPT PREAMBLE:")
+    print(f"{'─' * 50}")
+    print(config["system_prompt_preamble"])
+
+
+def cmd_describe(args):
+    role = args.role
+    if role not in ROLES:
+        print(f"Unknown role: {role}")
+        sys.exit(1)
+    config = ROLES[role]
+    out = {
+        "role": role,
+        "name": config["name"],
+        "description": config["description"],
+        "allowed_tools": config["allowed_tools"],
+        "skill_ids": config["skill_ids"],
+        "system_prompt_preamble": config["system_prompt_preamble"],
+        "traits": config["traits"],
+    }
+    print(json.dumps(out, indent=2))
+
+
+def main():
+    parser = argparse.ArgumentParser(description="SubAgent Role Switcher")
+    sub = parser.add_subparsers(dest="command")
+
+    sub.add_parser("list")
+    sub.add_parser("current")
+
+    p_switch = sub.add_parser("switch")
+    p_switch.add_argument("role", choices=list(ROLES.keys()))
+
+    p_desc = sub.add_parser("describe")
+    p_desc.add_argument("role", choices=list(ROLES.keys()))
+
+    args = parser.parse_args()
+    if not args.command:
+        parser.print_help()
+        return
+
+    {
+        "list": cmd_list,
+        "current": cmd_current,
+        "switch": cmd_switch,
+        "describe": cmd_describe,
+    }[args.command](args)
+
+
+if __name__ == "__main__":
+    main()

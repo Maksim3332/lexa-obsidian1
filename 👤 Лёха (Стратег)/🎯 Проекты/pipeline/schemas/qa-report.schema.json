@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "QA Report — Serega verification",
+  "type": "object",
+  "required": ["output_id", "verdict", "checks", "timestamp"],
+  "properties": {
+    "output_id": {"type": "string", "description": "Reference to the build output ID"},
+    "verdict": {"type": "string", "enum": ["pass", "fail", "warn"], "description": "Overall QA verdict"},
+    "checks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "check": {"type": "string", "description": "Check name"},
+          "status": {"type": "string", "enum": ["pass", "fail", "warn", "skip"]},
+          "detail": {"type": "string", "description": "Check result details"}
+        }
+      }
+    },
+    "recommendation": {"type": "string", "description": "What to do next"},
+    "timestamp": {"type": "string", "format": "date-time"}
+  }
+}

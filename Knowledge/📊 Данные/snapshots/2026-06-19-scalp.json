@@ -1,0 +1,32 @@
+{
+  "timestamp": 1781863201,
+  "datetime": "2026-06-19",
+  "type": "scalp",
+  "strategy_params": {
+    "min_mc": 30000,
+    "max_mc": 300000,
+    "min_vol_mc_ratio": 5,
+    "max_bot_rate": 0.5,
+    "gold_zone_min": 50000,
+    "gold_zone_max": 150000
+  },
+  "candidates": [
+    {
+      "address": "3vbJHAmQstVNpz7exVtfL358aBJLTesfGu5NCMp35pzo",
+      "symbol": "Vozinha",
+      "mc": 48534.88,
+      "liquidity": 30108.26,
+      "volume": 277422.6,
+      "vol_mc_ratio": 5.72,
+      "smart_money": 0,
+      "bot_rate": 0.0,
+      "holders": 1129,
+      "price": 4.8535824e-05,
+      "source": "trenches"
+    }
+  ],
+  "count": 1,
+  "gold_zone_count": 0,
+  "with_sm_count": 0,
+  "with_sm3_count": 0
+}

@@ -1,0 +1,79 @@
+#!/usr/bin/env bash
+# role-tabs — TUI tab bar for switching agent roles
+# Press 1-9 to switch, q to quit
+# Draws a persistent tab bar at the bottom of the terminal
+
+ROLES=(
+  "general:📋 All"
+  "analyst:📊 Analyst"
+  "monitor:🖥  Monitor"
+  "architect:🏗  Architect"
+  "trader:💰 Trader"
+  "debugger:🐛 Debug"
+  "planner:📝 Plan"
+  "dreamer:💭 Dream"
+)
+
+get_current_role() {
+  cat /tmp/agent-current-role 2>/dev/null || echo "general"
+}
+
+# ── Tab bar rendering ──
+render_tabs() {
+  local current="$1"
+  for i in "${!ROLES[@]}"; do
+    IFS=":" read -r role label <<< "${ROLES[$i]}"
+    local num=$((i + 1))
+    if [ "$role" = "$current" ]; then
+      printf "\e[1;7;33m %s:%s \e[0m" "$num" "$label"
+    else
+      printf "\e[0;90m %s:%s \e[0m" "$num" "$label"
+    fi
+  done
+  printf "\e[0;90m | q:quit\e[0m"
+}
+
+# ── Bottom bar update ──
+draw() {
+  local current
+  current=$(get_current_role)
+  # Save cursor, jump to last line, clear, draw, restore
+  printf "\e7\e[999;1H\e[2K"
+  render_tabs "$current"
+  printf "\e8"
+}
+
+cleanup() {
+  printf "\e[?25h"  # show cursor
+  # Clear bottom line
+  printf "\e7\e[999;1H\e[2K\e8"
+  echo ""
+  exit 0
+}
+
+trap cleanup SIGINT SIGTERM EXIT
+
+if [ ! -t 0 ]; then
+  echo "role-tabs: must run in interactive terminal"
+  exit 1
+fi
+
+printf "\e[?25l"  # hide cursor
+draw
+
+while true; do
+  IFS= read -r -s -n1 key
+  case "$key" in
+    [1-9])
+      idx=$((key - 1))
+      if [ "$idx" -lt "${#ROLES[@]}" ]; then
+        IFS=":" read -r role label <<< "${ROLES[$idx]}"
+        /usr/local/bin/agent-role switch "$role" 2>/dev/null
+        draw
+      fi
+      ;;
+    q|Q)
+      break
+      ;;
+  esac
+done

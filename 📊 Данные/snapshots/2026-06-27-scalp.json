@@ -1,0 +1,18 @@
+{
+  "timestamp": 1782511201,
+  "datetime": "2026-06-27",
+  "type": "scalp",
+  "strategy_params": {
+    "min_mc": 30000,
+    "max_mc": 300000,
+    "min_vol_mc_ratio": 5,
+    "max_bot_rate": 0.5,
+    "gold_zone_min": 50000,
+    "gold_zone_max": 150000
+  },
+  "candidates": [],
+  "count": 0,
+  "gold_zone_count": 0,
+  "with_sm_count": 0,
+  "with_sm3_count": 0
+}

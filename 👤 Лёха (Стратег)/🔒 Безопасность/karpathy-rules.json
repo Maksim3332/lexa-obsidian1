@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "id": "8166f9a0",
+      "content": "AVOID: Token dumped 80% after entry, scored 30 with no SM",
+      "trigger_pattern": "pattern:token xyz: scored 30/100, dev ",
+      "source_memory_id": "92f5ba37-a6c4-458f-92aa-3e1b4c8dfb73",
+      "outcome_detail": "Token dumped 80% after entry, scored 30 with no SM",
+      "created": "2026-06-10T02:31:12.915586",
+      "active": true,
+      "hit_count": 3
+    }
+  ]
+}

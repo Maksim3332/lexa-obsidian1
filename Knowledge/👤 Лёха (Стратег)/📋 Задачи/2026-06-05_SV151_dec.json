@@ -1,0 +1,53 @@
+{
+  "decision_id": "dec_20260605_001",
+  "timestamp": "2026-06-05T14:30:00Z",
+  "token": {
+    "symbol": "SV151",
+    "contract": "SV151D5pjygAKA8aJJcKzm4wFnRX5G92Fye94jQJk7g",
+    "chain": "solana",
+    "launchpad": "meteora_virtual_curve",
+    "age_hours": 18
+  },
+  "decision": {
+    "action": "SKIP",
+    "conviction_pct": 85,
+    "bucket": "dev_tracking"
+  },
+  "risk_score": {
+    "total": 4,
+    "max": 21,
+    "factors": {
+      "dev_exit": -3,
+      "bundler_rate_over_30": -2,
+      "bot_rate_over_20": -1,
+      "sm_all_sold": -3,
+      "sm_fresh_buys": 0,
+      "kol_still_holding": 0,
+      "top10_under_20": 1,
+      "contract_not_verified": -1,
+      "contract_clean": 1,
+      "lp_locked": 1,
+      "vol_live": 1,
+      "narrative_strong": 0
+    }
+  },
+  "bull_bear": {
+    "bull_score": 12,
+    "bear_score": 32,
+    "bull_case": "Bedrock Foundation — реальный проект Meteora×grvn_ai, CTO активен, чистый контракт, 3.4K холдеров",
+    "bear_case": "Dev полностью вышел с $27K, 46% объёма боты, все SM/KOL слили (100% sell), -44% от ATH, цена падает -19% за час"
+  },
+  "entry": null,
+  "exit": null,
+  "sizing": {
+    "portfolio_balance_sol": null,
+    "position_sol": 0,
+    "position_pct": 0,
+    "reason": "risk_score_too_low"
+  },
+  "reflection": {
+    "lesson": "Токены без SM конвергенции на второй день после запуска — высокая вероятность pump-and-dump",
+    "recheck_at": "2026-06-06T14:00:00Z",
+    "recheck_conditions": ["SM_convergence", "price_stabilization", "twitter_activity", "holder_count_change"]
+  }
+}

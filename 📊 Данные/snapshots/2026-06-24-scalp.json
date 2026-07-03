@@ -1,0 +1,58 @@
+{
+  "timestamp": 1782295201,
+  "datetime": "2026-06-24",
+  "type": "scalp",
+  "strategy_params": {
+    "min_mc": 30000,
+    "max_mc": 300000,
+    "min_vol_mc_ratio": 5,
+    "max_bot_rate": 0.5,
+    "gold_zone_min": 50000,
+    "gold_zone_max": 150000
+  },
+  "candidates": [
+    {
+      "address": "BYMFiPB4cPFAxY3mnsBqSNJGcgw817AFTL5i5rbkGEuD",
+      "symbol": "CAT",
+      "mc": 69363.04,
+      "liquidity": 48898.0,
+      "volume": 1640950.0,
+      "vol_mc_ratio": 23.66,
+      "smart_money": 0,
+      "bot_rate": 0,
+      "holders": 2107,
+      "price": 6.9363039e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "FUEypYSiv3trNRCWtg4DkCsv1PyoDvhTEjM1bGjPs9Nd",
+      "symbol": "Qubit",
+      "mc": 70497.69,
+      "liquidity": 20965.3,
+      "volume": 611530.0,
+      "vol_mc_ratio": 8.67,
+      "smart_money": 0,
+      "bot_rate": 0.0013,
+      "holders": 2089,
+      "price": 7.0497691e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "7PhPdYJ2LLusGMq5C6bx5BzMKV7U8XuVNDWWWcHUBXxi",
+      "symbol": "PUMPTIDE",
+      "mc": 30084.18,
+      "liquidity": 24377.7,
+      "volume": 456472.0,
+      "vol_mc_ratio": 15.17,
+      "smart_money": 0,
+      "bot_rate": 0.0154,
+      "holders": 119,
+      "price": 3.0084184e-05,
+      "source": "trending_1h"
+    }
+  ],
+  "count": 3,
+  "gold_zone_count": 2,
+  "with_sm_count": 0,
+  "with_sm3_count": 0
+}

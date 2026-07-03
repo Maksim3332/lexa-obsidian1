@@ -1,0 +1,8 @@
+{"ts": "2026-06-10T02:19:50.261551", "action": "halt", "token": "*", "amount_sol": 0, "score": 0, "status": "halted", "reason": "Manual halt via safety-mandate"}
+{"ts": "2026-06-10T02:19:52.835149", "action": "resume", "token": "*", "amount_sol": 0, "score": 0, "status": "resumed", "reason": "Manual resume via safety-mandate"}
+{"ts": "2026-06-10T02:19:56.469930", "action": "halt", "token": "*", "amount_sol": 0, "score": 0, "status": "halted", "reason": "Manual halt via safety-mandate"}
+{"ts": "2026-06-10T02:19:56.549486", "action": "blocked", "token": "FAKE", "amount_sol": 0, "score": 80.0, "status": "blocked", "reason": "HALT \u2014 kill switch active"}
+{"ts": "2026-06-10T02:19:56.637712", "action": "resume", "token": "*", "amount_sol": 0, "score": 0, "status": "resumed", "reason": "Manual resume via safety-mandate"}
+{"ts": "2026-06-10T02:20:00.112996", "action": "blocked", "token": "FAKE", "amount_sol": 0, "score": 50.0, "status": "blocked", "reason": "Score 50.0 < min_score_threshold 70"}
+{"ts": "2026-06-10T02:20:00.183311", "action": "approved", "token": "FAKE", "amount_sol": 0, "score": 80.0, "status": "approved", "reason": "Passed all checks"}
+{"ts": "2026-06-10T02:20:00.480622", "action": "failed", "token": "FAKE", "amount_sol": 0, "score": 80.0, "status": "failed", "reason": "[gmgn-cli] Invalid --from address for chain \"sol\": \"0xFAKE\""}

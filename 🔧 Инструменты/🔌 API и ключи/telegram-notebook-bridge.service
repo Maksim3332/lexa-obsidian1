@@ -1,0 +1,19 @@
+[Unit]
+Description=Telegram → Open Notebook Bridge
+After=network.target docker.service
+Requires=docker.service
+
+[Service]
+Type=simple
+User=root
+Environment=TELEGRAM_BOT_TOKEN=8669485527:AAEhcQiQoTlOA7yRffVUptFinbrmMnDluJo
+Environment=TELEGRAM_CHAT_ID=
+Environment=OPEN_NOTEBOOK_API=http://localhost:5055
+Environment=POLL_INTERVAL=5
+# ALLOWED_USER_IDS — optional: comma-separated tg user IDs
+ExecStart=/usr/bin/python3 /usr/local/bin/telegram-notebook-bridge.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

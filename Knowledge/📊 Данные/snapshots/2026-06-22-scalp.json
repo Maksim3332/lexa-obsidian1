@@ -1,0 +1,45 @@
+{
+  "timestamp": 1782100801,
+  "datetime": "2026-06-22",
+  "type": "scalp",
+  "strategy_params": {
+    "min_mc": 30000,
+    "max_mc": 300000,
+    "min_vol_mc_ratio": 5,
+    "max_bot_rate": 0.5,
+    "gold_zone_min": 50000,
+    "gold_zone_max": 150000
+  },
+  "candidates": [
+    {
+      "address": "Es8vFB7mT8x7PPZAsdVUUFJNLk24YNYsMxtvx46KDWqn",
+      "symbol": "drooling",
+      "mc": 80913.55,
+      "liquidity": 67883.5,
+      "volume": 5190470.0,
+      "vol_mc_ratio": 64.15,
+      "smart_money": 0,
+      "bot_rate": 0.4362,
+      "holders": 875,
+      "price": 8.0913554e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "949ct3ZwWAuPFWRp4jLQkVUdX9PLBj13omeuzAw8QMpU",
+      "symbol": "Fugu",
+      "mc": 57337.68,
+      "liquidity": 15472.57,
+      "volume": 501488.43,
+      "vol_mc_ratio": 8.75,
+      "smart_money": 0,
+      "bot_rate": 0.4035,
+      "holders": 2153,
+      "price": 5.733768e-05,
+      "source": "trenches"
+    }
+  ],
+  "count": 2,
+  "gold_zone_count": 2,
+  "with_sm_count": 0,
+  "with_sm3_count": 0
+}

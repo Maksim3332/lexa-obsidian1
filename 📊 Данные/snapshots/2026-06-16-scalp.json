@@ -1,0 +1,58 @@
+{
+  "timestamp": 1781604001,
+  "datetime": "2026-06-16",
+  "type": "scalp",
+  "strategy_params": {
+    "min_mc": 30000,
+    "max_mc": 300000,
+    "min_vol_mc_ratio": 5,
+    "max_bot_rate": 0.5,
+    "gold_zone_min": 50000,
+    "gold_zone_max": 150000
+  },
+  "candidates": [
+    {
+      "address": "6TotVaoKJYtAFnJikVofZkg1PxLNTvoq8XvTSKcZpump",
+      "symbol": "petin",
+      "mc": 83329.52,
+      "liquidity": 20894.6,
+      "volume": 421072.0,
+      "vol_mc_ratio": 5.05,
+      "smart_money": 5,
+      "bot_rate": 0.2812,
+      "holders": 729,
+      "price": 8.3329618e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "9UgQrXsbXVqEjFDFH8ScAiEDmD1The37VgTFCcuNpump",
+      "symbol": "Kohen",
+      "mc": 41424.32,
+      "liquidity": 15386.4,
+      "volume": 301446.0,
+      "vol_mc_ratio": 7.28,
+      "smart_money": 5,
+      "bot_rate": 0.2639,
+      "holders": 437,
+      "price": 4.143271e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "JCmjVc5D5dffbY12Zs7NZsECmqTgLikaY855nM3JhAqb",
+      "symbol": "TRUMPOIL",
+      "mc": 81205.3,
+      "liquidity": 120310.78,
+      "volume": 1382030.95,
+      "vol_mc_ratio": 17.02,
+      "smart_money": 0,
+      "bot_rate": 0.2364,
+      "holders": 1186,
+      "price": 8.12053e-05,
+      "source": "trenches"
+    }
+  ],
+  "count": 3,
+  "gold_zone_count": 2,
+  "with_sm_count": 2,
+  "with_sm3_count": 2
+}

@@ -1,0 +1,13 @@
+- [2026-06-06 02:47:42] [setup] Настроено авто-сохранение шагов: save-step.sh + AGENTS.md + memory-lexa + supermemory
+- [2026-06-06 02:49:33] [setup] Установлен ocwatch v0.6.0, порт 50234, дашборд добавлен в lexa-obsidian
+- [2026-06-06 02:49:34] [setup] Добавлено правило ПРОМТ: в AGENTS.md
+- [2026-06-06 02:52:01] [fasol] Обновлён fasol-skills: два новых sub-skill (smart-money-stream, calls-stream) + changelog прочитан
+- [2026-06-06 03:02:00] [infra] Установлен twitter-research MCP (twitterapi.io) — 7 инструментов зарегистрированы в settings.json
+- [2026-06-06 03:15:00] [research] v3 Research: $DATBIHGAH — 1-я попытка (неполная). Пропущен @DatBihGahonsol, не понят нарратив
+- [2026-06-06 03:25:00] [research] v3 Research: $DATBIHGAH — 2-я попытка (полная). Найдены @DatBihGahonsol (0 foll, 10 tweets), KYM roundup, мем-активность. Понят нарратив: виральный TikTok kid (@braydenharrelson1) → Kool-Aid pineapple → "Dat Bih Gah" как новый сленг вместо "fire/gas"
+- [2026-06-06 03:11:07] [research] v3 Research DATBIHGAH: полный разбор с twitterapi.io. Нарратив — TikTok Kool-Aid pineapple kid (@braydenharrelson1), фраза 'Dat Bih Gah' как новый сленг вместо fire/gas. KYM + Yahoo News подтверждают виральность. @DatBihGahonsol жив (0 foll, 10 tweets). Вердикт: pump-аккаунт слабый, но культурный мем реален — требует мониторинга
+- [2026-06-06 03:11:09] [session-end] Сессия завершена
+- [2026-06-06 03:14:20] [protocol] v2.0 протокола: добавлен Этап 2 (Narrative Intelligence) — Сначала разобрать мем, потом привязать к токену. Обновлены Social и On-Chain разделы. Исправлены параметры twitterapi.io (userName вместо userNameOrEmailAddress)
+- [2026-06-06 03:14:21] [session-end] Сессия завершена
+- [2026-06-06 03:22:39] [infra] Починил nginx: root / теперь проксирует на ocwatch (50234). Fasol Journal вынесен на /journal/. SSE таймаут увеличен до 1ч для live-обновлений
+- [2026-06-06 03:22:40] [session-end] Сессия завершена

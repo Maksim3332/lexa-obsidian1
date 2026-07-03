@@ -1,0 +1,97 @@
+{
+  "timestamp": 1782381601,
+  "datetime": "2026-06-25",
+  "type": "scalp",
+  "strategy_params": {
+    "min_mc": 30000,
+    "max_mc": 300000,
+    "min_vol_mc_ratio": 5,
+    "max_bot_rate": 0.5,
+    "gold_zone_min": 50000,
+    "gold_zone_max": 150000
+  },
+  "candidates": [
+    {
+      "address": "HphnPCTmZ29zHHoPeXcuyx4WV7Au37PvxHJLovdwVu8Y",
+      "symbol": "M",
+      "mc": 77699.19,
+      "liquidity": 0.09,
+      "volume": 1361420.0,
+      "vol_mc_ratio": 17.52,
+      "smart_money": 0,
+      "bot_rate": 0.4854,
+      "holders": 2144,
+      "price": 7.7699189e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "BzBoWaSn4G62yLnEpmc3cvgXgE5tYgxAPVi3hEo1ZGga",
+      "symbol": "Ayaya",
+      "mc": 44667.23,
+      "liquidity": 23485.3,
+      "volume": 1141350.0,
+      "vol_mc_ratio": 25.55,
+      "smart_money": 0,
+      "bot_rate": 0.0442,
+      "holders": 1841,
+      "price": 4.4667228e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "J3714hJ4cPS6DXL1sDNkTpbkpCtJCSQQkW7m98PJfKe7",
+      "symbol": "HAALAND",
+      "mc": 44483.45,
+      "liquidity": 41916.7,
+      "volume": 1131900.0,
+      "vol_mc_ratio": 25.45,
+      "smart_money": 0,
+      "bot_rate": 0.4633,
+      "holders": 996,
+      "price": 4.448345e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "7FXD4bT9yFeqoa3EKzYzW43ZKMecNLTicLYsKQLEnfBZ",
+      "symbol": "AIAIAI",
+      "mc": 36499.07,
+      "liquidity": 72961.4,
+      "volume": 628760.0,
+      "vol_mc_ratio": 17.23,
+      "smart_money": 0,
+      "bot_rate": 0.0956,
+      "holders": 871,
+      "price": 3.6499074e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "98uwJ4xSBqBeuA17Jy55SW35Y4BnfxJ3GWq1mMHipump",
+      "symbol": "M",
+      "mc": 65395.83,
+      "liquidity": 19007.6,
+      "volume": 397455.0,
+      "vol_mc_ratio": 6.08,
+      "smart_money": 5,
+      "bot_rate": 0.238,
+      "holders": 608,
+      "price": 6.539583e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "2F7twR7nQ5N1dGSoojSXUV4dz2R5ZDBUYAhX5vL77EDj",
+      "symbol": "Alicorn",
+      "mc": 30529.46,
+      "liquidity": 20256.8,
+      "volume": 277567.0,
+      "vol_mc_ratio": 9.09,
+      "smart_money": 1,
+      "bot_rate": 0.1079,
+      "holders": 868,
+      "price": 3.0529458e-05,
+      "source": "trending_1h"
+    }
+  ],
+  "count": 6,
+  "gold_zone_count": 2,
+  "with_sm_count": 2,
+  "with_sm3_count": 1
+}

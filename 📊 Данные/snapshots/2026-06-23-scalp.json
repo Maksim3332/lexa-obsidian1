@@ -1,0 +1,45 @@
+{
+  "timestamp": 1782208801,
+  "datetime": "2026-06-23",
+  "type": "scalp",
+  "strategy_params": {
+    "min_mc": 30000,
+    "max_mc": 300000,
+    "min_vol_mc_ratio": 5,
+    "max_bot_rate": 0.5,
+    "gold_zone_min": 50000,
+    "gold_zone_max": 150000
+  },
+  "candidates": [
+    {
+      "address": "F4vxHbYta4GJK4R4BdNmsNNiiF7ix7Tc6srSyRhpzbV9",
+      "symbol": "drooling",
+      "mc": 97813.73,
+      "liquidity": 33212.6,
+      "volume": 1771480.0,
+      "vol_mc_ratio": 18.11,
+      "smart_money": 1,
+      "bot_rate": 0.0647,
+      "holders": 2118,
+      "price": 9.7813738e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "2ntrUamqQ49Xan4XSNLDEYBjL7YCkahzwb2v6TBLwZE4",
+      "symbol": "Gaejuki",
+      "mc": 153268.77,
+      "liquidity": 70040.5,
+      "volume": 1400230.0,
+      "vol_mc_ratio": 9.14,
+      "smart_money": 0,
+      "bot_rate": 0.2065,
+      "holders": 2143,
+      "price": 0.00015326877,
+      "source": "trending_1h"
+    }
+  ],
+  "count": 2,
+  "gold_zone_count": 1,
+  "with_sm_count": 1,
+  "with_sm3_count": 0
+}

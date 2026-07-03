@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Build Output — Coder result",
+  "type": "object",
+  "required": ["decision_id", "status", "changes", "timestamp"],
+  "properties": {
+    "decision_id": {"type": "string", "description": "Reference to the decision ID"},
+    "status": {"type": "string", "enum": ["done", "partial", "failed", "blocked"], "description": "Execution status"},
+    "changes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "file": {"type": "string", "description": "Path to modified file"},
+          "action": {"type": "string", "enum": ["created", "modified", "deleted", "config_changed"]},
+          "summary": {"type": "string", "description": "What was changed"}
+        }
+      }
+    },
+    "output_data": {"type": "object", "description": "Any output data (alert config, score results, etc.)"},
+    "blocker": {"type": "string", "description": "If blocked, what's blocking"},
+    "timestamp": {"type": "string", "format": "date-time"}
+  }
+}

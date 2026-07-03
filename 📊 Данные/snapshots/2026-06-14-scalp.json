@@ -1,0 +1,45 @@
+{
+  "timestamp": 1781431201,
+  "datetime": "2026-06-14",
+  "type": "scalp",
+  "strategy_params": {
+    "min_mc": 30000,
+    "max_mc": 300000,
+    "min_vol_mc_ratio": 5,
+    "max_bot_rate": 0.5,
+    "gold_zone_min": 50000,
+    "gold_zone_max": 150000
+  },
+  "candidates": [
+    {
+      "address": "5Ee1nVpWE7iRpVisRZPkygZWXPHjidupx5vK53LNNXjw",
+      "symbol": "TOMMY",
+      "mc": 50005.9,
+      "liquidity": 63884.4,
+      "volume": 650245.0,
+      "vol_mc_ratio": 13.0,
+      "smart_money": 0,
+      "bot_rate": 0.1551,
+      "holders": 38,
+      "price": 5.00059e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "BmC691PoCieJmNFZ86MTMzgD7rqXUSGKZZjG2Ko8bLXK",
+      "symbol": "UATF",
+      "mc": 70007.11,
+      "liquidity": 111228.37,
+      "volume": 1328758.34,
+      "vol_mc_ratio": 18.98,
+      "smart_money": 0,
+      "bot_rate": 0.165,
+      "holders": 1003,
+      "price": 0,
+      "source": "trenches"
+    }
+  ],
+  "count": 2,
+  "gold_zone_count": 2,
+  "with_sm_count": 0,
+  "with_sm3_count": 0
+}

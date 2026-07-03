@@ -1,0 +1,28 @@
+{
+  "id": "intent-1781753125-ANSEM",
+  "type": "reversal",
+  "address": "6KDh3wLSZMg37nnU7prtKZr7Rut7WQGSf33Vp1G7pump",
+  "symbol": "ANSEM",
+  "signal": "ANSEM scored 106/100 [reversal] MC=$1,104,454",
+  "conviction": 0.95,
+  "action": "monitor",
+  "context": "Auto-detected by fasol-scanner: score=106, strategy=reversal",
+  "bucket": "reversal",
+  "source": "fasol-scanner",
+  "metadata": {
+    "score": 106,
+    "market_cap": 1104454.2392070375,
+    "strategy": "reversal",
+    "breakdown": {
+      "security": 25,
+      "dev": 15,
+      "holders": 10,
+      "smart_money": 23,
+      "volume_quality": 13,
+      "cto": 5,
+      "technical": 10,
+      "social": 5
+    }
+  },
+  "timestamp": "2026-06-18T11:25:25.444091Z"
+}

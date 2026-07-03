@@ -1,0 +1,4 @@
+{"ts": "2026-06-10T02:30:44.340147", "action": "check", "detail": "No contradictions: Token XYZ: scored 30/100, dev not sold, MC at 200000, SM cou..."}
+{"ts": "2026-06-10T02:31:05.106526", "action": "check", "detail": "Found 4 contradictions: NEW ANALYSIS: Token ABC scored 45/100, MC at 150000, dev sol..."}
+{"ts": "2026-06-10T02:32:07.186804", "action": "check", "detail": "Found 2 contradictions: Token ABC scored 25/100 with SM 0..."}
+{"ts": "2026-06-10T02:48:21.822324", "action": "check", "detail": "No contradictions: SM Cluster 48h comparison: AMERICA stable (-1.6% MC, SM 31\u21923..."}

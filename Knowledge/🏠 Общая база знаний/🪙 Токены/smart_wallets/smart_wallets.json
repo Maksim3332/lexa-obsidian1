@@ -1,0 +1,2138 @@
+{
+  "2tkrRiuwR4dM6DBaY7MN7RYE3L3huHnj1CWQVzw7ei4k": {
+    "address": "2tkrRiuwR4dM6DBaY7MN7RYE3L3huHnj1CWQVzw7ei4k",
+    "name": "2tkrRiuw",
+    "tags": [
+      "fresh_wallet",
+      "smart_degen"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 1702.2863945761142,
+        "realized_pnl": 0.13092734681387633,
+        "avg_cost": 0.0002944700021132006
+      }
+    ],
+    "total_tokens": 1
+  },
+  "9hysqehj84MkQJGTLmRhb4xW4YkVQ4zgvpQubJu17AU1": {
+    "address": "9hysqehj84MkQJGTLmRhb4xW4YkVQ4zgvpQubJu17AU1",
+    "name": "9hysqehj",
+    "tags": [
+      "smart_degen",
+      "gmgn"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 1054.11632071835,
+        "realized_pnl": 6.161598575703333,
+        "avg_cost": 3.260938470487906e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "C937MwaPmo2d6zxysoGeEERZZit7EC7H1R3Mem3BfUKZ": {
+    "address": "C937MwaPmo2d6zxysoGeEERZZit7EC7H1R3Mem3BfUKZ",
+    "name": "C937MwaP",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "padre"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 680.1771726662,
+        "realized_pnl": 0.36159784596882816,
+        "avg_cost": 0.0004183049734429468
+      }
+    ],
+    "total_tokens": 1
+  },
+  "666MXR2Ze4aDAKL15ydMTVfgu6PUMvBquVuguATGH999": {
+    "address": "666MXR2Ze4aDAKL15ydMTVfgu6PUMvBquVuguATGH999",
+    "name": "666MXR2Z",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 268.27198231732,
+        "realized_pnl": 0.05700756967330202,
+        "avg_cost": 8.383214942952512e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "2nGA6JbpuH3Xqc8B2t2jHGHCZytjE7PmfoUikAgNyrZu": {
+    "address": "2nGA6JbpuH3Xqc8B2t2jHGHCZytjE7PmfoUikAgNyrZu",
+    "name": "2nGA6Jbp",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 181.99653485249,
+        "realized_pnl": 0.41126351836910363,
+        "avg_cost": 0.0008369147251388118
+      }
+    ],
+    "total_tokens": 1
+  },
+  "Fzzd4Z9FVwobmgzmvgqadsKLPXVyBZvefYocLrEbCAtD": {
+    "address": "Fzzd4Z9FVwobmgzmvgqadsKLPXVyBZvefYocLrEbCAtD",
+    "name": "Fzzd4Z9F",
+    "tags": [
+      "smart_degen",
+      "fomo"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 170.51496397312073,
+        "realized_pnl": 0.056581139388600654,
+        "avg_cost": 0.0012916773270930271
+      }
+    ],
+    "total_tokens": 1
+  },
+  "herkMe1sn5jbYR977tUYUJ7CGBbVdpggpJ16tQzbvfB": {
+    "address": "herkMe1sn5jbYR977tUYUJ7CGBbVdpggpJ16tQzbvfB",
+    "name": "herkMe1s",
+    "tags": [
+      "fresh_wallet",
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 148.6202850357602,
+        "realized_pnl": 0.4131585745693918,
+        "avg_cost": 0.00034612060917692635
+      }
+    ],
+    "total_tokens": 1
+  },
+  "CXVJewdc79TYR55sz4SGLSWUPz3r4LBJ9Mn93bZ8ZyAz": {
+    "address": "CXVJewdc79TYR55sz4SGLSWUPz3r4LBJ9Mn93bZ8ZyAz",
+    "name": "CXVJewdc",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "bullx",
+      "gmgn",
+      "padre"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 144.02081892323,
+        "realized_pnl": 0.04662996601377148,
+        "avg_cost": 0.0008189917902252385
+      }
+    ],
+    "total_tokens": 1
+  },
+  "GoonY5hPo63xAPCwkyWuFmQ57HWq8wj5Bevj2D222U4u": {
+    "address": "GoonY5hPo63xAPCwkyWuFmQ57HWq8wj5Bevj2D222U4u",
+    "name": "GoonY5hP",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 126.65844554993,
+        "realized_pnl": 0.21480373721907564,
+        "avg_cost": 0.0007694722962849814
+      }
+    ],
+    "total_tokens": 1
+  },
+  "DZwgxGwTzaqFV91dBnoTeJWbirA4MCjwVNJ5jFfCpsSC": {
+    "address": "DZwgxGwTzaqFV91dBnoTeJWbirA4MCjwVNJ5jFfCpsSC",
+    "name": "DZwgxGwT",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 123.60758897911,
+        "realized_pnl": 0.24906513592587168,
+        "avg_cost": 0.0009128705880811389
+      }
+    ],
+    "total_tokens": 1
+  },
+  "6X7Ln5KPurRfNiNroyZxxi7VstEzuhd4jMefNEqAu7uV": {
+    "address": "6X7Ln5KPurRfNiNroyZxxi7VstEzuhd4jMefNEqAu7uV",
+    "name": "6X7Ln5KP",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 122.28134690445192,
+        "realized_pnl": 0.09272801113769882,
+        "avg_cost": 0.0019626865464060167
+      },
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 554.7771737999204,
+        "realized_pnl": 2.6263795865755553,
+        "avg_cost": 4.374932537994094e-05,
+        "timestamp": 1780110028
+      }
+    ],
+    "total_tokens": 2
+  },
+  "A7fn745g6dnXHc2LdXo3gaGh28Pz2X3DYdU8noa8TnyJ": {
+    "address": "A7fn745g6dnXHc2LdXo3gaGh28Pz2X3DYdU8noa8TnyJ",
+    "name": "A7fn745g",
+    "tags": [
+      "smart_degen",
+      "padre"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 79.82736673818,
+        "realized_pnl": 0.1090607476814327,
+        "avg_cost": 0.0002451412253454363
+      }
+    ],
+    "total_tokens": 1
+  },
+  "G3zuTGfTRMLZK5YiQt5SHChwNpVsruEFACq4r2psmLzS": {
+    "address": "G3zuTGfTRMLZK5YiQt5SHChwNpVsruEFACq4r2psmLzS",
+    "name": "G3zuTGfT",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 42.81134473793,
+        "realized_pnl": 0.23947735850752205,
+        "avg_cost": 0.00018539411503534
+      }
+    ],
+    "total_tokens": 1
+  },
+  "Hd5wMoiypHWRQmkus5SHu6ECH27fXVqkhg3d5rGhvLAL": {
+    "address": "Hd5wMoiypHWRQmkus5SHu6ECH27fXVqkhg3d5rGhvLAL",
+    "name": "Hd5wMoiy",
+    "tags": [
+      "fresh_wallet",
+      "smart_degen"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780138863,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 32.81885775022,
+        "realized_pnl": 0.058614471441822726,
+        "avg_cost": 9.11202854969752e-05
+      },
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 260.63887411223,
+        "realized_pnl": 0.04270705042088111,
+        "avg_cost": 0.00021513019355180477,
+        "timestamp": 1780110028
+      },
+      {
+        "addr": "GqYUT9cMQJ72GWMw5g8RC7rukc5XLPKXSWFjieXCpump",
+        "symbol": "WBS",
+        "mc_at_extract": 38149.14288339567,
+        "profit": 8.83965095914,
+        "realized_pnl": 0.04233184208742836,
+        "avg_cost": 6.253405795346698e-05,
+        "timestamp": 1780138863
+      }
+    ],
+    "total_tokens": 3
+  },
+  "8rvAsDKeAcEjEkiZMug9k8v1y8mW6gQQiMobd89Uy7qR": {
+    "address": "8rvAsDKeAcEjEkiZMug9k8v1y8mW6gQQiMobd89Uy7qR",
+    "name": "casino",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "bullx",
+      "trojan",
+      "gmgn",
+      "padre",
+      "wash_trader"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 27.981273051608426,
+        "realized_pnl": 0.018084456013459854,
+        "avg_cost": 0.000617371534114907
+      }
+    ],
+    "total_tokens": 1
+  },
+  "4U9s6ktkZVD6W9K5X1RRVG89Mm9ZGznrPhhPhXezNedm": {
+    "address": "4U9s6ktkZVD6W9K5X1RRVG89Mm9ZGznrPhhPhXezNedm",
+    "name": "4U9s6ktk",
+    "tags": [
+      "smart_degen",
+      "gmgn"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1781953256,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 20.4771258815,
+        "realized_pnl": 0.03926298954039441,
+        "avg_cost": 0.0019381763732329188
+      },
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 2.52953120977,
+        "realized_pnl": 0.018848900077270147,
+        "avg_cost": 0.0002648854427176314,
+        "timestamp": 1780110028
+      },
+      {
+        "addr": "GqYUT9cMQJ72GWMw5g8RC7rukc5XLPKXSWFjieXCpump",
+        "symbol": "WBS",
+        "mc_at_extract": 38149.14288339567,
+        "profit": 35.6942629896,
+        "realized_pnl": 0.2707978232763102,
+        "avg_cost": 6.176704674522856e-05,
+        "timestamp": 1780138863
+      },
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 72269.86281382304,
+        "profit": -4.52660091278,
+        "realized_pnl": -0.0244992619536627,
+        "avg_cost": 5.2356017080049063e-05,
+        "timestamp": 1781953256
+      }
+    ],
+    "total_tokens": 4
+  },
+  "XppYcY1RZyDTLayChp87oyJtAE9azfTyfJTvv3YK45f": {
+    "address": "XppYcY1RZyDTLayChp87oyJtAE9azfTyfJTvv3YK45f",
+    "name": "XppYcY1R",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780138863,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 19.936937725033204,
+        "realized_pnl": 0.01814990101402127,
+        "avg_cost": 0.00035196942452284374
+      },
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 38.59396256355,
+        "realized_pnl": 0.030237065859834125,
+        "avg_cost": 0.0001112142048687482,
+        "timestamp": 1780110028
+      },
+      {
+        "addr": "GqYUT9cMQJ72GWMw5g8RC7rukc5XLPKXSWFjieXCpump",
+        "symbol": "WBS",
+        "mc_at_extract": 38149.14288339567,
+        "profit": 31.53080367706,
+        "realized_pnl": 0.42829656336924743,
+        "avg_cost": 6.213262388293049e-05,
+        "timestamp": 1780138863
+      }
+    ],
+    "total_tokens": 3
+  },
+  "Cp433rwAfr5qSSU1NhseQMjhXhjmiudNSqYw8224g6vQ": {
+    "address": "Cp433rwAfr5qSSU1NhseQMjhXhjmiudNSqYw8224g6vQ",
+    "name": "Cp433rwA",
+    "tags": [
+      "fresh_wallet",
+      "smart_degen"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 19.8049316832,
+        "realized_pnl": 0.2054943892535147,
+        "avg_cost": 0.0002997427174504673
+      }
+    ],
+    "total_tokens": 1
+  },
+  "6thKzh1NhiPMNWXvqLUem3GAjUgkxBCyLToxZ28z4nVi": {
+    "address": "6thKzh1NhiPMNWXvqLUem3GAjUgkxBCyLToxZ28z4nVi",
+    "name": "6thKzh1N",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 4.0728395986,
+        "realized_pnl": 0.07850460063703084,
+        "avg_cost": 0.00018416005630051937
+      }
+    ],
+    "total_tokens": 1
+  },
+  "Ew4YAextA2RJjPvJoZxmMZpZJdmcpTBJa2bN1U6Ptb2T": {
+    "address": "Ew4YAextA2RJjPvJoZxmMZpZJdmcpTBJa2bN1U6Ptb2T",
+    "name": "Ew4YAext",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780138863,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 2.40729799276,
+        "realized_pnl": 0.009368543295232986,
+        "avg_cost": 0.0007234150490125593
+      },
+      {
+        "addr": "GqYUT9cMQJ72GWMw5g8RC7rukc5XLPKXSWFjieXCpump",
+        "symbol": "WBS",
+        "mc_at_extract": 38149.14288339567,
+        "profit": -21.79768866355,
+        "realized_pnl": -0.2608043320024106,
+        "avg_cost": 8.251264815870311e-05,
+        "timestamp": 1780138863
+      }
+    ],
+    "total_tokens": 2
+  },
+  "9bh68CX7yQ4bKBZdYqkWxS5WPzAMCyA7bJaFFddwbMZd": {
+    "address": "9bh68CX7yQ4bKBZdYqkWxS5WPzAMCyA7bJaFFddwbMZd",
+    "name": "9bh68CX7",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": 0.1923006174,
+        "realized_pnl": 0.0035682130342343287,
+        "avg_cost": 3.5919128262027396e-05
+      },
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 6.79695396624,
+        "realized_pnl": 0.12558266108473504,
+        "avg_cost": 5.2140985181556274e-05,
+        "timestamp": 1780110028
+      }
+    ],
+    "total_tokens": 2
+  },
+  "JBzU99LYekSFhThpv4xHWDo4aC9eM1QKHULhio3owv7T": {
+    "address": "JBzU99LYekSFhThpv4xHWDo4aC9eM1QKHULhio3owv7T",
+    "name": "JBzU99LY",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": -0.80120997601,
+        "realized_pnl": -0.0005113507629763048,
+        "avg_cost": 0.00012579209056614812
+      },
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 24.45678137319,
+        "realized_pnl": 0.046515600830074666,
+        "avg_cost": 9.974641575554982e-05,
+        "timestamp": 1780110028
+      }
+    ],
+    "total_tokens": 2
+  },
+  "E77T6R3LZdUwvj5qHnmGVtAsRa2T9PVENCcJFzUrb9S2": {
+    "address": "E77T6R3LZdUwvj5qHnmGVtAsRa2T9PVENCcJFzUrb9S2",
+    "name": "E77T6R3L",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": -1.99575057924,
+        "realized_pnl": -0.015746029726564078,
+        "avg_cost": 0.0016609980544223196
+      }
+    ],
+    "total_tokens": 1
+  },
+  "BL9mJiRQkfB9i9tMGZX2tSRFqbZVyXdPRKLyiYxkZbGM": {
+    "address": "BL9mJiRQkfB9i9tMGZX2tSRFqbZVyXdPRKLyiYxkZbGM",
+    "name": "BL9mJiRQ",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "padre"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": -4.3617757392,
+        "realized_pnl": -0.02886763544131659,
+        "avg_cost": 0.0007113193973352581
+      },
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": -28.1059266801,
+        "realized_pnl": -0.637527652142421,
+        "avg_cost": 0.000255105354421777,
+        "timestamp": 1780110028
+      }
+    ],
+    "total_tokens": 2
+  },
+  "CRzpBtFwjGkYKjwPSBzC4mn8qF2eb7XpjfPemubT4dgE": {
+    "address": "CRzpBtFwjGkYKjwPSBzC4mn8qF2eb7XpjfPemubT4dgE",
+    "name": "CRzpBtFw",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "padre"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": -5.5278757116,
+        "realized_pnl": -0.028756844768435878,
+        "avg_cost": 0.0007044490760579217
+      },
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": -25.97687725682,
+        "realized_pnl": -0.6381936286995366,
+        "avg_cost": 0.0002561308432802409,
+        "timestamp": 1780110028
+      }
+    ],
+    "total_tokens": 2
+  },
+  "CskAmpNFACaFELbVHdgezJu1uda2ivLvH2xFoiKdmPCS": {
+    "address": "CskAmpNFACaFELbVHdgezJu1uda2ivLvH2xFoiKdmPCS",
+    "name": "CskAmpNF",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": -8.06057838603,
+        "realized_pnl": -0.02687703103700554,
+        "avg_cost": 0.00027684152844845313
+      }
+    ],
+    "total_tokens": 1
+  },
+  "ARARAw1AL4kKnuwFyU534yoGv5ytexxeVpbcuEvpqi89": {
+    "address": "ARARAw1AL4kKnuwFyU534yoGv5ytexxeVpbcuEvpqi89",
+    "name": "ARARAw1A",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "gmgn",
+      "padre"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": -9.57108481572,
+        "realized_pnl": -0.03700204309398625,
+        "avg_cost": 0.0009452235200491714
+      }
+    ],
+    "total_tokens": 1
+  },
+  "GBeuq1LCo7A1VvZ5cwAQWKqXZXwemrLW97qAMF9YKpz7": {
+    "address": "GBeuq1LCo7A1VvZ5cwAQWKqXZXwemrLW97qAMF9YKpz7",
+    "name": "GBeuq1LC",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": -23.76066340418,
+        "realized_pnl": -0.09227155110190417,
+        "avg_cost": 0.0003645509783062455
+      },
+      {
+        "addr": "GqYUT9cMQJ72GWMw5g8RC7rukc5XLPKXSWFjieXCpump",
+        "symbol": "WBS",
+        "mc_at_extract": 38149.14288339567,
+        "profit": 17.75466144861,
+        "realized_pnl": 0.04286734619946945,
+        "avg_cost": 4.382466692197444e-05,
+        "timestamp": 1780138863
+      },
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": -5.3381768131,
+        "realized_pnl": -0.005951019671607647,
+        "avg_cost": 5.99194659359879e-05,
+        "timestamp": 1780858869
+      }
+    ],
+    "total_tokens": 3
+  },
+  "73DeqP8f7Eh6YfmC6CbvMDzzPKku3eaXAk7qtWmoqWDg": {
+    "address": "73DeqP8f7Eh6YfmC6CbvMDzzPKku3eaXAk7qtWmoqWDg",
+    "name": "73DeqP8f",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": -25.55205350536,
+        "realized_pnl": -0.012838711965471962,
+        "avg_cost": 0.00041210102699615396
+      },
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": -68.11908059378,
+        "realized_pnl": -0.0760661567993376,
+        "avg_cost": 0.00017456261900435457,
+        "timestamp": 1780110028
+      }
+    ],
+    "total_tokens": 2
+  },
+  "g5HcBNwSo2GyeKwdsgLzCrmqeB3KeihLd87nS79kDaG": {
+    "address": "g5HcBNwSo2GyeKwdsgLzCrmqeB3KeihLd87nS79kDaG",
+    "name": "g5HcBNwS",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": -63.45285189655,
+        "realized_pnl": -0.007233622242295833,
+        "avg_cost": 0.0008840215181731414
+      }
+    ],
+    "total_tokens": 1
+  },
+  "5wutoUsK5P1qnL33Dc1jpBKgpAy8TTtUV1m77xkEmnDE": {
+    "address": "5wutoUsK5P1qnL33Dc1jpBKgpAy8TTtUV1m77xkEmnDE",
+    "name": "5wutoUsK",
+    "tags": [
+      "fresh_wallet",
+      "smart_degen"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780138863,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": -74.17598848238,
+        "realized_pnl": -0.09444653309816205,
+        "avg_cost": 0.0006469007840250843
+      },
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 134.33981176907,
+        "realized_pnl": 0.05426829452676342,
+        "avg_cost": 0.00018566065619561,
+        "timestamp": 1780110028
+      },
+      {
+        "addr": "GqYUT9cMQJ72GWMw5g8RC7rukc5XLPKXSWFjieXCpump",
+        "symbol": "WBS",
+        "mc_at_extract": 38149.14288339567,
+        "profit": 18.42613772734,
+        "realized_pnl": 0.18809963343933536,
+        "avg_cost": 6.388839485057094e-05,
+        "timestamp": 1780138863
+      }
+    ],
+    "total_tokens": 3
+  },
+  "GihG1WciMf5JMmKBpkCiBqwYLvkX5D8Sayof2TQAB5GQ": {
+    "address": "GihG1WciMf5JMmKBpkCiBqwYLvkX5D8Sayof2TQAB5GQ",
+    "name": "GihG1Wci",
+    "tags": [
+      "smart_degen",
+      "padre"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": -78.55403282116102,
+        "realized_pnl": -0.19351251828312763,
+        "avg_cost": 2.300950009016233e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "8fsKLLtvKNanL4ginCaiRS6UfeemY11rSf8U8fN1dJw4": {
+    "address": "8fsKLLtvKNanL4ginCaiRS6UfeemY11rSf8U8fN1dJw4",
+    "name": "Stigman",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "padre"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": -133.64241600615193,
+        "realized_pnl": -0.06716609370661974,
+        "avg_cost": 0.002004456611898509
+      },
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 1278.6958352008596,
+        "realized_pnl": 1.1039846384338767,
+        "avg_cost": 5.933246229392634e-05,
+        "timestamp": 1780110028
+      }
+    ],
+    "total_tokens": 2
+  },
+  "6Gg47vBQqdLRuk6Y65QGd6nCw1eU7nPkEwSc5BpeHkE3": {
+    "address": "6Gg47vBQqdLRuk6Y65QGd6nCw1eU7nPkEwSc5BpeHkE3",
+    "name": "6Gg47vBQ",
+    "tags": [
+      "smart_degen",
+      "fomo"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": -225.23708867363,
+        "realized_pnl": -0.20180894195413482,
+        "avg_cost": 0.0003186877073315505
+      }
+    ],
+    "total_tokens": 1
+  },
+  "5hYsHp8HWFgySy1ZCn7rThQiZ1Cy5qd6mArW3inmMAfG": {
+    "address": "5hYsHp8HWFgySy1ZCn7rThQiZ1Cy5qd6mArW3inmMAfG",
+    "name": "5hYsHp8H",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": -239.98296119263,
+        "realized_pnl": -0.5212439673784068,
+        "avg_cost": 2.9213374483823057e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "5wHBg65RsM9t2tu4Bqn8xUTwP9X1q1jgf67WDMXsTmT5": {
+    "address": "5wHBg65RsM9t2tu4Bqn8xUTwP9X1q1jgf67WDMXsTmT5",
+    "name": "5wHBg65R",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": -337.27360835208,
+        "realized_pnl": -0.5581163445810077,
+        "avg_cost": 2.838364546611665e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "Dsaqbs7oA4o9Cb4o3sCqp5nNeiYERuzk2SY1HeNjeTPd": {
+    "address": "Dsaqbs7oA4o9Cb4o3sCqp5nNeiYERuzk2SY1HeNjeTPd",
+    "name": "Dsaqbs7o",
+    "tags": [
+      "fresh_wallet",
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780081272,
+    "last_seen": 1780081272,
+    "tokens": [
+      {
+        "addr": "5s7tf6ih2CEZf7ZPNkJAtcknAq9DL5GsWHMMT3Jdpump",
+        "symbol": "Stake",
+        "mc_at_extract": 140589.85931795923,
+        "profit": -355.3026692961,
+        "realized_pnl": -0.20196390801857747,
+        "avg_cost": 0.0005749873259285359
+      }
+    ],
+    "total_tokens": 1
+  },
+  "8387X1fnpvpHqZWhBKUQjkGRmKj2ah2XqXkB1eFXE3PP": {
+    "address": "8387X1fnpvpHqZWhBKUQjkGRmKj2ah2XqXkB1eFXE3PP",
+    "name": "8387X1fn",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "photon"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 817.95962991663,
+        "realized_pnl": 1.451434733592666,
+        "avg_cost": 3.351461319660021e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "Borz4BKWSkG47Wf5CknFEohrFYYDPyMNHUsSmj4btWu5": {
+    "address": "Borz4BKWSkG47Wf5CknFEohrFYYDPyMNHUsSmj4btWu5",
+    "name": "Borz4BKW",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "padre"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 599.06835016765,
+        "realized_pnl": 2.1253102339686225,
+        "avg_cost": 8.354015131764991e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "7aquXvRBk984P8gbkYe4NAtyrdbssGLjQikPpYp31u9R": {
+    "address": "7aquXvRBk984P8gbkYe4NAtyrdbssGLjQikPpYp31u9R",
+    "name": "7aquXvRB",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 235.00762165274,
+        "realized_pnl": 0.18536902636827468,
+        "avg_cost": 0.00022543823540893446
+      }
+    ],
+    "total_tokens": 1
+  },
+  "BSPdKsA3VyyHesPCkfEktfThbEqqFxvot29BkYaSmqbm": {
+    "address": "BSPdKsA3VyyHesPCkfEktfThbEqqFxvot29BkYaSmqbm",
+    "name": "BSPdKsA3",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 190.74716942445,
+        "realized_pnl": 0.451452521445941,
+        "avg_cost": 0.00028112504482712846
+      }
+    ],
+    "total_tokens": 1
+  },
+  "HW1wbyPSa7QTqjRzD4kCKZyBbXFzR8cA7sJqBrzrJ6o4": {
+    "address": "HW1wbyPSa7QTqjRzD4kCKZyBbXFzR8cA7sJqBrzrJ6o4",
+    "name": "HW1wbyPS",
+    "tags": [
+      "fresh_wallet",
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 183.04549896403,
+        "realized_pnl": 0.024842358022372016,
+        "avg_cost": 0.0001699443118239979
+      }
+    ],
+    "total_tokens": 1
+  },
+  "9asBCQqp2o5BicHWPJZJ1RBh8hKQR76rejKgkQkzNwPy": {
+    "address": "9asBCQqp2o5BicHWPJZJ1RBh8hKQR76rejKgkQkzNwPy",
+    "name": "9asBCQqp",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 163.73478035912,
+        "realized_pnl": 0.02851535800932633,
+        "avg_cost": 0.0001896932066930569
+      }
+    ],
+    "total_tokens": 1
+  },
+  "FdHEV7sRsHJch6LmnEBtzLtU28zK3Dogb9tbhXLNyyGT": {
+    "address": "FdHEV7sRsHJch6LmnEBtzLtU28zK3Dogb9tbhXLNyyGT",
+    "name": "FdHEV7sR",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 113.92763274379,
+        "realized_pnl": 0.08145990135894274,
+        "avg_cost": 0.00021113823823729226
+      },
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": -23.54182694161,
+        "realized_pnl": -0.1064380594345559,
+        "avg_cost": 8.145105543880108e-05,
+        "timestamp": 1780858869
+      }
+    ],
+    "total_tokens": 2
+  },
+  "2fNPNJKE3ny6b5Vo1wdfa7J7KqYNjeyBM3PbGGSJ398r": {
+    "address": "2fNPNJKE3ny6b5Vo1wdfa7J7KqYNjeyBM3PbGGSJ398r",
+    "name": "2fNPNJKE",
+    "tags": [
+      "smart_degen",
+      "padre"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 113.87255128757,
+        "realized_pnl": 0.044238329997926526,
+        "avg_cost": 0.00026237467951259035
+      }
+    ],
+    "total_tokens": 1
+  },
+  "EnQdeYsyhacWWDuWfFJvtyk1ehD1cB511ujxJpUtiiWA": {
+    "address": "EnQdeYsyhacWWDuWfFJvtyk1ehD1cB511ujxJpUtiiWA",
+    "name": "EnQdeYsy",
+    "tags": [
+      "smart_degen",
+      "gmgn",
+      "padre"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 96.94028843032,
+        "realized_pnl": 0.1699859642333374,
+        "avg_cost": 0.00022473984134775075
+      }
+    ],
+    "total_tokens": 1
+  },
+  "DAL34ApCKoVjp3AEMsxXkLNuVmthnVgkvUtG4SNVJGYQ": {
+    "address": "DAL34ApCKoVjp3AEMsxXkLNuVmthnVgkvUtG4SNVJGYQ",
+    "name": "DAL34ApC",
+    "tags": [
+      "fresh_wallet",
+      "smart_degen",
+      "axiom",
+      "padre"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 88.51944962681,
+        "realized_pnl": 0.175391335925247,
+        "avg_cost": 0.00022389638978806184
+      }
+    ],
+    "total_tokens": 1
+  },
+  "undwZZbXFTXAizTeeNpmygJDa4pWopEr1UCDSWpyo4y": {
+    "address": "undwZZbXFTXAizTeeNpmygJDa4pWopEr1UCDSWpyo4y",
+    "name": "undwZZbX",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 61.27630961724,
+        "realized_pnl": 0.025416944223301707,
+        "avg_cost": 0.0002580601289321978
+      }
+    ],
+    "total_tokens": 1
+  },
+  "AtFjYrCLRZMwEXFr4pK3NShq58CGZFXZ21LDeWMUUoF4": {
+    "address": "AtFjYrCLRZMwEXFr4pK3NShq58CGZFXZ21LDeWMUUoF4",
+    "name": "AtFjYrCL",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 55.37077312127,
+        "realized_pnl": 0.08759894052966673,
+        "avg_cost": 0.0001762533693378549
+      }
+    ],
+    "total_tokens": 1
+  },
+  "46cSe3pbpyqzENHgvie4FnYvYPsYJQUVX1oSnPNc4xBZ": {
+    "address": "46cSe3pbpyqzENHgvie4FnYvYPsYJQUVX1oSnPNc4xBZ",
+    "name": "46cSe3pb",
+    "tags": [
+      "fresh_wallet",
+      "smart_degen",
+      "axiom",
+      "padre"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 52.61172353148,
+        "realized_pnl": 0.17069592979429749,
+        "avg_cost": 0.00022285490800312267
+      }
+    ],
+    "total_tokens": 1
+  },
+  "FFFz6LeDp41sqe5VusaLH7V2HFhidCnqTiYQhE6V2Zco": {
+    "address": "FFFz6LeDp41sqe5VusaLH7V2HFhidCnqTiYQhE6V2Zco",
+    "name": "FFFz6LeD",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 15.88860754272,
+        "realized_pnl": 0.03132679952460078,
+        "avg_cost": 0.00010323815133017797
+      }
+    ],
+    "total_tokens": 1
+  },
+  "hnu69n6P5CgYXCtUKii9wgamqtDeTVHY3TVJ6HKt7wC": {
+    "address": "hnu69n6P5CgYXCtUKii9wgamqtDeTVHY3TVJ6HKt7wC",
+    "name": "hnu69n6P",
+    "tags": [
+      "smart_degen",
+      "padre"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 13.251898705948145,
+        "realized_pnl": 0.040962002594113235,
+        "avg_cost": 3.007868171220316e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "BbYZnUraNVgDAbtmh6oi4wXjZPr5NKRhovHKF1nEfcdv": {
+    "address": "BbYZnUraNVgDAbtmh6oi4wXjZPr5NKRhovHKF1nEfcdv",
+    "name": "BbYZnUra",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": 10.05668259877,
+        "realized_pnl": 0.0341128284683977,
+        "avg_cost": 0.0001203664870797656
+      }
+    ],
+    "total_tokens": 1
+  },
+  "RTYizu6bjvFTBfiS56cEoqkKRqk5xa5VBKsHQUeUNDs": {
+    "address": "RTYizu6bjvFTBfiS56cEoqkKRqk5xa5VBKsHQUeUNDs",
+    "name": "RTYizu6b",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": -7.56181153065,
+        "realized_pnl": -0.004908518604915061,
+        "avg_cost": 0.0002741810228163667
+      }
+    ],
+    "total_tokens": 1
+  },
+  "CBPMJkXhbRueZeAXVsCNnU3LSMytigzEzGrsJDY4nTHd": {
+    "address": "CBPMJkXhbRueZeAXVsCNnU3LSMytigzEzGrsJDY4nTHd",
+    "name": "CBPMJkXh",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "padre"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": -14.12724120583,
+        "realized_pnl": -0.06854499992130113,
+        "avg_cost": 0.0002744120521742512
+      }
+    ],
+    "total_tokens": 1
+  },
+  "AZjrFrtNEgdGhr4dsDahF7TK9VaHVYqzG6M1yjGYjC67": {
+    "address": "AZjrFrtNEgdGhr4dsDahF7TK9VaHVYqzG6M1yjGYjC67",
+    "name": "AZjrFrtN",
+    "tags": [
+      "fresh_wallet",
+      "smart_degen"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": -21.27151199648,
+        "realized_pnl": -0.48759268089999747,
+        "avg_cost": 0.000432583516904958
+      }
+    ],
+    "total_tokens": 1
+  },
+  "5YAsmiwtjarawyom4Jfgto6W94BvzWqFTUB54Uzjn5Rc": {
+    "address": "5YAsmiwtjarawyom4Jfgto6W94BvzWqFTUB54Uzjn5Rc",
+    "name": "5YAsmiwt",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "padre"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": -35.33674088322,
+        "realized_pnl": -0.0673215731483583,
+        "avg_cost": 0.0002830684692257276
+      },
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": 53.83721651444,
+        "realized_pnl": 0.23186827739208618,
+        "avg_cost": 4.517238392206651e-05,
+        "timestamp": 1780858869
+      }
+    ],
+    "total_tokens": 2
+  },
+  "6ANGS6SSCxkv6hV3iymHHMESqDz7EFaecCwHA8qTswpr": {
+    "address": "6ANGS6SSCxkv6hV3iymHHMESqDz7EFaecCwHA8qTswpr",
+    "name": "6ANGS6SS",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": -53.80833463016,
+        "realized_pnl": -0.10609129259310081,
+        "avg_cost": 0.00011092572278581351
+      }
+    ],
+    "total_tokens": 1
+  },
+  "G6eDC38rN1UWd2WEUvyg6rxpqHVfQTqVqsqPEfKwaFJB": {
+    "address": "G6eDC38rN1UWd2WEUvyg6rxpqHVfQTqVqsqPEfKwaFJB",
+    "name": "G6eDC38r",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": -99.06653395639,
+        "realized_pnl": -0.09434297727516108,
+        "avg_cost": 0.00012010054067757028
+      }
+    ],
+    "total_tokens": 1
+  },
+  "81wSbGM8wwf61q5rgFpoJjaruPhUmpstqFj3Hyueb59g": {
+    "address": "81wSbGM8wwf61q5rgFpoJjaruPhUmpstqFj3Hyueb59g",
+    "name": "81wSbGM8",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": -103.35275673555,
+        "realized_pnl": -0.1553748016508735,
+        "avg_cost": 0.00019328983886167546
+      }
+    ],
+    "total_tokens": 1
+  },
+  "3Vsx9RN9jvnKwdMkHxn6Z2cehtffgghk4Kd4MStHT1P6": {
+    "address": "3Vsx9RN9jvnKwdMkHxn6Z2cehtffgghk4Kd4MStHT1P6",
+    "name": "sjdjkskscn c d",
+    "tags": [
+      "pump_smart",
+      "axiom",
+      "photon"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": -125.72866662538,
+        "realized_pnl": -0.17982048412867288,
+        "avg_cost": 0.000363775147227452
+      }
+    ],
+    "total_tokens": 1
+  },
+  "7fnSsVNgKwnyPayW4oBP9MNFc5YeTtqEyEhT1Psjqakw": {
+    "address": "7fnSsVNgKwnyPayW4oBP9MNFc5YeTtqEyEhT1Psjqakw",
+    "name": "7fnSsVNg",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": -143.90147309947,
+        "realized_pnl": -0.2069252888735425,
+        "avg_cost": 0.00018371385099055424
+      }
+    ],
+    "total_tokens": 1
+  },
+  "8wq2nhV9YaqTtX3aPMdtmhYrzQyoQCdFpWFNqpySux94": {
+    "address": "8wq2nhV9YaqTtX3aPMdtmhYrzQyoQCdFpWFNqpySux94",
+    "name": "8wq2nhV9",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": -199.11314816082,
+        "realized_pnl": -0.3034317842552712,
+        "avg_cost": 0.00019501744585361276
+      }
+    ],
+    "total_tokens": 1
+  },
+  "CEUA7zVoDRqRYoeHTP58UHU6TR8yvtVbeLrX1dppqoXJ": {
+    "address": "CEUA7zVoDRqRYoeHTP58UHU6TR8yvtVbeLrX1dppqoXJ",
+    "name": "CEUA7zVo",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "gmgn"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1781233276,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": -230.4151997191,
+        "realized_pnl": -0.28409653696589765,
+        "avg_cost": 0.0003039871784611457
+      },
+      {
+        "addr": "DAYiaV6rooemiBBroroWwh44zykYoozsTirV8AYZpump",
+        "symbol": "HAPPY",
+        "mc_at_extract": 36021.196073220286,
+        "profit": -186.10927777588,
+        "realized_pnl": -0.19905670097364164,
+        "avg_cost": 2.7117740201036706e-05,
+        "timestamp": 1781233276
+      }
+    ],
+    "total_tokens": 2
+  },
+  "3ricXXziD22sZFyecy12L3dbYLH5Dep6scaHVdL8JdFz": {
+    "address": "3ricXXziD22sZFyecy12L3dbYLH5Dep6scaHVdL8JdFz",
+    "name": "3ricXXzi",
+    "tags": [
+      "smart_degen",
+      "gmgn"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": -230.87635133554,
+        "realized_pnl": -0.23904127925817795,
+        "avg_cost": 0.00019750419302723516
+      }
+    ],
+    "total_tokens": 1
+  },
+  "FFEjC9MHhpQViBPrD2iU6LmV2hEigyhLJaL7MZUZzyD4": {
+    "address": "FFEjC9MHhpQViBPrD2iU6LmV2hEigyhLJaL7MZUZzyD4",
+    "name": "FFEjC9MH",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780110028,
+    "last_seen": 1780110028,
+    "tokens": [
+      {
+        "addr": "Cjo46uRW2yeF2uXLn2phrVZZyZ1sfnrMNutfrhZopump",
+        "symbol": "ETB",
+        "mc_at_extract": 89064.10255228053,
+        "profit": -415.08909981766,
+        "realized_pnl": -0.34168396546926244,
+        "avg_cost": 0.00037221592223026173
+      }
+    ],
+    "total_tokens": 1
+  },
+  "HpLB9MPL7VoxQZQffFtTX5Lm5mdreykrwVP9omqK6k1P": {
+    "address": "HpLB9MPL7VoxQZQffFtTX5Lm5mdreykrwVP9omqK6k1P",
+    "name": "HpLB9MPL",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780138863,
+    "last_seen": 1780138863,
+    "tokens": [
+      {
+        "addr": "GqYUT9cMQJ72GWMw5g8RC7rukc5XLPKXSWFjieXCpump",
+        "symbol": "WBS",
+        "mc_at_extract": 38149.14288339567,
+        "profit": 61.32632723904,
+        "realized_pnl": 0.09208208850480713,
+        "avg_cost": 4.04700654473402e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "8c6jGuUbogcmmrwhnPVTrqqRiPGTN62RpBzisUpok9SP": {
+    "address": "8c6jGuUbogcmmrwhnPVTrqqRiPGTN62RpBzisUpok9SP",
+    "name": "8c6jGuUb",
+    "tags": [
+      "smart_degen",
+      "padre",
+      "fomo"
+    ],
+    "first_seen": 1780138863,
+    "last_seen": 1780138863,
+    "tokens": [
+      {
+        "addr": "GqYUT9cMQJ72GWMw5g8RC7rukc5XLPKXSWFjieXCpump",
+        "symbol": "WBS",
+        "mc_at_extract": 38149.14288339567,
+        "profit": 36.9095377927,
+        "realized_pnl": 0.07404323986132307,
+        "avg_cost": 6.35841082984512e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "3CsDNN3KGgN32JCXVZa8XJJ9ssYJyoYcYMK5igPq5fPW": {
+    "address": "3CsDNN3KGgN32JCXVZa8XJJ9ssYJyoYcYMK5igPq5fPW",
+    "name": "3CsDNN3K",
+    "tags": [
+      "fresh_wallet",
+      "smart_degen"
+    ],
+    "first_seen": 1780138863,
+    "last_seen": 1780138863,
+    "tokens": [
+      {
+        "addr": "GqYUT9cMQJ72GWMw5g8RC7rukc5XLPKXSWFjieXCpump",
+        "symbol": "WBS",
+        "mc_at_extract": 38149.14288339567,
+        "profit": 4.12762875673,
+        "realized_pnl": 0.015774596267282795,
+        "avg_cost": 5.0717136598062196e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "HrtVLLCBM4LXfRGLGcXBYvkkJ9xnbiJ3ob1MxKdmNs7o": {
+    "address": "HrtVLLCBM4LXfRGLGcXBYvkkJ9xnbiJ3ob1MxKdmNs7o",
+    "name": "HrtVLLCB",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780138863,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "GqYUT9cMQJ72GWMw5g8RC7rukc5XLPKXSWFjieXCpump",
+        "symbol": "WBS",
+        "mc_at_extract": 38149.14288339567,
+        "profit": -8.98119312618,
+        "realized_pnl": -0.036208882825622686,
+        "avg_cost": 8.094272667143299e-05
+      },
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": -4.07082089246,
+        "realized_pnl": -0.014732108515761734,
+        "avg_cost": 5.640937099567479e-05,
+        "timestamp": 1780858869
+      }
+    ],
+    "total_tokens": 2
+  },
+  "BmUcGk5Cnrzcdq9hy1oKrJ3FJi8bFEnytidXQxGx3mWb": {
+    "address": "BmUcGk5Cnrzcdq9hy1oKrJ3FJi8bFEnytidXQxGx3mWb",
+    "name": "BmUcGk5C",
+    "tags": [
+      "smart_degen",
+      "padre",
+      "fomo"
+    ],
+    "first_seen": 1780138863,
+    "last_seen": 1780138863,
+    "tokens": [
+      {
+        "addr": "GqYUT9cMQJ72GWMw5g8RC7rukc5XLPKXSWFjieXCpump",
+        "symbol": "WBS",
+        "mc_at_extract": 38149.14288339567,
+        "profit": -128.8326676911,
+        "realized_pnl": -0.5784213380504528,
+        "avg_cost": 5.376682325009159e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "3nG9zBc6fTne3j9kkS1CB5quyt25CS29GEjvMGNKmDSz": {
+    "address": "3nG9zBc6fTne3j9kkS1CB5quyt25CS29GEjvMGNKmDSz",
+    "name": "3nG9zBc6",
+    "tags": [
+      "smart_degen",
+      "gmgn"
+    ],
+    "first_seen": 1780858869,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": 164.77508110972,
+        "realized_pnl": 0.17501333405949213,
+        "avg_cost": 4.30205406255516e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "9fpUmh3Tv3UCdeHLyq3o4QhkTBu5XAbEiKP9FtGaSndb": {
+    "address": "9fpUmh3Tv3UCdeHLyq3o4QhkTBu5XAbEiKP9FtGaSndb",
+    "name": "9fpUmh3T",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "bullx",
+      "padre"
+    ],
+    "first_seen": 1780858869,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": 155.88316633757,
+        "realized_pnl": 0.1788795013858292,
+        "avg_cost": 4.560985864310348e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "FakckxEr9U29sWK7s3PNiit8c23xTi7XspbvB4nfLQih": {
+    "address": "FakckxEr9U29sWK7s3PNiit8c23xTi7XspbvB4nfLQih",
+    "name": "FakckxEr",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780858869,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": 67.56488030092,
+        "realized_pnl": 6.743428068859785,
+        "avg_cost": 5.405507567915803e-06
+      }
+    ],
+    "total_tokens": 1
+  },
+  "HV4cjkteGZ5g9HywDrM1HPC9f95PS9upzvH3MmgPfs53": {
+    "address": "HV4cjkteGZ5g9HywDrM1HPC9f95PS9upzvH3MmgPfs53",
+    "name": "HV4cjkte",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "gmgn"
+    ],
+    "first_seen": 1780858869,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": 63.80163783367,
+        "realized_pnl": 6.681864405151891,
+        "avg_cost": 5.453132652996948e-06
+      }
+    ],
+    "total_tokens": 1
+  },
+  "CQTc3FxSukLQQUseN4RqxRCLRNWxuQXUyCNFH9GQsfKo": {
+    "address": "CQTc3FxSukLQQUseN4RqxRCLRNWxuQXUyCNFH9GQsfKo",
+    "name": "CQTc3FxS",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780858869,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": 58.92819867101,
+        "realized_pnl": 6.702689239452824,
+        "avg_cost": 5.429603802550888e-06
+      }
+    ],
+    "total_tokens": 1
+  },
+  "7pfP6SKRsWpr1Smg4tWnHLvEfBrJz5aELPFdefzL11je": {
+    "address": "7pfP6SKRsWpr1Smg4tWnHLvEfBrJz5aELPFdefzL11je",
+    "name": "7pfP6SKR",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780858869,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": 8.92531480982,
+        "realized_pnl": 0.024711425718724336,
+        "avg_cost": 8.423103659190344e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "94iQuYjVgTwGXxtM7ywfpzfLvx3gN4oQRuc9osRE2pEm": {
+    "address": "94iQuYjVgTwGXxtM7ywfpzfLvx3gN4oQRuc9osRE2pEm",
+    "name": "94iQuYjV",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780858869,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": 4.0258650072,
+        "realized_pnl": 0.014593673382897406,
+        "avg_cost": 4.263872609602077e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "6wSN5yBvg7ndBtEfcNKFpgY7zoyvNoftXJ5a9zQwdXZp": {
+    "address": "6wSN5yBvg7ndBtEfcNKFpgY7zoyvNoftXJ5a9zQwdXZp",
+    "name": "6wSN5yBv",
+    "tags": [
+      "smart_degen",
+      "trojan"
+    ],
+    "first_seen": 1780858869,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": 0,
+        "realized_pnl": null,
+        "avg_cost": 0.00010198188065865249
+      }
+    ],
+    "total_tokens": 1
+  },
+  "4uG211pSVe8zs4vCek8zYVKL9cNdfPkVuBe8hGkWCCZh": {
+    "address": "4uG211pSVe8zs4vCek8zYVKL9cNdfPkVuBe8hGkWCCZh",
+    "name": "4uG211pS",
+    "tags": [
+      "smart_degen",
+      "padre"
+    ],
+    "first_seen": 1780858869,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": -4.53054876671,
+        "realized_pnl": -0.024153436449984,
+        "avg_cost": 9.214120631669888e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "71pAfN1nJhcLaezSRYvwdsNFE9PnY9hNfcxB4nZ1gdAp": {
+    "address": "71pAfN1nJhcLaezSRYvwdsNFE9PnY9hNfcxB4nZ1gdAp",
+    "name": "71pAfN1n",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1780858869,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": -25.97130514362,
+        "realized_pnl": -0.027871623438508363,
+        "avg_cost": 4.718523728724789e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "B3ZVbiVSmSbQ3MyPwJjqwrummRDfWjBcFcR9hnTt2adt": {
+    "address": "B3ZVbiVSmSbQ3MyPwJjqwrummRDfWjBcFcR9hnTt2adt",
+    "name": "B3ZVbiVS",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780858869,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": -35.54144824232634,
+        "realized_pnl": -0.3299446113325736,
+        "avg_cost": 7.780110354719685e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "5iFfo44ffJM1JA45QsdVWaP1UbK7U6sML3pjGk4hNn4E": {
+    "address": "5iFfo44ffJM1JA45QsdVWaP1UbK7U6sML3pjGk4hNn4E",
+    "name": "5iFfo44f",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1780858869,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": -62.835411759245005,
+        "realized_pnl": -0.14984980610796916,
+        "avg_cost": 5.569933107829109e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "4M5mWUecEGKzAMH5AYrm8gg9zyK7MNbCdxwB1nMfFHVG": {
+    "address": "4M5mWUecEGKzAMH5AYrm8gg9zyK7MNbCdxwB1nMfFHVG",
+    "name": "4M5mWUec",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "padre"
+    ],
+    "first_seen": 1780858869,
+    "last_seen": 1780858869,
+    "tokens": [
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 124230.55708439159,
+        "profit": -64.26593271052,
+        "realized_pnl": -0.15744907809794698,
+        "avg_cost": 3.481818946057217e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "AGcexQ1QEoN8aFxZV8mwXQ6DaxAbaGmmxbsy3zFJDKtc": {
+    "address": "AGcexQ1QEoN8aFxZV8mwXQ6DaxAbaGmmxbsy3zFJDKtc",
+    "name": "AGcexQ1Q",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "padre"
+    ],
+    "first_seen": 1781233276,
+    "last_seen": 1781233276,
+    "tokens": [
+      {
+        "addr": "DAYiaV6rooemiBBroroWwh44zykYoozsTirV8AYZpump",
+        "symbol": "HAPPY",
+        "mc_at_extract": 36021.196073220286,
+        "profit": 40.95658733641,
+        "realized_pnl": 0.17170761658125536,
+        "avg_cost": 6.964802828508512e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "93kgxYKex5wPyEkjH9P4KspLFAi3fdWBkw8vZce51pbp": {
+    "address": "93kgxYKex5wPyEkjH9P4KspLFAi3fdWBkw8vZce51pbp",
+    "name": "93kgxYKe",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1781233276,
+    "last_seen": 1781233276,
+    "tokens": [
+      {
+        "addr": "DAYiaV6rooemiBBroroWwh44zykYoozsTirV8AYZpump",
+        "symbol": "HAPPY",
+        "mc_at_extract": 36021.196073220286,
+        "profit": 14.05666957695,
+        "realized_pnl": 0.07515608088555652,
+        "avg_cost": 5.879810872630449e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "2yLEmibKDigJDi4bbjoSaMAHXQwCpAaEhnUbVsUbZSQN": {
+    "address": "2yLEmibKDigJDi4bbjoSaMAHXQwCpAaEhnUbVsUbZSQN",
+    "name": "2yLEmibK",
+    "tags": [
+      "smart_degen",
+      "axiom"
+    ],
+    "first_seen": 1781233276,
+    "last_seen": 1781233276,
+    "tokens": [
+      {
+        "addr": "DAYiaV6rooemiBBroroWwh44zykYoozsTirV8AYZpump",
+        "symbol": "HAPPY",
+        "mc_at_extract": 36021.196073220286,
+        "profit": 11.98447593144,
+        "realized_pnl": 0.21080304777795122,
+        "avg_cost": 3.135534009332982e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "AgTM7bcPQo2kkru8o2igeiwbAjJY2bubEHHZUQPRhyqG": {
+    "address": "AgTM7bcPQo2kkru8o2igeiwbAjJY2bubEHHZUQPRhyqG",
+    "name": "AgTM7bcP",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1781233276,
+    "last_seen": 1781233276,
+    "tokens": [
+      {
+        "addr": "DAYiaV6rooemiBBroroWwh44zykYoozsTirV8AYZpump",
+        "symbol": "HAPPY",
+        "mc_at_extract": 36021.196073220286,
+        "profit": -16.62674749544,
+        "realized_pnl": -0.4601618421589383,
+        "avg_cost": 1.4448866750503485e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "555CVoLLYrmo6KREkqrtpCeBBk2WjmYpYMjbQWvygCqF": {
+    "address": "555CVoLLYrmo6KREkqrtpCeBBk2WjmYpYMjbQWvygCqF",
+    "name": "555CVoLL",
+    "tags": [
+      "smart_degen"
+    ],
+    "first_seen": 1781233276,
+    "last_seen": 1781233276,
+    "tokens": [
+      {
+        "addr": "DAYiaV6rooemiBBroroWwh44zykYoozsTirV8AYZpump",
+        "symbol": "HAPPY",
+        "mc_at_extract": 36021.196073220286,
+        "profit": -36.64860187928,
+        "realized_pnl": -0.08450547226685383,
+        "avg_cost": 7.44026029476999e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "Br6ECo3NTAtNhYPVC5RpyuvpRMqnve4m7Y34iQ5SvQqX": {
+    "address": "Br6ECo3NTAtNhYPVC5RpyuvpRMqnve4m7Y34iQ5SvQqX",
+    "name": "Br6ECo3N",
+    "tags": [
+      "smart_degen",
+      "padre"
+    ],
+    "first_seen": 1781953256,
+    "last_seen": 1781953256,
+    "tokens": [
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 72269.86281382304,
+        "profit": 377.06520147416,
+        "realized_pnl": 0.7005241322078878,
+        "avg_cost": 5.188641582796161e-05
+      }
+    ],
+    "total_tokens": 1
+  },
+  "H4xqKevdcQ8PUoku8FMifTdUQrVJVkReqkVzrpoYNT1P": {
+    "address": "H4xqKevdcQ8PUoku8FMifTdUQrVJVkReqkVzrpoYNT1P",
+    "name": "zeldr1s",
+    "tags": [
+      "smart_degen",
+      "axiom",
+      "gmgn",
+      "padre"
+    ],
+    "first_seen": 1781953256,
+    "last_seen": 1781953256,
+    "tokens": [
+      {
+        "addr": "ssDhQuXpE9JgGkVQwbep54qqtSVXtzJQo2mFgM2pump",
+        "symbol": "America250",
+        "mc_at_extract": 72269.86281382304,
+        "profit": -3.6447634184,
+        "realized_pnl": -0.04387958585446595,
+        "avg_cost": 0.0001232829276537463
+      }
+    ],
+    "total_tokens": 1
+  }
+}

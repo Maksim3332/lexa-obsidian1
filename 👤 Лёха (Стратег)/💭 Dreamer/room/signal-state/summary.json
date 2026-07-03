@@ -1,0 +1,61 @@
+{
+  "items": {
+    "ghost-revival-scan \u2014 2 ghosts, check if any have fresh signals": {
+      "slug": "ghost-revival-scan \u2014 2 ghosts, check if any have fresh signals",
+      "state": "watching",
+      "score": 8,
+      "appearances": 53,
+      "signal_types": [],
+      "descriptions": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "mode": "pure-tangent",
+      "created_at": "2026-06-10 03:46:23",
+      "updated_at": "2026-07-03 03:11:55",
+      "walk_count": 53
+    },
+    "signal-log-empty \u2014 no signal log entries, signal filter may not be running": {
+      "slug": "signal-log-empty \u2014 no signal log entries, signal filter may not be running",
+      "state": "watching",
+      "score": 9,
+      "appearances": 54,
+      "signal_types": [
+        "cooling"
+      ],
+      "descriptions": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "mode": "tend-the-room",
+      "created_at": "2026-06-10 03:46:23",
+      "updated_at": "2026-07-03 03:11:55",
+      "walk_count": 54
+    },
+    "checkpoint-tokens-monitor \u2014 3 active tokens, may need review": {
+      "slug": "checkpoint-tokens-monitor \u2014 3 active tokens, may need review",
+      "state": "watching",
+      "score": 8,
+      "appearances": 4,
+      "signal_types": [],
+      "descriptions": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "mode": "drift-from-research",
+      "created_at": "2026-07-03 03:11:55",
+      "updated_at": "2026-07-03 03:11:55",
+      "walk_count": 4
+    }
+  },
+  "last_scan": "2026-07-03 03:11:55",
+  "sprint_lock": null
+}

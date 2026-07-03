@@ -1,0 +1,28 @@
+{
+  "id": "intent-1781753125-AYE SOLANA",
+  "type": "scalp",
+  "address": "9ZY7aKNXaNqxvKNPKCnFcEb5j68aEoaEw9pN5RmJEg7f",
+  "symbol": "AYE SOLANA",
+  "signal": "AYE SOLANA scored 97/100 [scalp] MC=$111,808",
+  "conviction": 0.95,
+  "action": "monitor",
+  "context": "Auto-detected by fasol-scanner: score=97, strategy=scalp",
+  "bucket": "scalp",
+  "source": "fasol-scanner",
+  "metadata": {
+    "score": 97,
+    "market_cap": 111808.35983863611,
+    "strategy": "scalp",
+    "breakdown": {
+      "security": 25,
+      "dev": 10,
+      "holders": 10,
+      "smart_money": 14,
+      "volume_quality": 5,
+      "cto": 5,
+      "technical": 23,
+      "social": 5
+    }
+  },
+  "timestamp": "2026-06-18T11:25:25.540902Z"
+}

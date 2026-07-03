@@ -1,0 +1,80 @@
+{
+  "timestamp": $(date +%s),
+  "datetime": "$(date '+%Y-%m-%d %H:%M:%S')",
+  "session": "2026-06-10 cluster follow-up",
+  "strategy": "SM Cluster — 48h comparison from 2026-06-08",
+  "comparison": {
+    "snapshot_ref": "2026-06-08_snapshot.json",
+    "interval_hours": 48,
+    "summary": {
+      "stable": ["AMERICA (-1.6%)", "KEKIUS (-7.1%)"],
+      "crashed": ["shibpost (-93.9%)", "POG (-97.3%)", "PHOTO (-87.0%)", "Teletubby (-77.6%)", "LIFE (-82.1%)"],
+      "sm_growth_on_dip": ["Teletubby +16 SM", "LIFE +10 SM"]
+    }
+  },
+  "tokens": {
+    "shibpost": {
+      "address": "FDNm4CDForJT5Nv5LCJHFKVA2oiGz3N7G9YpU5hJpump",
+      "price": 0.0000014936,
+      "mc": 1492,
+      "liquidity": 2702,
+      "sm": 9,
+      "holders": 139,
+      "vol_24h": 1048
+    },
+    "Teletubby": {
+      "address": "7s3hcgyeL7vaJkCQPVUjQTLC13sczS7qBUREyBWF4c5S",
+      "price": 0.000035023,
+      "mc": 29752,
+      "liquidity": 14543,
+      "sm": 24,
+      "holders": 610,
+      "vol_24h": 579040
+    },
+    "POG": {
+      "address": "2WoyrRkeWn84fZTG2eeqTiUMcpmfpUnvSdwJNdXnfund",
+      "price": 0.0000018539,
+      "mc": 1853,
+      "liquidity": 3056,
+      "sm": 8,
+      "holders": 197,
+      "vol_24h": 1143
+    },
+    "PHOTO": {
+      "address": "BgJb11D5NG9h8hTxDxxSnFZ3xMns5XeC1trY4kBSpump",
+      "price": 0.000009196,
+      "mc": 9193,
+      "liquidity": 7672,
+      "sm": 31,
+      "holders": 574,
+      "vol_24h": 68543
+    },
+    "KEKIUS": {
+      "address": "Cxtd4j9mVysEoE8JRiiyhPoqa59mfU6JW58jy34GPump",
+      "price": 0.00018276,
+      "mc": 182762,
+      "liquidity": 32477,
+      "sm": 33,
+      "holders": 610,
+      "vol_24h": 54355
+    },
+    "AMERICA": {
+      "address": "AVA8YuCsD2YgUSpdv3Hb2cjpdf8XAhGwyXmchxwopump",
+      "price": 0.00111598,
+      "mc": 1115974,
+      "liquidity": 102909,
+      "sm": 33,
+      "holders": 2881,
+      "vol_24h": 189741
+    },
+    "LIFE": {
+      "address": "J8cXU1EFi1SCTJ9XYpBnjqQ7nVLETNLFaRaHCP3RLiFE",
+      "price": 0.000060004,
+      "mc": 57734,
+      "liquidity": 19712,
+      "sm": 43,
+      "holders": 1280,
+      "vol_24h": 581473
+    }
+  }
+}

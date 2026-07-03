@@ -1,0 +1,21 @@
+{
+  "skill": "quick-scan",
+  "judged_at": "2026-06-10T17:35:10Z",
+  "judge_version": "1.0",
+  "performance": {
+    "skill": "quick-scan",
+    "total": 1,
+    "success": 1,
+    "fail": 0,
+    "success_rate": 100.0,
+    "avg_duration_ms": 0,
+    "total_duration_ms": 0
+  },
+  "verdict": "great",
+  "score": 95,
+  "issues": [],
+  "recommendations": [
+    "add more output fields",
+    "improve error handling"
+  ]
+}

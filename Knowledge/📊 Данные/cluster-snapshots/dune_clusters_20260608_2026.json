@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-06-08T20:26:39.700415",
+  "source": "dune_wallets_48h",
+  "dune_query_id": 7676764,
+  "total_wallets": 30,
+  "clusters": [
+    {
+      "token": "DDW9x7Drg8BxkupRm6ENEfguK6MJEHTdQRH9JiRgpump",
+      "symbol": "Spongebob",
+      "shared_wallets": 2,
+      "wallets": [
+        "EVsZb1mJwRypXK7K7KbBXozi67zzL3ndxB1pSyq6WjNe",
+        "9bchaVHbnaLMi9sgeNfctdxQiFGju8ypvarsQPGmhrih"
+      ],
+      "volume": 21.165610753
+    },
+    {
+      "token": "Bs9y1GWSsQD7v2o4amCFiT6ehCYFo5GSh5JkMznpump",
+      "symbol": "Frankie",
+      "shared_wallets": 2,
+      "wallets": [
+        "EVsZb1mJwRypXK7K7KbBXozi67zzL3ndxB1pSyq6WjNe",
+        "9bchaVHbnaLMi9sgeNfctdxQiFGju8ypvarsQPGmhrih"
+      ],
+      "volume": 15.198564902
+    },
+    {
+      "token": "DcJGGJooE5naoGrxZ3ajGwuR5gTqAUmWzzDR9qqepump",
+      "symbol": "POLY",
+      "shared_wallets": 2,
+      "wallets": [
+        "9bchaVHbnaLMi9sgeNfctdxQiFGju8ypvarsQPGmhrih",
+        "GZPBumZdKY1wVc9oeZz1RpZnko9VqMHxL5C4H4oFPtEc"
+      ],
+      "volume": 16.116639589000002
+    },
+    {
+      "token": "9TJzt53bUa96wZQquMGAquSvAoJjFH5SUvcG2RYopump",
+      "symbol": "Mindanao",
+      "shared_wallets": 2,
+      "wallets": [
+        "9bchaVHbnaLMi9sgeNfctdxQiFGju8ypvarsQPGmhrih",
+        "5ZuV8eqkvzYFVEKbLvGBdexL2tFv7E5BCd2HZpjqbdg"
+      ],
+      "volume": 67.625564692
+    },
+    {
+      "token": "GKHp7MvswCfHN3pK5vGG3h5a9xcYmxRTEJEV1s7zpump",
+      "symbol": "Mindano",
+      "shared_wallets": 2,
+      "wallets": [
+        "9bchaVHbnaLMi9sgeNfctdxQiFGju8ypvarsQPGmhrih",
+        "5ZuV8eqkvzYFVEKbLvGBdexL2tFv7E5BCd2HZpjqbdg"
+      ],
+      "volume": 42.80686311400001
+    },
+    {
+      "token": "ASnyMZjZeAVVRRgCLWV1gDEVdXRrP6evMScNsSLEpump",
+      "symbol": "Bull",
+      "shared_wallets": 2,
+      "wallets": [
+        "3JwkJxvbC7hXHpRHEWLcGYQShCgCfAV7noxyhYdwb9vy",
+        "BzZAu2gRietbf1hziENk4JPFGEnAAQ3fWFt4UdR44GKw"
+      ],
+      "volume": 52.553685955
+    }
+  ]
+}

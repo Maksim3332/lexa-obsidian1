@@ -1,0 +1,2 @@
+{"ts": "2026-06-22T20:27:19.455880", "action": "approved", "token": "BQnsQ7LrcKVU", "amount_sol": 0, "score": 100.0, "status": "approved", "reason": "Passed all checks"}
+{"ts": "2026-06-22T20:27:20.313323", "action": "failed", "token": "BQnsQ7LrcKVU", "amount_sol": 0, "score": 100.0, "status": "failed", "reason": "[gmgn-cli] POST /v1/trade/swap failed: HTTP 401 code=401 error=AUTH_KEY_INVALID message=api key invalid"}

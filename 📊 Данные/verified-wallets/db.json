@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "created": "2026-06-08T20:36:00.860439",
+    "description": "\u041f\u0440\u043e\u0432\u0435\u0440\u0435\u043d\u043d\u044b\u0435 \u043a\u043e\u0448\u0435\u043b\u044c\u043a\u0438 \u2014 \u0442\u043e\u043b\u044c\u043a\u043e \u0438\u0437 \u0442\u043e\u043a\u0435\u043d\u043e\u0432, \u0434\u0430\u0432\u0448\u0438\u0445 2x+ \u043e\u0442 \u0446\u0435\u043d\u044b \u043d\u0430\u0445\u043e\u0434\u0430",
+    "version": 2
+  },
+  "wallets": {
+    "AoGefnxF5CbZvbd2cvxv4Ex1E5j86dqEjehazRuMcMFe": {
+      "added_from": "dune_winrate70_query_7676969",
+      "added_at": "2026-06-08T21:10:42.291174",
+      "profit_known": 54820.38,
+      "winrate": 85.7,
+      "avg_pnl_pct": 271.75,
+      "tags": [
+        "dev",
+        "king_dev"
+      ],
+      "source_tokens": [
+        "DUNE_ELITE"
+      ],
+      "total_hits": 1
+    },
+    "5ZuV8eqkvzYFVEKbLvGBdexL2tFv7E5BCd2HZpjqbdg": {
+      "added_from": "dune_winrate70_query_7676969 + fasol_known",
+      "added_at": "2026-06-08T21:11:00.000000",
+      "profit_known": 1352.32,
+      "winrate": 100.0,
+      "avg_pnl_pct": 2773.62,
+      "tags": [
+        "dev",
+        "elite_dev",
+        "fasol_known"
+      ],
+      "source_tokens": [
+        "DUNE_ELITE"
+      ],
+      "total_hits": 1
+    }
+  },
+  "tokens": {},
+  "history": [
+    {
+      "action": "reset_cleared_dune_wallets",
+      "reason": "Dune wallets not proven 2x+",
+      "timestamp": "2026-06-08T20:36:00.860454"
+    },
+    {
+      "action": "manual_add_king",
+      "wallet": "AoGefnxF5CbZvbd2cvxv4Ex1E5j86dqEjehazRuMcMFe",
+      "reason": "top performer: wr 85.7%, avgPnL 272%, profit 54.8K SOL",
+      "timestamp": "2026-06-08T21:10:42.291195"
+    },
+    {
+      "action": "manual_add",
+      "wallet": "5ZuV8eqkvzYFVEKbLvGBdexL2tFv7E5BCd2HZpjqbdg",
+      "reason": "top performer: wr 100%, avgPnL 2774%, profit 1,352 SOL",
+      "timestamp": "2026-06-08T21:11:00.000000"
+    }
+  ]
+}

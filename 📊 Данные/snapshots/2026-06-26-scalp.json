@@ -1,0 +1,71 @@
+{
+  "timestamp": 1782468001,
+  "datetime": "2026-06-26",
+  "type": "scalp",
+  "strategy_params": {
+    "min_mc": 30000,
+    "max_mc": 300000,
+    "min_vol_mc_ratio": 5,
+    "max_bot_rate": 0.5,
+    "gold_zone_min": 50000,
+    "gold_zone_max": 150000
+  },
+  "candidates": [
+    {
+      "address": "9yvUfCzLpVmDKt8TATMo4SostnoLU47hi8MJK7o5vyqG",
+      "symbol": "tuffcat",
+      "mc": 39240.35,
+      "liquidity": 36977.3,
+      "volume": 1504790.0,
+      "vol_mc_ratio": 38.35,
+      "smart_money": 0,
+      "bot_rate": 0.427,
+      "holders": 834,
+      "price": 3.9240351e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "BVw25Jh3ZQCFzXMjRnagVYQBxH5qSH9pnvmX6T1nRVVC",
+      "symbol": "ASTEROID",
+      "mc": 61058.29,
+      "liquidity": 20826.2,
+      "volume": 1314650.0,
+      "vol_mc_ratio": 21.53,
+      "smart_money": 0,
+      "bot_rate": 0.124,
+      "holders": 2071,
+      "price": 6.1058289e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "AK4G9ZFWbsDyykcpJ8e5LzYAfxcjxJMuw4cmKe3g2WHn",
+      "symbol": "SUSHIPETS",
+      "mc": 67787.59,
+      "liquidity": 20296.8,
+      "volume": 836671.0,
+      "vol_mc_ratio": 12.34,
+      "smart_money": 0,
+      "bot_rate": 0.0314,
+      "holders": 308,
+      "price": 6.7787587e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "AcHyd1Y3oCfY7G594ja5zwJYJ7ngmNwu1ZqJEY4hmhaL",
+      "symbol": "BNRG",
+      "mc": 84482.2,
+      "liquidity": 0.02,
+      "volume": 553065.0,
+      "vol_mc_ratio": 6.55,
+      "smart_money": 0,
+      "bot_rate": 0.1346,
+      "holders": 2140,
+      "price": 8.4482195e-05,
+      "source": "trending_1h"
+    }
+  ],
+  "count": 4,
+  "gold_zone_count": 3,
+  "with_sm_count": 0,
+  "with_sm3_count": 0
+}

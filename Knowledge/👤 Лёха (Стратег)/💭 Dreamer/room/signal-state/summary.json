@@ -1,0 +1,40 @@
+{
+  "items": {
+    "ghost-revival-scan \u2014 2 ghosts, check if any have fresh signals": {
+      "slug": "ghost-revival-scan \u2014 2 ghosts, check if any have fresh signals",
+      "state": "watching",
+      "score": 6,
+      "appearances": 3,
+      "signal_types": [],
+      "descriptions": [
+        "",
+        "",
+        ""
+      ],
+      "mode": "pure-tangent",
+      "created_at": "2026-06-10 03:46:23",
+      "updated_at": "2026-06-10 04:02:31",
+      "walk_count": 3
+    },
+    "signal-log-empty \u2014 no signal log entries, signal filter may not be running": {
+      "slug": "signal-log-empty \u2014 no signal log entries, signal filter may not be running",
+      "state": "watching",
+      "score": 7,
+      "appearances": 3,
+      "signal_types": [
+        "cooling"
+      ],
+      "descriptions": [
+        "",
+        "",
+        ""
+      ],
+      "mode": "tend-the-room",
+      "created_at": "2026-06-10 03:46:23",
+      "updated_at": "2026-06-10 04:02:31",
+      "walk_count": 3
+    }
+  },
+  "last_scan": "2026-06-10 04:02:31",
+  "sprint_lock": null
+}

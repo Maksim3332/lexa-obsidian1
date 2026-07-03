@@ -1,0 +1,10 @@
+{
+  "id": "20260611013440_11586",
+  "timestamp": "2026-06-10T17:34:40Z",
+  "skill": "quick-scan",
+  "status": "success",
+  "input": {"address":"test123"},
+  "output_summary": "token analyzed OK\n",
+  "duration_ms": 3200,
+  "session_id": "unknown"
+}

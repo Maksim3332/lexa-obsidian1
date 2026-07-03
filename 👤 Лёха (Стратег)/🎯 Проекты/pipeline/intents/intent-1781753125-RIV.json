@@ -1,0 +1,28 @@
+{
+  "id": "intent-1781753125-RIV",
+  "type": "early",
+  "address": "HREUDWzLtmJrMjav48RY9iPRJr9r8KoTBLjWNjdPpump",
+  "symbol": "RIV",
+  "signal": "RIV scored 95/100 [early] MC=$425,393",
+  "conviction": 0.95,
+  "action": "monitor",
+  "context": "Auto-detected by fasol-scanner: score=95, strategy=early",
+  "bucket": "early",
+  "source": "fasol-scanner",
+  "metadata": {
+    "score": 95,
+    "market_cap": 425393.13793165906,
+    "strategy": "early",
+    "breakdown": {
+      "security": 25,
+      "dev": 15,
+      "holders": 14,
+      "smart_money": 6,
+      "volume_quality": 13,
+      "cto": 0,
+      "technical": 15,
+      "social": 7
+    }
+  },
+  "timestamp": "2026-06-18T11:25:25.646282Z"
+}

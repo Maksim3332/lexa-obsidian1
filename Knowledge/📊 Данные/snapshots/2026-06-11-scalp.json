@@ -1,0 +1,45 @@
+{
+  "timestamp": 1781172001,
+  "datetime": "2026-06-11",
+  "type": "scalp",
+  "strategy_params": {
+    "min_mc": 30000,
+    "max_mc": 300000,
+    "min_vol_mc_ratio": 5,
+    "max_bot_rate": 0.5,
+    "gold_zone_min": 50000,
+    "gold_zone_max": 150000
+  },
+  "candidates": [
+    {
+      "address": "BKyPHnGyq4CmTZaM8dx8TUjAkvJwcwXj8Ed3yiKuo55k",
+      "symbol": "SPCX",
+      "mc": 48964.5,
+      "liquidity": 61665.0,
+      "volume": 2268450.0,
+      "vol_mc_ratio": 46.33,
+      "smart_money": 0,
+      "bot_rate": 0.3183,
+      "holders": 1025,
+      "price": 4.89651e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "HtAV52r8KFuHURnwJqnX2nLHKBq3kALGpBhxUvfjia8u",
+      "symbol": "SPCX",
+      "mc": 72829.8,
+      "liquidity": 105966.0,
+      "volume": 1353750.0,
+      "vol_mc_ratio": 18.59,
+      "smart_money": 0,
+      "bot_rate": 0.2503,
+      "holders": 1145,
+      "price": 7.28298e-05,
+      "source": "trending_1h"
+    }
+  ],
+  "count": 2,
+  "gold_zone_count": 1,
+  "with_sm_count": 0,
+  "with_sm3_count": 0
+}

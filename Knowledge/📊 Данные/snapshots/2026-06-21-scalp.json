@@ -1,0 +1,110 @@
+{
+  "timestamp": 1782014402,
+  "datetime": "2026-06-21",
+  "type": "scalp",
+  "strategy_params": {
+    "min_mc": 30000,
+    "max_mc": 300000,
+    "min_vol_mc_ratio": 5,
+    "max_bot_rate": 0.5,
+    "gold_zone_min": 50000,
+    "gold_zone_max": 150000
+  },
+  "candidates": [
+    {
+      "address": "9AdGdV46Kuuo8tAYU9g4ZFEhYtR4auVEHKj3mopapump",
+      "symbol": "RTM",
+      "mc": 124261.2,
+      "liquidity": 28591.0,
+      "volume": 843746.0,
+      "vol_mc_ratio": 6.79,
+      "smart_money": 18,
+      "bot_rate": 0.3757,
+      "holders": 896,
+      "price": 0.00012426136,
+      "source": "trending_1h"
+    },
+    {
+      "address": "FR2PQ9j3N3aVJpAMS1sL5Gvvf6N3xaJU59kiYkmSkk8w",
+      "symbol": "PUMPTOWN",
+      "mc": 55838.01,
+      "liquidity": 40743.5,
+      "volume": 825400.0,
+      "vol_mc_ratio": 14.78,
+      "smart_money": 0,
+      "bot_rate": 0.4614,
+      "holders": 1053,
+      "price": 5.5838009e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "BuDSVwdpD9K7td5bq6ZHxqN8sErjK2mZw85XVEhoaQ3f",
+      "symbol": "GTDH",
+      "mc": 43689.17,
+      "liquidity": 33601.4,
+      "volume": 721203.0,
+      "vol_mc_ratio": 16.51,
+      "smart_money": 0,
+      "bot_rate": 0.2859,
+      "holders": 2006,
+      "price": 4.3689166e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "Bk59u9gg48bGgcjLmJz6Cxr5zBGNih4YX9ZSZuxbzZWL",
+      "symbol": "RTM",
+      "mc": 37141.05,
+      "liquidity": 53907.1,
+      "volume": 574192.0,
+      "vol_mc_ratio": 15.46,
+      "smart_money": 0,
+      "bot_rate": 0.0717,
+      "holders": 182,
+      "price": 3.7141054e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "H3oRLCwTW4BuLwZhJd1dNfH3hjc6y52Pa9fpWjHDA4hT",
+      "symbol": "Spongebob",
+      "mc": 34710.66,
+      "liquidity": 33478.7,
+      "volume": 367919.0,
+      "vol_mc_ratio": 10.6,
+      "smart_money": 0,
+      "bot_rate": 0.4705,
+      "holders": 263,
+      "price": 3.4710655e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "AkWT7AEAHdX49GMPyWj88npESkV4o4AG5Lg3NK8spump",
+      "symbol": "Solvengers",
+      "mc": 66541.79,
+      "liquidity": 17791.6,
+      "volume": 360909.0,
+      "vol_mc_ratio": 5.42,
+      "smart_money": 22,
+      "bot_rate": 0.4972,
+      "holders": 484,
+      "price": 6.6541915e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "2p286noQDgtJHr1HCggh8tkHfD41BKwr5AM99u9R36E5",
+      "symbol": "RTM",
+      "mc": 76275.48,
+      "liquidity": 116768.61,
+      "volume": 429752.82,
+      "vol_mc_ratio": 5.63,
+      "smart_money": 0,
+      "bot_rate": 0.2169,
+      "holders": 291,
+      "price": 7.6275478e-05,
+      "source": "trenches"
+    }
+  ],
+  "count": 7,
+  "gold_zone_count": 4,
+  "with_sm_count": 2,
+  "with_sm3_count": 2
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Build Intent — Dreamer output",
+  "type": "object",
+  "required": ["id", "type", "address", "signal", "conviction", "action", "context", "timestamp"],
+  "properties": {
+    "id": {"type": "string", "description": "Unique intent ID (uuid or timestamp-based)"},
+    "type": {"type": "string", "enum": ["alert", "gem", "cluster", "scalp", "v3", "calibrate", "infra"], "description": "Type of signal"},
+    "address": {"type": "string", "description": "Token address (if applicable)"},
+    "symbol": {"type": "string", "description": "Token symbol"},
+    "signal": {"type": "string", "description": "Human-readable signal description"},
+    "conviction": {"type": "number", "minimum": 0, "maximum": 1, "description": "Conviction score 0-1"},
+    "action": {"type": "string", "enum": ["analyze", "monitor", "buy", "calibrate", "alert", "skip"], "description": "Recommended action"},
+    "context": {"type": "string", "description": "Why this is interesting now"},
+    "bucket": {"type": "string", "enum": ["deep_dip", "sm_convergence", "scalp", "hold", "v3"], "description": "Strategy bucket"},
+    "source": {"type": "string", "description": "Source of the signal (fasol-scanner, gem-pipeline, tg-calls, etc.)"},
+    "metadata": {"type": "object", "description": "Additional data (score, MC, etc.)"},
+    "timestamp": {"type": "string", "format": "date-time"}
+  }
+}

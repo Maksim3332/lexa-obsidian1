@@ -1,0 +1,6 @@
+{
+  "updated": "2026-06-05T14:30:00Z",
+  "active_positions": [],
+  "open_decisions": [],
+  "notes": "Auto-trader reads this file for execution. Empty = no active trades."
+}

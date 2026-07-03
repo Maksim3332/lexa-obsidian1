@@ -1,0 +1,17 @@
+{
+  "id": "intent-1781753125-tg-?",
+  "type": "scalp",
+  "address": "yap7y9uXjQVTLzQbVvrbxcLSSV12xFbaBNBeVmjFCn7",
+  "symbol": "?",
+  "signal": "TG signal from memtrade",
+  "conviction": 0.3,
+  "action": "analyze",
+  "context": "Telegram signal: ",
+  "bucket": "scalp",
+  "source": "tg-calls",
+  "metadata": {
+    "source": "memtrade",
+    "name": ""
+  },
+  "timestamp": "2026-06-18T11:25:25.927643Z"
+}

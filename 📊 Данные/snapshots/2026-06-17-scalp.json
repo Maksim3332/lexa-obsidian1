@@ -1,0 +1,58 @@
+{
+  "timestamp": 1781690402,
+  "datetime": "2026-06-17",
+  "type": "scalp",
+  "strategy_params": {
+    "min_mc": 30000,
+    "max_mc": 300000,
+    "min_vol_mc_ratio": 5,
+    "max_bot_rate": 0.5,
+    "gold_zone_min": 50000,
+    "gold_zone_max": 150000
+  },
+  "candidates": [
+    {
+      "address": "GHUySZoTxrjTxGp7Gyofus7X23RnhKu2Qf9kZVjeud8B",
+      "symbol": "Tesla",
+      "mc": 32523.69,
+      "liquidity": 28000.5,
+      "volume": 641393.0,
+      "vol_mc_ratio": 19.72,
+      "smart_money": 0,
+      "bot_rate": 0.3369,
+      "holders": 1211,
+      "price": 3.2523689e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "FXZ7CrPDFejKQqrokWzw1ChqrQGstVmgvBxAuaXM1LEu",
+      "symbol": "Meepcat",
+      "mc": 37004.78,
+      "liquidity": 54157.0,
+      "volume": 218049.0,
+      "vol_mc_ratio": 5.89,
+      "smart_money": 0,
+      "bot_rate": 0.1668,
+      "holders": 113,
+      "price": 3.7004779e-05,
+      "source": "trending_1h"
+    },
+    {
+      "address": "FJ6aHwfWbjFdLz2aTj7XQ26hZfsRieQnnHKFARGoR66U",
+      "symbol": "Crab",
+      "mc": 68747.79,
+      "liquidity": 114254.03,
+      "volume": 1255954.78,
+      "vol_mc_ratio": 18.27,
+      "smart_money": 0,
+      "bot_rate": 0.1494,
+      "holders": 964,
+      "price": 6.874779e-05,
+      "source": "trenches"
+    }
+  ],
+  "count": 3,
+  "gold_zone_count": 1,
+  "with_sm_count": 0,
+  "with_sm3_count": 0
+}
